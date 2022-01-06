@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Muguet, Fresh",
+    "family": "Floral",
+    "flashpoint": "> 100°C",
+    "formula": "4,8-Dimethyl-4,9-decadienal",
+    "gc": "Min. 85%",
+    "identificationNumbers": {
+        "cas": "71077-31-1",
+        "ipc": "062166",
+        "reach": "01-2120119803-60"
+    },
+    "impact": {
+        "base": "1",
+        "heart": "2",
+        "top": "3"
+    },
+    "logP": "4.38",
+    "molecularWeight": "180",
+    "name": "Floral Super",
+    "olfactiveId": "Air",
+    "olfactoryDescription": "Concentrated fresh cyclamen floral note with intense power.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Traces to 1%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.012507 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

@@ -1,0 +1,79 @@
+{
+    "facet": "Woody, Spicy, Animalic",
+    "family": "Amber",
+    "flashpoint": "94°C",
+    "formula": "1,2,3,5,6,7-Hexahydro-1,1,2,3,3-pentamethyl-4H-inden-4-one",
+    "gc": "Sum isomers min. 95%",
+    "identificationNumbers": {
+        "cas": "33704-61-9",
+        "ipc": "032329",
+        "reach": "01-2119977131-40"
+    },
+    "impact": {
+        "base": "2",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "4.5",
+    "molecularWeight": "206.2",
+    "name": "Cashmeran®",
+    "olfactiveId": "Mystical",
+    "olfactoryDescription": "Diffusive, spicy, animalic odor with strong floral reinforcement. Powdery, velvet nuance. Long lasting. Aromatic, apple, earthy, amber woody, red fruit, pine.",
+    "performanceTable": [
+        {
+            "performance": "Excellent",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Bleach",
+            "stability": "Moderate"
+        }
+    ],
+    "substantivity": "48 hours",
+    "useLevel": "Traces to 2%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.009316 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow solid"
+}

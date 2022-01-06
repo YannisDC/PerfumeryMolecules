@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Musk, Geranium",
+    "family": "Floral",
+    "flashpoint": "88°C",
+    "formula": "alpha,3,3-Trimethylcyclohexylmethyl acetate",
+    "gc": "Sum isomers min. 85%",
+    "identificationNumbers": {
+        "cas": "25225-10-9",
+        "ipc": "180652",
+        "reach": "Not yet required"
+    },
+    "impact": {
+        "base": "1",
+        "heart": "1",
+        "top": "2"
+    },
+    "logP": "4.42",
+    "molecularWeight": "198.3",
+    "name": "Rosamusk",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "Unusual combination of rose with musky, pear, violetty modifications. Also discernible are fruity and geranium aspects. Superb for cosmetic applications.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "< 3 hours",
+    "useLevel": "Up to 20%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.067476 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

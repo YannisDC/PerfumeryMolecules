@@ -1,0 +1,69 @@
+{
+    "general": {
+        "description": "Givescone is used where real innovation is required. It has a complex odour picture, with floral, spicy, fruity, woody and evenherbaceous nuances.It blends particularly well with rose, carnation, aldehydes, chypre and fougère, and with aromatic and spicynotes.",
+        "family": "Floral",
+        "givaudanNumber": "5542803",
+        "name": "Givescone®",
+        "note": [
+            "Floral",
+            "Rose",
+            "Spicy",
+            "Fruity",
+            "Woody"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "20 hours",
+        "useLevel": "1% - 10%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "57934-97-177851-07-1",
+        "formula": "C13H22O2",
+        "logP": "4,9",
+        "molecularWeight": "210.3",
+        "name": "2-[5(6)-Methyl-7(8)-(1-methylethyl)bicyclo[2.2.2]oct-5-en-2-yl]-1,3-dioxolane",
+        "vapourPressure": "0.0640 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

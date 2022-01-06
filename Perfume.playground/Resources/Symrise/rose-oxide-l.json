@@ -1,0 +1,54 @@
+{
+    "CASNumber": "16409-43-1",
+    "FEMANumber": "3236",
+    "FLAVISNumber": "13.037",
+    "INCIName": "",
+    "IUPACName": "4-Methyl-2-(2-methylprop-1-en-1-yl)tetrahydro-2H-pyran",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        "mango",
+        "rose",
+        "herbal",
+        "fruity"
+    ],
+    "molecularWeight": "154.25",
+    "olfactoryDescription": [
+        "floral",
+        "rose",
+        "green"
+    ],
+    "olfactoryFamily": "floral",
+    "perfumeryUse": "important for the creation of rose notes; adds a natural geranium aspect",
+    "productName": "Rose oxide L",
+    "productNumber": "130780",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "very good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "very good"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "good"
+        },
+        {
+            "cleanerapc liquid": "very good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "",
+    "useLevel": "traces up to 2%",
+    "usefulIn": "spices/herbs, yellow fruit, tropical fruit, fruit others, sweet others, alcoholics"
+}

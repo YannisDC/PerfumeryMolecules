@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Pharaone 10%/DPG has a new fruity green, natural aspect which adds value to both consumer products and fine fragrancecreation.It is extremely powerful and diffusive. It gives freshness and lift to the top and mid notes. It is suitable in all kind ofaccords, especially citrus, floral, fruity, green, woody, agrestic and fougere.",
+        "family": "Green",
+        "givaudanNumber": "0014363",
+        "name": "Pharaone® 10%/DPG",
+        "note": [
+            "Green",
+            "Fruity",
+            "Pineapple",
+            "Aromatic"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "4 days",
+        "useLevel": "0.1% - 2.5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "313973-37-4",
+        "formula": "C13H20O",
+        "logP": "3,5",
+        "molecularWeight": "192.3",
+        "name": "2-Cyclohexyl-1,6-heptadien-3-one (10% solution indipropylene glycol)",
+        "vapourPressure": "0.0241 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

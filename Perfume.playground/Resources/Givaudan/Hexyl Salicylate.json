@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Hexyl Salicylate has a floral fruity character, with a mild, sweet herbaceous slant.It is a very useful modifier of floral fragrancesespecially with Amyl Salicylate.",
+        "family": "Floral",
+        "givaudanNumber": "8826001",
+        "name": "Hexyl Salicylate",
+        "note": [
+            "Floral",
+            "Green",
+            "Fruity"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "Several weeks",
+        "useLevel": "2 - 5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "6259-76-3",
+        "formula": "C13H18O3",
+        "logP": "4,9",
+        "molecularWeight": "222,2",
+        "name": "Hexyl 2-hydroxybenzoate",
+        "vapourPressure": "0.0013 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "facet": "Green, Marine, Fruity",
+    "family": "Floral",
+    "flashpoint": "118°C",
+    "formula": "Octahydro-4,7-methano-1H-indene-5-acetaldehyde",
+    "gc": "Sum isomers min 97%",
+    "identificationNumbers": {
+        "cas": "1339119-15-1/1338815-87-4",
+        "ipc": "134635",
+        "reach": "01-2120045427-57"
+    },
+    "impact": {
+        "base": "2",
+        "heart": "2",
+        "top": "3"
+    },
+    "logP": "3.0",
+    "molecularWeight": "178",
+    "name": "Aquaflora™",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "A nice floral Muguet note with a fresh green, aquatic naturalcy. Aquaflora gives a distinct floralcy by significantly increasing the body of fragrances.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 5%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.001567 mm Hg @ 23°C",
+    "visual": "Clear colorless liquid"
+}

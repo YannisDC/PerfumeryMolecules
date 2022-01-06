@@ -1,0 +1,31 @@
+{
+    "CASNumber": "470-82-6",
+    "FEMANumber": "2465",
+    "FLAVISNumber": "03.001",
+    "INCIName": "Eucalyptol",
+    "IUPACName": "1,3,3-Trimethyl-2-oxabicyclo[2.2.2]octane",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        "eucalyptus",
+        "fresh",
+        "cooling",
+        "herbal"
+    ],
+    "molecularWeight": "154.28",
+    "olfactoryDescription": [
+        "aromatic",
+        "eucalyptus",
+        "herbal",
+        "camphor",
+        "lavender"
+    ],
+    "olfactoryFamily": "aromatic",
+    "perfumeryUse": "",
+    "productName": "Eucalyptol natural",
+    "productNumber": "130301",
+    "stability": [],
+    "synonyms": "1, 8-Cineole, 1, 8-Epoxy-para-menthane",
+    "useLevel": "up to 5%",
+    "usefulIn": "mint, spices/herbs"
+}

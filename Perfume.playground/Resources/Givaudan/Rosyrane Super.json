@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Rosyrane Super has an intense, diffusive rose character with green, geranium and metallic notes.It is particularly suited to be theheart of a very diffusive rose or geranium complex especially in air freshners.",
+        "family": "Floral",
+        "givaudanNumber": "5845523",
+        "name": "Rosyrane Super",
+        "note": [
+            "Floral",
+            "Rose",
+            "Geranium",
+            "Green"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "Several days",
+        "useLevel": "0.1% - 2%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "60335-71-9",
+        "formula": "C12H14O",
+        "logP": "3,8",
+        "molecularWeight": "174",
+        "name": "4-Methyl-2-phenyl-3,6-dihydro-2H-pyran & 4-Methyl-6-phenyl-3,6-dihydro-2H-pyran & 4-Methylene-2-phenyltetrahydro-2H-pyran (mixture of isomers)",
+        "vapourPressure": ""
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Good",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Good",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

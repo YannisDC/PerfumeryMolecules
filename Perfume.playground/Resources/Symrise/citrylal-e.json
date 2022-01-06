@@ -1,0 +1,51 @@
+{
+    "CASNumber": "90480-35-6, 147060-73-9",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "",
+    "olfactoryDescription": [
+        "citrus",
+        "lime",
+        "herbal"
+    ],
+    "olfactoryFamily": "citrus",
+    "perfumeryUse": "lime top note booster; typical note for the creation of citrussy surface cleaners;valuable note for coniferous concepts",
+    "productName": "Citrylal E",
+    "productNumber": "106150",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "very good"
+        },
+        {
+            "soap": "very good"
+        },
+        {
+            "ap roll-on 15%": "poor"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleaner apcliquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "2, 6-Octadienal, 3, 7-dimethyl-,acid-isomerized",
+    "useLevel": "",
+    "usefulIn": ""
+}

@@ -1,0 +1,79 @@
+{
+    "facet": "Woody, Herbal, Fruity",
+    "family": "Woody",
+    "flashpoint": "99°C",
+    "formula": "2-tert-Pentylcyclohexyl acetate",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "67874-72-0",
+        "ipc": "036110",
+        "reach": "01-2120739099-45"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "1",
+        "top": "1"
+    },
+    "logP": "4.91",
+    "molecularWeight": "212.3",
+    "name": "Coniferan Pure",
+    "olfactiveId": "Intimate",
+    "olfactoryDescription": "Fresh, clean, cooling balsamic note with hints of cedarwood and sweet camphor.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Excellent"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Acid Cleaner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Liquid Detergent",
+            "stability": "Excellent"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Excellent"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Fabric Conditioner",
+            "stability": "Excellent"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Excellent"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Excellent"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Bleach",
+            "stability": "Good"
+        }
+    ],
+    "substantivity": "24 hours",
+    "useLevel": "Up to 10%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.031802 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

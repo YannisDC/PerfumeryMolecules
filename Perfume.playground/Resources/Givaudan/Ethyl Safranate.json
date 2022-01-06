@@ -1,0 +1,69 @@
+{
+    "general": {
+        "description": "Ethyl Safranate is a complex diffusive spicy rose note with apple cider and spicy aspects.This rich and versatile ingredient is usedin a wide range of fragrance types, from floral through to fruity, particularly apple. Ethyl Safranate gives body and radiance in finefragrance and toiletries, but is also unexpectedly stable in detergents, thus broadening the possibilities for use.",
+        "family": "Floral",
+        "givaudanNumber": "8802603",
+        "name": "Ethyl Safranate",
+        "note": [
+            "Floral",
+            "Rose",
+            "Fruity",
+            "Apple",
+            "Spicy"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "Several days",
+        "useLevel": "Up to 2%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "35044-59-8",
+        "formula": "C12H18O2",
+        "logP": "4,2",
+        "molecularWeight": "194",
+        "name": "Ethyl 2,6,6-trimethylcyclohexa-1,3-diene-1-carboxylate",
+        "vapourPressure": "0.0933 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

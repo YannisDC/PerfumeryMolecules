@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Linalool Oxide is a fresh, sweet material which is very useful for its ability to give additional lift to floral accords. It also has a freshearthy quality which makes it invaluable in reconstitutions of essential oils. It blends harmoniously with patchouli in chypreaccords.",
+        "family": "Herbal",
+        "givaudanNumber": "7852501",
+        "name": "Linalool Oxide",
+        "note": [
+            "Herbal",
+            "Pine",
+            "Floral",
+            "Fresh"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Moderate",
+        "substantivityDamp": "Poor",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "5 hours",
+        "useLevel": "1% - 5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "1365-19-1",
+        "formula": "C10H18O2",
+        "logP": "1,7",
+        "molecularWeight": "170.2",
+        "name": "2-Methyl-2-vinyl-5-(1-hydroxy-1-methylethyl)tetrahydrofuran",
+        "vapourPressure": "0.0133 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Ionone Beta has a particularly intense freesia character.It is useful in the formulation of boronia and indispensable in violetcompositions. The volume of Ionone Beta is emphasized by a fruity, somewhat raspberry-like background. It has goodsubstantivity and is used in all areas of perfumery.",
+        "family": "Floral",
+        "givaudanNumber": "5992503",
+        "name": "Ionone Beta",
+        "note": [
+            "Floral",
+            "Orris",
+            "Fruity",
+            "Woody"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "2 days",
+        "useLevel": "Up to 20%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "8013-90-914901-07-6",
+        "formula": "C13H20O",
+        "logP": "4,1",
+        "molecularWeight": "192.3",
+        "name": "4-(2,6,6-Trimethyl-1-cyclohexen-1-yl)-3-buten-2-one",
+        "vapourPressure": "0.0056 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Poor",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

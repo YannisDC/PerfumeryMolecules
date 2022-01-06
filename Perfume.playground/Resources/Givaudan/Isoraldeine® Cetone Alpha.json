@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Isoraldeine Cetone Alpha is a highly refined alpha-iso-methyl ionone used in rich floral perfumes where an exceptional quality ofmethyl ionone is required.",
+        "family": "Floral",
+        "givaudanNumber": "3510003",
+        "name": "Isoraldeine® Cetone Alpha",
+        "note": [
+            "Floral",
+            "Orris",
+            "Woody",
+            "Powdery"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "2 days",
+        "useLevel": "1% - 5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "1335-46-2127-51-5",
+        "formula": "C14H22O",
+        "logP": "4,4",
+        "molecularWeight": "206.3",
+        "name": "3-Methyl-4-(2,6,6-trimethyl-2-cyclohexen-1-yl)-3-buten-2-one (main component)",
+        "vapourPressure": "0.0067 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Moderate",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

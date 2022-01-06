@@ -1,0 +1,79 @@
+{
+    "facet": "Woody, Amber, Spicy",
+    "family": "Woody",
+    "flashpoint": "94°C",
+    "formula": "4,9,12,12-Tetramethyl-5-oxatricyclo[8.2.0.0(4,6)]dodecane",
+    "gc": "Sum isomers min. 90%",
+    "identificationNumbers": {
+        "cas": "1209-61-6",
+        "ipc": "204701",
+        "reach": "Not yet required"
+    },
+    "impact": {
+        "base": "1",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "4.91",
+    "molecularWeight": "222.2",
+    "name": "Tobacarol",
+    "olfactiveId": "Primitive",
+    "olfactoryDescription": "Dry woody amber-spice combination with a cigar box nuance.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Bleach",
+            "stability": "Moderate"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 5%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.01689 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

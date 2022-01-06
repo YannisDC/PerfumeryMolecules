@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Ionone has a warm and woody character, with the suggestion of balsam and violet flowers.",
+        "family": "Floral",
+        "givaudanNumber": "0025913",
+        "name": "Ionone",
+        "note": [
+            "Floral",
+            "Violet",
+            "Woody",
+            "Balsamic"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "Several days",
+        "useLevel": "Up to 10%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "8013-90-9",
+        "formula": "C13H20O",
+        "logP": "3,9",
+        "molecularWeight": "192,3",
+        "name": "Ionone",
+        "vapourPressure": "0.0133 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Poor",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

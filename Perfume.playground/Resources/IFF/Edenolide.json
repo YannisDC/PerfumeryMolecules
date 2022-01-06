@@ -1,0 +1,79 @@
+{
+    "facet": "Musk, Fruity, Floral",
+    "family": "Musk",
+    "flashpoint": "141°C",
+    "formula": "1-(3,3-dimethylcyclohexyl)ethyl propanedioic acid ethyl ester",
+    "gc": "Sum of selection 98.5%",
+    "identificationNumbers": {
+        "cas": "478695-70-4",
+        "ipc": "012375",
+        "reach": "01-0000019245-71"
+    },
+    "impact": {
+        "base": "2",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "4.9",
+    "molecularWeight": "270.18",
+    "name": "Edenolide",
+    "olfactiveId": "Intimate",
+    "olfactoryDescription": "A powdery, creamy, warm, relaxed sensuous white musk. With fresh fruity nuances and soft comforting textures.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Soap",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 30%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.000137 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

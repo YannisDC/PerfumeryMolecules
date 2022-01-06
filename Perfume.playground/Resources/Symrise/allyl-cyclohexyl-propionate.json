@@ -1,0 +1,55 @@
+{
+    "CASNumber": "2705-87-5",
+    "FEMANumber": "2026",
+    "FLAVISNumber": "09.498",
+    "INCIName": "",
+    "IUPACName": "Allyl 3-cyclohexylpropanoate",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        "estery",
+        "green",
+        "fruity",
+        "pineapple"
+    ],
+    "molecularWeight": "196.29",
+    "olfactoryDescription": [
+        "fruity",
+        "aromatic",
+        "apple",
+        "pineapple"
+    ],
+    "olfactoryFamily": "fruity",
+    "perfumeryUse": "key component for fruity creations; imparts texture and ripe fruit impressions",
+    "productName": "Allyl cyclohexyl propionate",
+    "productNumber": "690380",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "very good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "very good"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleanerapc liquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "Cyclohexylpropionic acid allyl ester,2-Propenyl cyclohexylpropionate",
+    "useLevel": "0.5 - 10%",
+    "usefulIn": ""
+}

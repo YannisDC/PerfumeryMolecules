@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Methyl Laitone 10% is one of the new spiro-lactones developed and patented by Givaudan. It is extremely powerful and veryeffective in all accords where a creamy, fruity volume is required.Methyl Laitone 10% provides cosmetic body to white flowernotes such as jasmine, gardenia, tuberose and ylang ylang, and to fruity accords like peach and osmanthus. It provides milkinessto sandalwood accords and combines nicely with coumarin and tonka notes. Good substantivity on humid and dry fabric.",
+        "family": "Fruity",
+        "givaudanNumber": "6978468",
+        "name": "Methyl Laitone 10%/DPG",
+        "note": [
+            "Fruity",
+            "Coconut milk",
+            "Lactonic",
+            "Creamy"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "Good",
+        "useLevel": "Traces - 2%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "94201-19-191069-37-3",
+        "formula": "C10H16O2",
+        "logP": "",
+        "molecularWeight": "168.2",
+        "name": "8-Methyl-1-oxaspiro[4.5]decan-2-one (10% solution indipropylene glycol)",
+        "vapourPressure": "0.0240 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Good",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Moderate",
+            "ph": "10"
+        }
+    }
+}

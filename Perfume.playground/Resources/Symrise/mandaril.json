@@ -1,0 +1,52 @@
+{
+    "CASNumber": "124358-45-8, 134769-33-8",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "(3E)-Trideca-3,12-dienenitrile",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "191.30",
+    "olfactoryDescription": [
+        "citrus",
+        "mandarin",
+        "orange",
+        "coriander leaf"
+    ],
+    "olfactoryFamily": "citrus",
+    "perfumeryUse": "enhances fruity fragrances; booster for juicy mandarin and orange notes; combineswell with orange blossom components; outstanding strength and tenacity",
+    "productName": "Mandaril",
+    "productNumber": "600135",
+    "stability": [
+        {
+            "body lotion": "very good"
+        },
+        {
+            "shampoo/shower gel": "excellent"
+        },
+        {
+            "soap": "very good"
+        },
+        {
+            "ap roll-on15%": "very good"
+        },
+        {
+            "detergent powder conc.": "very good"
+        },
+        {
+            "cleaner liquid citric acid": "good"
+        },
+        {
+            "cleaner apc liquid": "very good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "Mixture of 2, 12(3,12)-Tridecadiennitrile",
+    "useLevel": "0.01 - 2%",
+    "usefulIn": ""
+}

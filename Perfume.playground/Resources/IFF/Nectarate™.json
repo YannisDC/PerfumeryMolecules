@@ -1,0 +1,79 @@
+{
+    "facet": "Fruity, Peach, Woody",
+    "family": "Fruity",
+    "flashpoint": "100°C",
+    "formula": "3a,4,5,6,7,7a-Hexahydro-4,7-methano-1H-inden-5(or 6)-yl butyrate",
+    "gc": "Sum isomers min. 98%",
+    "identificationNumbers": {
+        "cas": "113889-23-9",
+        "ipc": "081145",
+        "reach": "01-0000018535-67"
+    },
+    "impact": {
+        "base": "1",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "4.48",
+    "molecularWeight": "220.31",
+    "name": "Nectarate™",
+    "olfactiveId": "Exhilarating",
+    "olfactoryDescription": "Pleasant, fruity, peach note with a slight woody undertone. Useful in a wide variety of fragrances giving a substantive fruity note even through washing cycles.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 10%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.003856 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

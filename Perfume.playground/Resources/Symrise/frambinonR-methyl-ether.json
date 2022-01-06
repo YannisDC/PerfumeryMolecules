@@ -1,0 +1,56 @@
+{
+    "CASNumber": "104-20-1",
+    "FEMANumber": "2672",
+    "FLAVISNumber": "07.029",
+    "INCIName": "",
+    "IUPACName": "4-(4-Methoxyphenyl)butan-2-one",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        "very sweet",
+        "raspberry",
+        "anisic",
+        "watery",
+        "slightly melon character"
+    ],
+    "molecularWeight": "178.23",
+    "olfactoryDescription": [
+        "fruity",
+        "raspberry",
+        "mimosa",
+        "violet"
+    ],
+    "olfactoryFamily": "fruity",
+    "perfumeryUse": "adds a sweet fruity character to fruit notes; imparts a cool transparency as well asbalsamic elements to floral notes",
+    "productName": "Frambinon® methyl ether",
+    "productNumber": "131479",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "very good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "very good"
+        },
+        {
+            "cleaner liquid citric acid": "good"
+        },
+        {
+            "cleanerapc liquid": "good"
+        },
+        {
+            "bleach": "good"
+        }
+    ],
+    "synonyms": "Anisylacetone",
+    "useLevel": "0.5 - 8%",
+    "usefulIn": ""
+}

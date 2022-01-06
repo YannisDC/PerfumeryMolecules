@@ -1,0 +1,14 @@
+{
+    "facet": "Fruity, Apple, Strawberry",
+    "family": "Fruity",
+    "formula": "Ethyl 2,4-dimethyl-1,3-dioxolane-2-acetate",
+    "identificationNumbers": {
+        "cas": "01-2120762760-53",
+        "ipc": "067224",
+        "reach": "01-2120762760-53"
+    },
+    "logP": "1.7",
+    "name": "Fraistone",
+    "olfactoryDescription": "A tart, fresh, anisic, fruity note reminiscent of apple, plum and strawberry.",
+    "vaporPressure": "0.058911 mm Hg @ 23°C"
+}

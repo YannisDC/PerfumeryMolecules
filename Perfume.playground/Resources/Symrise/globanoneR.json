@@ -1,0 +1,52 @@
+{
+    "CASNumber": "3100-36-5",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "Cyclohexadec-8-en-1-one",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "236.44",
+    "olfactoryDescription": [
+        "musky",
+        "cosmetic",
+        "creamy",
+        "floral"
+    ],
+    "olfactoryFamily": "musky",
+    "perfumeryUse": "gives a rich, voluminous and balsamic rounding effect; synergistic effects occur bycombination with other mcm ketones and lactones",
+    "productName": "Globanone®",
+    "productNumber": "600317",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "very good"
+        },
+        {
+            "ap roll-on 15%": "very good"
+        },
+        {
+            "detergent powder conc.": "very good"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleaner apc liquid": "very good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "8-Cyclohexadecenone",
+    "useLevel": "1 - 20%",
+    "usefulIn": ""
+}

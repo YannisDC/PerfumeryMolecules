@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Rose, Petal",
+    "family": "Floral",
+    "flashpoint": "97°C",
+    "formula": "3,7-Dimethyl-6-octen-1-ol",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "106-22-9",
+        "ipc": "See below",
+        "reach": "01-2119453995-23"
+    },
+    "impact": {
+        "base": "1",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "3.1",
+    "molecularWeight": "156.3",
+    "name": "Citronellol",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "Floral rose, waxy, geranium, slight citrus notes, soft powdery notes.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 50%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.011828 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow"
+}

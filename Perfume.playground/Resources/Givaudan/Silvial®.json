@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Silvial is a powerful, vibrant muguet ingredient with a slight citrus undertone and a fresh, aldehydic touch.It is used in perfumeryin the same way as the other related muguet products.",
+        "family": "Floral",
+        "givaudanNumber": "0012543",
+        "name": "Silvial®",
+        "note": [
+            "Floral",
+            "Muguet",
+            "Powerful",
+            "Fresh"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "1 week",
+        "useLevel": "1% - 15%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "6658-48-6",
+        "formula": "C14H20O",
+        "logP": "4,4",
+        "molecularWeight": "204.3",
+        "name": "2-Methyl-3-[4-(2-methylpropyl)phenyl]propanal",
+        "vapourPressure": "0.0030 hPa (25°C)"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Poor",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

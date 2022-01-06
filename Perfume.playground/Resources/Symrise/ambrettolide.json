@@ -1,0 +1,54 @@
+{
+    "CASNumber": "28645-51-4",
+    "FEMANumber": "4145",
+    "FLAVISNumber": "10.063",
+    "INCIName": "",
+    "IUPACName": "Oxacycloheptadec-10-en-2-one",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        "musk",
+        "perfumistic",
+        "fruity"
+    ],
+    "molecularWeight": "252.98",
+    "olfactoryDescription": [
+        "musky",
+        "ambrette seed",
+        "fruity",
+        "floral"
+    ],
+    "olfactoryFamily": "musky",
+    "perfumeryUse": "elegant and tingling top note musk; harmonizes well with floral heart notes; reflectsaspects of ambrette seed oil",
+    "productName": "Ambrettolide",
+    "productNumber": "140022",
+    "stability": [
+        {
+            "body lotion": "very good"
+        },
+        {
+            "shampoo/shower gel": "very good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "good"
+        },
+        {
+            "cleaner apcliquid": "very good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "",
+    "useLevel": "0.1 - 5%",
+    "usefulIn": "red fruit, yellow fruit, sweet others"
+}

@@ -1,0 +1,69 @@
+{
+    "general": {
+        "description": "Vernaldehyde has a fresh, green, mountain air character and blends very well with aldehydic citrus and woodynotes.Vernaldehyde adds originality to a fragrance and imparts a natural aura. Its unique freshness and diffusion aredemonstrated when incorporated into floral blends such as lily of the valley and lilac.",
+        "family": "Herbal",
+        "givaudanNumber": "9644601",
+        "name": "Vernaldehyde®",
+        "note": [
+            "Herbal",
+            "Natural",
+            "Green",
+            "Aldehydic",
+            "Fresh"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Moderate",
+        "substantivityDamp": "Poor",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "1 day",
+        "useLevel": "0.1% - 5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "66327-54-6",
+        "formula": "C14H24O",
+        "logP": "5,2",
+        "molecularWeight": "208.3",
+        "name": "1-Methyl-4-(4-methylpentyl)-3-cyclohexenecarbaldehyde (main component)",
+        "vapourPressure": "0.0107 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Poor",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

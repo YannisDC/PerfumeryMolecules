@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Velvione is powerful powdery macrocyclic musk with some nitro-musk aspects. It is highly substantive and stable, as well asbiodegradableIt is excellent in fine fragrance where it adds a powdery volume and musky softness, and in laundry care, where itshigh substantivity and clean musky note are highly valued.",
+        "family": "Musky",
+        "givaudanNumber": "1382293",
+        "name": "Velvione®",
+        "note": [
+            "Musky",
+            "Powdery",
+            "Animalic"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Poor",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "1 month +",
+        "useLevel": "0.2% - 4%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "37609-25-9",
+        "formula": "C16H28O",
+        "logP": ">6.0",
+        "molecularWeight": "236.4",
+        "name": "5-Cyclohexadecen-1-one",
+        "vapourPressure": "0.0013 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Moderate",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

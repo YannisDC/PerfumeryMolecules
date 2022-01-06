@@ -1,0 +1,55 @@
+{
+    "general": {
+        "description": "Adoxal has a natural, ozonic aspect. Powerful, it must be used carefully.Adoxal blends extremely well with floral notes such asmuguet and cyclamen, as well as with fruity and woody compositions. It can also be seen as having a typical 'fresh linen' odourwhich makes it very useful for detergent applications.",
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "2 days",
+        "useLevel": "Traces - 5%"
+    },
+    "physicoChemicalProperties": {
+        "name": "2,6,10-Trimethyl-9-undecenal",
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}
+

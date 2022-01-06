@@ -1,0 +1,79 @@
+{
+    "facet": "Herbal, Citrus, Anisic",
+    "family": "Fresh",
+    "flashpoint": "74°C",
+    "formula": "1-Ethyl-5-isopropoxy tricyclo[2.2.1.0(2,6)]heptane",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "90530-04-4",
+        "ipc": "099475",
+        "reach": "Not yet required"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "3"
+    },
+    "logP": "3.41",
+    "molecularWeight": "180",
+    "name": "Isoproxen",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "Fresh, herbal, citrus note with bergamot, petit grain, zesty, aninisic facets and costus nuances.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Bleach",
+            "stability": "Moderate"
+        }
+    ],
+    "substantivity": "6 hours",
+    "useLevel": "Up to 5%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.2684 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

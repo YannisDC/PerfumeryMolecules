@@ -1,0 +1,69 @@
+{
+    "general": {
+        "description": "Myraldyl Acetate brings a diffusive jasmine / muguet odour.It gives an exceptionally full bodied, floral character to compositions.Its good stability and long lasting qualities, combined with its original floral character, make this ingredient an attractive choicefor soap and detergent perfumery.",
+        "family": "Floral",
+        "givaudanNumber": "0408601",
+        "name": "Myraldyl Acetate",
+        "note": [
+            "Floral",
+            "Jasmine",
+            "Sweet",
+            "Fruity",
+            "Green"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Moderate",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "1 week",
+        "useLevel": "Up to 20%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "72403-67-9",
+        "formula": "C15H24O2",
+        "logP": "5,7",
+        "molecularWeight": "236.3",
+        "name": "4(3)-(4-Methyl-3-pentenyl)-3-cyclohexenylmethylacetate",
+        "vapourPressure": "0.0013 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "facet": "Woody, Amber, Dry",
+    "family": "Woody",
+    "flashpoint": "93°C",
+    "formula": "3,4,5,6,6-Pentamethylheptan-2-ol (and isomers)",
+    "gc": "Sum of isomers min. 94%",
+    "identificationNumbers": {
+        "cas": "87118-95-4 / 862107-86-6",
+        "ipc": "110532",
+        "reach": "01-0000015093-78"
+    },
+    "impact": {
+        "base": "2",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "4.06",
+    "molecularWeight": "186",
+    "name": "Kohinool®",
+    "olfactiveId": "Intimate",
+    "olfactoryDescription": "Exquisite floral, woody odor with dry, ambery, vetivert and raisin nuances.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Bleach",
+            "stability": "Moderate"
+        }
+    ],
+    "substantivity": "24 hours",
+    "useLevel": "Up to 35%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.030352 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

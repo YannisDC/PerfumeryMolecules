@@ -1,0 +1,79 @@
+{
+    "facet": "Amber, Woody, Animalic",
+    "family": "Amber",
+    "flashpoint": "101°C",
+    "formula": "Naphtho[2,1-b]furan, dodecahydro-3a,6,6,9a-tetramethyl-",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "3738-00-9",
+        "ipc": "031913",
+        "reach": "01-2119976315-31"
+    },
+    "impact": {
+        "base": "3",
+        "heart": "3",
+        "top": "0"
+    },
+    "logP": "6.86",
+    "molecularWeight": "236",
+    "name": "Cetalor",
+    "olfactiveId": "Primitive",
+    "olfactoryDescription": "One of the finest ambergris notes, powerful amber, woody odor, which gives rich, elegant effects to all kinds of perfumery.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Bleach",
+            "stability": "Good"
+        }
+    ],
+    "substantivity": ">48 hours",
+    "useLevel": "Traces to 5%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.000465 mm Hg @ 23°C",
+    "visual": "White to off-white crystals or powder"
+}

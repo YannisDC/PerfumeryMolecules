@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Herbal, Fruity",
+    "family": "Floral",
+    "flashpoint": "56°C",
+    "formula": "1-Methoxy-hexane",
+    "gc": "Min. 98%",
+    "identificationNumbers": {
+        "cas": "4747-07-3",
+        "ipc": "045176",
+        "reach": "01-2120746534-52"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "0",
+        "top": "2"
+    },
+    "logP": "2.52",
+    "molecularWeight": "116.2",
+    "name": "Diola",
+    "olfactiveId": "Exhilarating",
+    "olfactoryDescription": "Concentrated sweet, herbaceous notes of lavender. Effective in traces. Pear, banana, green tonalities.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Acid Cleaner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Bleach",
+            "stability": "Good"
+        }
+    ],
+    "substantivity": "< 3 hours",
+    "useLevel": "Traces to 1%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "16.411366 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

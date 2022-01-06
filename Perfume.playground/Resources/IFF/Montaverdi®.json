@@ -1,0 +1,79 @@
+{
+    "facet": "Green, Fresh, Fruity",
+    "family": "Green",
+    "flashpoint": "94°C",
+    "formula": "Cyclopropanecarboxylic acid, (Z)-3-hexenyl ester",
+    "gc": "Sum isomers min. 98%",
+    "identificationNumbers": {
+        "cas": "188570-78-7",
+        "ipc": "131621",
+        "reach": "01-0000017160-83"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "3"
+    },
+    "logP": "3.24",
+    "molecularWeight": "168.1",
+    "name": "Montaverdi®",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "Imparts fresh, natural green notes to fragrances. Fruity, apple, pear, green.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 3 hours",
+    "useLevel": "Traces to 1%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.051085 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

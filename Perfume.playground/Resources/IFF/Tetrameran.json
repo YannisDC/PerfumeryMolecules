@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Green, Rosy",
+    "family": "Floral",
+    "flashpoint": "> 94°C",
+    "formula": "6,10-Dimethylundecen-2-one",
+    "gc": "Sum ketones min. 90%",
+    "identificationNumbers": {
+        "cas": "1322-58-3",
+        "ipc": "203545",
+        "reach": "Not yet required"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "4.44",
+    "molecularWeight": "196.2",
+    "name": "Tetrameran",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "A natural floral, rosy, lavender, green bouquet with balsamic, woody undertones. Imparts a floral absolute bloom to fragrances.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "24 hours",
+    "useLevel": "Up to 10%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.006953 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

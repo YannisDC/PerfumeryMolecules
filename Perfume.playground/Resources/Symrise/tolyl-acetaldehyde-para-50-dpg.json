@@ -1,0 +1,52 @@
+{
+    "CASNumber": "104-09-6",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "(4-Methylphenyl)acetaldehyde",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "134.17",
+    "olfactoryDescription": [
+        "green",
+        "floral",
+        "almond",
+        "honey"
+    ],
+    "olfactoryFamily": "green",
+    "perfumeryUse": "the natural green character harmonizes pleasantly with white flower fragrances; itsbalsamic sweetness makes it suitable for heliotrope and mimosa",
+    "productName": "Tolyl acetaldehyde para 50% DPG",
+    "productNumber": "130706",
+    "stability": [
+        {
+            "body lotion": "poor"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "poor"
+        },
+        {
+            "cleaner liquid citric acid": "good"
+        },
+        {
+            "cleaner apc liquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "p-Tolylacetaldehyde",
+    "useLevel": "",
+    "usefulIn": ""
+}

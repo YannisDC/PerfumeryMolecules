@@ -1,0 +1,52 @@
+{
+    "CASNumber": "25634-93-9",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "2-Methyl-5-Phenylpentanol",
+    "IUPACName": "2-Methyl-5-phenylpentan-1-ol",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "178.27",
+    "olfactoryDescription": [
+        "floral",
+        "rose petals",
+        "powdery",
+        "balsamic"
+    ],
+    "olfactoryFamily": "floral",
+    "perfumeryUse": "adds a powdery, cosmetic facet to rose creations; can be used as a modifier as wellas at high use levels",
+    "productName": "Rosaphen®",
+    "productNumber": "600064",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "very good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "very good"
+        },
+        {
+            "detergent powder conc.": "very good"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleaner apc liquid": "very good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "",
+    "useLevel": "",
+    "usefulIn": ""
+}

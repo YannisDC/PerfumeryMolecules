@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Aldehydic, Fresh",
+    "family": "Floral",
+    "flashpoint": "> 100°C",
+    "formula": "3-(o-(and p-)Ethylphenyl)-2,2-dimethylpropionaldehyde",
+    "gc": "Sum isomers min. 97%",
+    "identificationNumbers": {
+        "cas": "67634-14-4 / 67634-15-5",
+        "ipc": "062979",
+        "reach": "01-2120758796-34"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "3",
+        "top": "3"
+    },
+    "logP": "3.9",
+    "molecularWeight": "190.1",
+    "name": "Floralozone",
+    "olfactiveId": "Air",
+    "olfactoryDescription": "Powerful, clean, green, fresh air note reminiscent of ocean breezes. Gives lift to fragrances without dominating due to its neutral nature.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Soap",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 10%",
+    "uses": "Fine fragrance, personal care, fabric care",
+    "vaporPressure": "0.003238 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

@@ -1,0 +1,14 @@
+{
+    "facet": "Fruity, Herbal, Sweet",
+    "family": "Fruity",
+    "formula": "3a,4,5,6,7,7a-Hexahydro-4,7-methano-1H-inden-5(or 6)-yl isobutyrate",
+    "identificationNumbers": {
+        "cas": "01-2120756110-68",
+        "ipc": "037477",
+        "reach": "01-2120756110-68"
+    },
+    "logP": "4.1",
+    "name": "Cyclabute",
+    "olfactoryDescription": "Fruity, pineapple, peach, mango top note with amber and chocolate nuances. Less anise/basil-like than Cyclacet® or Cyclaprop®.",
+    "vaporPressure": "0.004583 mm Hg @ 23°C"
+}

@@ -1,0 +1,79 @@
+{
+    "facet": "Muguet, Fresh, Freesia",
+    "family": "Floral",
+    "flashpoint": "94°C",
+    "formula": "3-[4-(2-Methylpropyl)cyclohexyl]propanal in Muguesia",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "1315250-65-7 / 1315250-67-9 / 56836-93-2",
+        "ipc": "30218203",
+        "reach": "Blend"
+    },
+    "impact": {
+        "base": "1",
+        "heart": "2",
+        "top": "3"
+    },
+    "logP": "4.9 *",
+    "molecularWeight": "196 *",
+    "name": "Starfleur™ 40",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "A fresh, highly performing floral green, muguet, freesia, aldehydic note, with a natural transparent effect. Starfleur 40 rounds off green aldehydic muguet notes very well.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": ">72 hours",
+    "useLevel": "Up to 5%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.022206  mm Hg @ 23°C *",
+    "visual": "Clear colorless liquid"
+}

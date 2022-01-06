@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Pyralone is finer, more aromatic and tobacco-like, and has less of a dry, earthy character than Butyl Quinoline Secondary.It isused in chypre, fougere and tobacco accords.",
+        "family": "Leathery",
+        "givaudanNumber": "8543203",
+        "name": "Pyralone",
+        "note": [
+            "Leathery",
+            "Green",
+            "Woody",
+            "Powerful"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "5 days",
+        "useLevel": "Traces - 2%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "65442-31-1",
+        "formula": "C13H15N",
+        "logP": "4",
+        "molecularWeight": "185,2",
+        "name": "6-(1-Methylpropyl)quinoline",
+        "vapourPressure": "0.0013 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Good",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Moderate",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Moderate",
+            "ph": "10"
+        }
+    }
+}

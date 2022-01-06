@@ -1,0 +1,79 @@
+{
+    "facet": "Citrus, Green, Fresh",
+    "family": "Citrus",
+    "flashpoint": "85°C",
+    "formula": "1,1-Dimethoxyoctane",
+    "gc": "Min. 98%",
+    "identificationNumbers": {
+        "cas": "10022-28-3",
+        "ipc": "151381",
+        "reach": "01-2120736276-52"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "1",
+        "top": "2"
+    },
+    "logP": "3.17",
+    "molecularWeight": "174.3",
+    "name": "Octacetal",
+    "olfactiveId": "Air",
+    "olfactoryDescription": "Fresh, clean, citrus character reminiscent particularly of orange, aldehydic, ozonic, green.",
+    "performanceTable": [
+        {
+            "performance": "Moderate",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Poor"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Bleach",
+            "stability": "Moderate"
+        }
+    ],
+    "substantivity": "< 3 hours",
+    "useLevel": "Up to 20%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.093826 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

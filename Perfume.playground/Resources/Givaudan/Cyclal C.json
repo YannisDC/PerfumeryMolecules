@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Cyclal C is a key product in many modern compositions for its extremely natural green character.It blends beautifully with fruity,citrus, agrestic, floral compositions where it imparts its unique vibrant quality. It is also used to enrich and reinforce classic greennotes.",
+        "family": "Green",
+        "givaudanNumber": "4251703",
+        "name": "Cyclal C",
+        "note": [
+            "Green",
+            "Leafy",
+            "Floral",
+            "Powerful"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "4 hours",
+        "useLevel": "0.1% - 3%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "68039-49-6",
+        "formula": "C9H14O",
+        "logP": "3,1",
+        "molecularWeight": "138.2",
+        "name": "2,4-Dimethyl-3-cyclohexen-1-carbaldehyde (maincomponent)",
+        "vapourPressure": "0.8199 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Poor",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Moderate",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

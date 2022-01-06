@@ -1,0 +1,14 @@
+{
+    "facet": "Fruity, Pear, Green",
+    "family": "Fruity",
+    "formula": "n-Hexyl acetate",
+    "identificationNumbers": {
+        "cas": "01-2119976337-25",
+        "ipc": "011301",
+        "reach": "01-2119976337-25"
+    },
+    "logP": "2.9",
+    "name": "Hexyl Acetate",
+    "olfactoryDescription": "Green fruity note reminiscent of apple, pear.",
+    "vaporPressure": "0.911409 mm Hg @ 23°C"
+}

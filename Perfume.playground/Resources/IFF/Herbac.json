@@ -1,0 +1,79 @@
+{
+    "facet": "Herbal, Woody, Minty",
+    "family": "Herbal",
+    "flashpoint": "70°C",
+    "formula": "1-(3,3-Dimethylcyclohexyl)ethan-1-one",
+    "gc": "Sum isomers min. 95%",
+    "identificationNumbers": {
+        "cas": "25304-14-7",
+        "ipc": "082615",
+        "reach": "01-2120739843-46"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "3",
+        "top": "3"
+    },
+    "logP": "2.91",
+    "molecularWeight": "154.2",
+    "name": "Herbac",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "Powerful, woody, herbal, cedar leaf, thujone complex. Camphor, earthy, eucalyptus, wet, minty.",
+    "performanceTable": [
+        {
+            "performance": "Moderate",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Acid Cleaner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Bleach",
+            "stability": "Good"
+        }
+    ],
+    "substantivity": "< 3 hours",
+    "useLevel": "Up to 10%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.376373 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

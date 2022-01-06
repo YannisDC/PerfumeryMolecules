@@ -1,0 +1,66 @@
+{
+    "general": {
+        "description": "Musk R1 is a sensual, sophisticated, creamy, powdery macrocyclic musk.It gives an exalting effect when used in combination withother macrocyclic musks.",
+        "family": "Musky",
+        "givaudanNumber": "7289001",
+        "name": "Musk R1",
+        "note": [
+            "Musky",
+            "Powdery"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Poor",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Poor",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "Several months",
+        "useLevel": "Up to 10%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "3391-83-1",
+        "formula": "C15H28O3",
+        "logP": "3,5",
+        "molecularWeight": "256,3",
+        "name": "11-Oxahexadecan-16-olide",
+        "vapourPressure": "0.0013 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

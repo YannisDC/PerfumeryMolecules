@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Verdantiol offers an intense floral note to delicate flower type creations, such as neroli, orange blossom, narcissus andfrangipani.It provides excellent fixative value on all supports.",
+        "family": "Floral",
+        "givaudanNumber": "9644003",
+        "name": "Verdantiol",
+        "note": [
+            "Floral",
+            "Linden blossom",
+            "Orange blossom"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "1 month +",
+        "useLevel": "0.5% - 5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "91-51-0",
+        "formula": "C22H27NO2",
+        "logP": ">6.0",
+        "molecularWeight": "337",
+        "name": "Methyl 2-[[3-[4-(1,1-dimethylethyl)phenyl]-2-methylpropylidene]amino]benzoate",
+        "vapourPressure": "0.0013 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Poor",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

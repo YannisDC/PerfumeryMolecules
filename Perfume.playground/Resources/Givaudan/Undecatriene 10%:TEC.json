@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Undecatriene 10%/TEC is used in traces to provide a natural galbanum-like effect in compositions. It rounds out the palette ofavailable green notes.",
+        "family": "Green",
+        "givaudanNumber": "11033",
+        "name": "Undecatriene 10%/TEC",
+        "note": [
+            "Green",
+            "Galbanum",
+            "Aromatic",
+            "Intense"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Poor",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "1 day",
+        "useLevel": "Traces - 1%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "16356-11-9",
+        "formula": "C11H18",
+        "logP": "",
+        "molecularWeight": "150,2",
+        "name": "1,3,5-Undecatriene (10% solution in triethyl citrate)",
+        "vapourPressure": "0.0060 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Poor",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Poor",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Poor",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Moderate",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Poor",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

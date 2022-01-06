@@ -1,0 +1,79 @@
+{
+    "facet": "Amber, Woody, Animalic",
+    "family": "Amber",
+    "flashpoint": "161°C",
+    "formula": "Naphtho[2,1-b]furan, dodecahydro-3a,6,6,9a-tetramethyl",
+    "gc": "Min. 99%",
+    "identificationNumbers": {
+        "cas": "6790-58-5",
+        "ipc": "015375",
+        "reach": "01-2120070784-50"
+    },
+    "impact": {
+        "base": "3",
+        "heart": "3",
+        "top": "0"
+    },
+    "logP": "5.95",
+    "molecularWeight": "236.4",
+    "name": "Ambermor",
+    "olfactiveId": "Primitive",
+    "olfactoryDescription": "Strong woody amber, sweet earthy, musky odor with a delicate animalic tonality.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Bleach",
+            "stability": "Good"
+        }
+    ],
+    "substantivity": ">48 hours",
+    "useLevel": "Traces to 5%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.000465 mm Hg @ 23°C",
+    "visual": "White to off-white crystals or powder"
+}

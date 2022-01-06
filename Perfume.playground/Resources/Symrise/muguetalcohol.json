@@ -1,0 +1,52 @@
+{
+    "CASNumber": "13351-61-6",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "Dimethyl Phenylpropanol",
+    "IUPACName": "2,2-Dimethyl-3-phenylpropan-1-ol",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "164.48",
+    "olfactoryDescription": [
+        "floral",
+        "rose",
+        "lily of the valley",
+        "peony"
+    ],
+    "olfactoryFamily": "floral",
+    "perfumeryUse": "gives rosy, citronellol like aspects to lily of the valley creations; can be used as amodifier as well as at high use levels",
+    "productName": "Muguetalcohol",
+    "productNumber": "659479",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "very good"
+        },
+        {
+            "ap roll-on 15%": "very good"
+        },
+        {
+            "detergent powder conc.": "very good"
+        },
+        {
+            "cleaner liquid citric acid": "very good"
+        },
+        {
+            "cleaner apc liquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "2, 2-Dimethyl-3-phenylpropanol",
+    "useLevel": "",
+    "usefulIn": ""
+}

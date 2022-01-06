@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Jasmin, Fruity",
+    "family": "Floral",
+    "flashpoint": "94°C",
+    "formula": "2-Heptylcyclopentanone",
+    "gc": "Min. 97%",
+    "identificationNumbers": {
+        "cas": "137-03-1",
+        "ipc": "062930",
+        "reach": "01-2120525178-55"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "4",
+    "molecularWeight": "182.3",
+    "name": "Fleuramone",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "Concentrated jasmin flower note similar to that of Cis Jasmone. Lactonic, green.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Bleach",
+            "stability": "Moderate"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Traces to 4%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.018081 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow"
+}

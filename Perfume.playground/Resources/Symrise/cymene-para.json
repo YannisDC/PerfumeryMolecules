@@ -1,0 +1,33 @@
+{
+    "CASNumber": "99-87-6",
+    "FEMANumber": "2356",
+    "FLAVISNumber": "01.002",
+    "INCIName": "",
+    "IUPACName": "1-Isopropyl-4-methyl-benzene",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        "thyme",
+        "majoram",
+        "herbal",
+        "spicy",
+        "nutmeg",
+        "mandarine"
+    ],
+    "molecularWeight": "134.22",
+    "olfactoryDescription": [
+        "citrus",
+        "thyme",
+        "pine",
+        "lime",
+        "peely"
+    ],
+    "olfactoryFamily": "citrus",
+    "perfumeryUse": "",
+    "productName": "Cymene para",
+    "productNumber": "762218",
+    "stability": [],
+    "synonyms": "Benzene, 1-Methyl-4-(1-Methylethyl)-",
+    "useLevel": "0.1 - 1%",
+    "usefulIn": "mint, spices/herbs, citrus, alcoholics"
+}

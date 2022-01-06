@@ -1,0 +1,52 @@
+{
+    "CASNumber": "7785-33-3",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "(2E)-3,7-Dimethylocta-2,6-dien-1-yl(2E)- 2-methylbut-2-enoate",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "236.36",
+    "olfactoryDescription": [
+        "floral",
+        "fruity",
+        "rose",
+        "pear"
+    ],
+    "olfactoryFamily": "floral",
+    "perfumeryUse": "adds a light fruity character to rose creations; imparts magnolia flower oil elements;gives natural fruity nuances to plum and pear; useful constituent of geranium bases",
+    "productName": "Geranyl tiglate",
+    "productNumber": "103203",
+    "stability": [
+        {
+            "body lotion": "very good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleaner apcliquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "Geranyl 2-methylcrotonate",
+    "useLevel": "",
+    "usefulIn": ""
+}

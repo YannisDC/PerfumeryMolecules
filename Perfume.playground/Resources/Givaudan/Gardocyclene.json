@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Gardocyclene is a fruity floral and slightly green material, less anise-like than the other cyclenes.",
+        "family": "Fruity",
+        "givaudanNumber": "5361601",
+        "name": "Gardocyclene",
+        "note": [
+            "Fruity",
+            "Green",
+            "Floral"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "Several days",
+        "useLevel": "Up to 2%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "67634-20-2",
+        "formula": "C14H20O2",
+        "logP": "3,6",
+        "molecularWeight": "220,3",
+        "name": "3a,4,5,6,7,7a-Hexahydro-4,7-methano-1H-inden-5(6)-yl2-methylpropanoate",
+        "vapourPressure": "0.0067 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Moderate",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

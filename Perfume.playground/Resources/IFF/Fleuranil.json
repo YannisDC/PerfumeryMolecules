@@ -1,0 +1,79 @@
+{
+    "facet": "Herbal, Anisic, Fresh",
+    "family": "Herbal",
+    "flashpoint": "94°C",
+    "formula": "3-(4-Ethylphenyl)-2,2-dimethylpropanenitrile (and isomers)",
+    "gc": "Sum isomers min. 97%",
+    "identificationNumbers": {
+        "cas": "134123-93-6",
+        "ipc": "062144",
+        "reach": "01-0000015990-66"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "1",
+        "top": "1"
+    },
+    "logP": "3.46",
+    "molecularWeight": "187.14",
+    "name": "Fleuranil",
+    "olfactiveId": "High Tech",
+    "olfactoryDescription": "Ozone marine, anisic with herbal tones.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Bleach",
+            "stability": "Moderate"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 10%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.003948 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

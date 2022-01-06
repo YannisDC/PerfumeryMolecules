@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Mefrosol is a diffusive, fresh, rosy floral note.It is used to give freshness and volume in both floral and citrus fragrances.",
+        "family": "Floral",
+        "givaudanNumber": "8167603",
+        "name": "Mefrosol",
+        "note": [
+            "Floral",
+            "Rose",
+            "Fresh"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Poor",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Poor",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "Several weeks",
+        "useLevel": "Up to 10%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "55066-48-3",
+        "formula": "C12H18O",
+        "logP": "3,2",
+        "molecularWeight": "178,2",
+        "name": "3-Methyl-5-phenyl-1-pentanol",
+        "vapourPressure": "0.0013 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

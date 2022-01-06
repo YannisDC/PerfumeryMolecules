@@ -1,0 +1,55 @@
+{
+    "CASNumber": "103-36-6",
+    "FEMANumber": "2430",
+    "FLAVISNumber": "09.730",
+    "INCIName": "Ethyl Cinnamate",
+    "IUPACName": "Ethyl (2E)-3-phenylacrylate",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        "cinnamon",
+        "sweet",
+        "balsamic",
+        "fruity"
+    ],
+    "molecularWeight": "176.23",
+    "olfactoryDescription": [
+        "aromatic",
+        "balsamic",
+        "floral",
+        "cinnamon"
+    ],
+    "olfactoryFamily": "aromatic",
+    "perfumeryUse": "imparts powdery, balsamic styrax-like elements to floral notes; underlines orientalcharacteristics of floriental fragrances",
+    "productName": "Ethyl cinnamate",
+    "productNumber": "660448",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "poor"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleaner apc liquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "(E)-Ethyl 3-phenylpropenoate",
+    "useLevel": "0.5 - 5%",
+    "usefulIn": ""
+}

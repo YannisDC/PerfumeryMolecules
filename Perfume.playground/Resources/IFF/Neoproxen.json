@@ -1,0 +1,14 @@
+{
+    "facet": "Herbal, Leafy, Green",
+    "family": "Herbal",
+    "formula": "1-Ethyl-5-methoxy tricyclo[2.2.1.0(2,6)]heptane",
+    "identificationNumbers": {
+        "cas": "01-0000015326-73",
+        "ipc": "140194",
+        "reach": "01-0000015326-73"
+    },
+    "logP": "2.8",
+    "name": "Neoproxen",
+    "olfactoryDescription": "Herbal, green leafy, citrus.",
+    "vaporPressure": "0.081102 mm Hg @ 23°C"
+}

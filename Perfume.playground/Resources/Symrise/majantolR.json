@@ -1,0 +1,51 @@
+{
+    "CASNumber": "103694-68-4",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "Trimethylbenzenepropanol",
+    "IUPACName": "2,2-Dimethyl-3-(3-methylphenyl)propan-1-ol",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "178.30",
+    "olfactoryDescription": [
+        "floral",
+        "lily of the valley",
+        "transparent"
+    ],
+    "olfactoryFamily": "floral",
+    "perfumeryUse": "key ingredient for transparent lily of the valley concepts; floralizer for white floralcompositions",
+    "productName": "Majantol®",
+    "productNumber": "105852",
+    "stability": [
+        {
+            "body lotion": "very good"
+        },
+        {
+            "shampoo/shower gel": "very good"
+        },
+        {
+            "soap": "very good"
+        },
+        {
+            "ap roll-on15%": "good"
+        },
+        {
+            "detergent powder conc.": "very good"
+        },
+        {
+            "cleaner liquid citric acid": "very good"
+        },
+        {
+            "cleaner apc liquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "2, 2-Dimethyl-3-(3-methylphenyl)-propanol",
+    "useLevel": "",
+    "usefulIn": ""
+}

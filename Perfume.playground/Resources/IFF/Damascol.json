@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Rose, Spicy",
+    "family": "Floral",
+    "flashpoint": "94°C",
+    "formula": "5-Methyl-5-phenyl-3-hexanone",
+    "gc": "Min. 98%",
+    "identificationNumbers": {
+        "cas": "4927-36-0",
+        "ipc": "040810",
+        "reach": "01-2120525297-53"
+    },
+    "impact": {
+        "base": "1",
+        "heart": "1",
+        "top": "0"
+    },
+    "logP": "3.33",
+    "molecularWeight": "190.2",
+    "name": "Damascol",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "Distinctive 'deep' tones, peppery, woody, fruity, spicy, rose absolute type odor. Can be used to extend rose ketones in fragrances.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "24 hours",
+    "useLevel": "Traces to 5%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.014874 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

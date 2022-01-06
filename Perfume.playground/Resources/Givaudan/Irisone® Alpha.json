@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Irisone Alpha is used widely in perfume compositions mainly in woody, floral, balsamic, piney or citrus notes for its highsubstantivity. It is also know to bring an interesting twist to rose accords.",
+        "family": "Floral",
+        "givaudanNumber": "6030003",
+        "name": "Irisone® Alpha",
+        "note": [
+            "Floral",
+            "Orris",
+            "Violet",
+            "Woody"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "2 days",
+        "useLevel": "0.5% - 5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "8013-90-9127-41-3",
+        "formula": "C13H20O",
+        "logP": "3,9",
+        "molecularWeight": "192.3",
+        "name": "4-(2,6,6-Trimethyl-2-cyclohexen-1-yl)-3-buten-2-one(main component)",
+        "vapourPressure": "0.0013 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Poor",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

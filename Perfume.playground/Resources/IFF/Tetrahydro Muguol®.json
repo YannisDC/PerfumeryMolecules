@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Citrus, Woody",
+    "family": "Floral",
+    "flashpoint": "80°C",
+    "formula": "3,7-Dimethyl-3-octanol and 2,6-Dimethyl-2-octanol",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "18479-57-7 / 78-69-3",
+        "ipc": "203492",
+        "reach": "01-2120756111-66"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "3.6",
+    "molecularWeight": "158.2",
+    "name": "Tetrahydro Muguol®",
+    "olfactiveId": "Air",
+    "olfactoryDescription": "An all purpose floralizer with some of the qualities of linalool, but fresher, more tart and substantially more intense. Floral, freesia, rose, lilac.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Bleach",
+            "stability": "Good"
+        }
+    ],
+    "substantivity": "6 hours",
+    "useLevel": "Up to 40%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.118176 mm Hg @ 23°C",
+    "visual": "Clear colorless liquid"
+}

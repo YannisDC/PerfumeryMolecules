@@ -1,0 +1,54 @@
+{
+    "CASNumber": "103-41-3",
+    "FEMANumber": "2142",
+    "FLAVISNumber": "09.738",
+    "INCIName": "Benzyl Cinnamate",
+    "IUPACName": "Benzyl (2E)-3-phenylacrylate",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        "sweet",
+        "cinnamon",
+        "coumarin",
+        "balsamic"
+    ],
+    "molecularWeight": "238.30",
+    "olfactoryDescription": [
+        "balsamic",
+        "benzoin",
+        "cinnamon"
+    ],
+    "olfactoryFamily": "balsamic",
+    "perfumeryUse": "imparts volume and richness to opulent flowers; key component to heliotrope, benzoinand peru balm notes",
+    "productName": "Benzyl cinnamate",
+    "productNumber": "613057",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleaner apc liquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "Cinnamic acid benzyl ester",
+    "useLevel": "1 - 10%",
+    "usefulIn": ""
+}

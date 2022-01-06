@@ -1,0 +1,79 @@
+{
+    "facet": "Citrus, Lemon, Grassy",
+    "family": "Citrus",
+    "flashpoint": "88°C",
+    "formula": "3,7-Dimethyl-3,6-octadienal",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "55722-59-3",
+        "ipc": "222481",
+        "reach": "Not yet required"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "2.62",
+    "molecularWeight": "152",
+    "name": "Verbenal",
+    "olfactiveId": "Air",
+    "olfactoryDescription": "Intense juicy aldehydic lemon grass note with natural citronellol, citral and linalool facets.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "6 hours",
+    "useLevel": "Traces to 0.1%",
+    "uses": "Fine fragrance, personal care, fabric care",
+    "vaporPressure": "0.151 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

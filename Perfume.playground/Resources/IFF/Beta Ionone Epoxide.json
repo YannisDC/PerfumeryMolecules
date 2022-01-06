@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Violet, Orris",
+    "family": "Woody",
+    "flashpoint": "> 94°C",
+    "formula": "4-(2,2,6-Trimethyl-7-oxabicyclo{4.1.0}hept-1-yl)-3-buten-2-one",
+    "gc": "Min. 95%",
+    "identificationNumbers": {
+        "cas": "23267-57-4",
+        "ipc": "022052",
+        "reach": "Not yet required"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "2.93",
+    "molecularWeight": "208.1",
+    "name": "Beta Ionone Epoxide",
+    "olfactiveId": "Intimate",
+    "olfactoryDescription": "Violet orris powdery complex with a woody nuance. Found in Osmanthus.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "48 hours",
+    "useLevel": "Up to 2%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.001878 mm Hg @ 23°C",
+    "visual": "Crystalline solid, white to pale yellow"
+}

@@ -1,0 +1,14 @@
+{
+    "facet": "Herbal, Clary, Sage",
+    "family": "Herbal",
+    "formula": "Tetrahydro-4-methyl-2-propyl-2H-pyran-4-yl acetate",
+    "identificationNumbers": {
+        "cas": "01-0000015972-64",
+        "ipc": "031605",
+        "reach": "01-0000015972-64"
+    },
+    "logP": "2",
+    "name": "Clarycet",
+    "olfactoryDescription": "Herbal, floral, rosy odor with a dry plum fruitiness and a suggestion of clary sage and cedarwood. Augments the rose ketone notes. Fruity, plum, rose, celery, wine, mushroom, cedarwood.",
+    "vaporPressure": "0.045454 mm Hg @ 23°C"
+}

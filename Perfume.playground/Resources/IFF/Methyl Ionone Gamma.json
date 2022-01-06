@@ -1,0 +1,79 @@
+{
+    "facet": "Woody, Floral, Violet",
+    "family": "Woody",
+    "flashpoint": "110°C",
+    "formula": "3-Methyl-4-(2,6,6-trimethyl-2-cyclohexen-1-yl)-3-buten-2-one (isomers)",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "127-51-5",
+        "ipc": "See below",
+        "reach": "01-2120138569-45"
+    },
+    "impact": {
+        "base": "2",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "4.6",
+    "molecularWeight": "206",
+    "name": "Methyl Ionone Gamma",
+    "olfactiveId": "Intimate",
+    "olfactoryDescription": "Woody, tobacco, floral (orris and violet). Powdery tone. Great strength as both top and body notes. Excellent performance to cost ratio.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 15%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.00955 mm Hg @ 23°C",
+    "visual": "Pale yellow to yellow liquid"
+}

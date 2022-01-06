@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Rose, Mimosa",
+    "family": "Floral",
+    "flashpoint": "94°C",
+    "formula": "ortho-Tolylethanol",
+    "gc": "Min. 98.5%",
+    "identificationNumbers": {
+        "cas": "19819-98-8",
+        "ipc": "161333",
+        "reach": "01-2120289998-24"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "1",
+        "top": "1"
+    },
+    "logP": "2.11",
+    "molecularWeight": "136.2",
+    "name": "Peomosa",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "Natural floral, peony, mimosa, rose, green, earthy, wet, cyclamen.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Acid Cleaner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Bleach",
+            "stability": "Moderate"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 5%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.014673 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

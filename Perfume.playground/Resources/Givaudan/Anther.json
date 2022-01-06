@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Anther is a powerful ingredient with a green, fruity and fresh character.It is a strong modifier of tropical notes and hyacinthfreshness. Used primarily in soaps and detergents, Anther gives great power to floral and green-floral creations.",
+        "family": "Green",
+        "givaudanNumber": "5846393",
+        "name": "Anther",
+        "note": [
+            "Green",
+            "Floral",
+            "Hyacinth",
+            "Fresh"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "Several days",
+        "useLevel": "Traces - 1%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "56011-02-0",
+        "formula": "C13H20O",
+        "logP": "4,1",
+        "molecularWeight": "192,3",
+        "name": "Isopentyl phenethyl ether",
+        "vapourPressure": "0.0133 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Good",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Good",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

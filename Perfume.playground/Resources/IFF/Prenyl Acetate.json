@@ -1,0 +1,79 @@
+{
+    "facet": "Fruity, Pear, Green",
+    "family": "Fruity",
+    "flashpoint": "49°C",
+    "formula": "3-Methyl-2-butenyl acetate",
+    "gc": "Min. 97%",
+    "identificationNumbers": {
+        "cas": "1191-16-8",
+        "ipc": "166416",
+        "reach": "01-2119959858-12"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "0",
+        "top": "12"
+    },
+    "logP": "2.1",
+    "molecularWeight": "128.2",
+    "name": "Prenyl Acetate",
+    "olfactiveId": "Exhilarating",
+    "olfactoryDescription": "Fruity floral, not as pungent as amyl acetate but longer lasting. Fresh green nuances.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Poor"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Powder Detergent",
+            "stability": "Poor"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "< 3 hours",
+    "useLevel": "Up to 10%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "2.278273 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

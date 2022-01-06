@@ -1,0 +1,79 @@
+{
+    "facet": "Citrus, Herbal, Fresh",
+    "family": "Citrus",
+    "flashpoint": "49°C",
+    "formula": "Mixture",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "68956-56-9",
+        "ipc": "011391",
+        "reach": "01-2119980606-28"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "3"
+    },
+    "logP": "",
+    "molecularWeight": "",
+    "name": "Herbalime™",
+    "olfactiveId": "High Tech",
+    "olfactoryDescription": "Fresh pine/lime character, with some herbal, lavender, lemon notes.",
+    "performanceTable": [
+        {
+            "performance": "Moderate",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 6 hours",
+    "useLevel": "Up to 20%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.01987 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

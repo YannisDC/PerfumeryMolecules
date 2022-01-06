@@ -1,0 +1,79 @@
+{
+    "facet": "Anisic, Floral, Balsamic",
+    "family": "Herbal",
+    "flashpoint": "94°C",
+    "formula": "2-Methyl-3(4-methoxyphenyl)propanal",
+    "gc": "Min. 97%",
+    "identificationNumbers": {
+        "cas": "5462-06-6",
+        "ipc": "032894",
+        "reach": "01-2120769416-45"
+    },
+    "impact": {
+        "base": "1",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "2.5",
+    "molecularWeight": "178.2",
+    "name": "Canthoxal",
+    "olfactiveId": "Air",
+    "olfactoryDescription": "Licorice, basil, fennel, anise notes with a slight fruity, watery modification.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "48 hours",
+    "useLevel": "Traces to 5%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.002269 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow"
+}

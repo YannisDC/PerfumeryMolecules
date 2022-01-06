@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Neofolione blends very well with most floral notes, especially violet, where it is particularly useful in replacing Folione. It impartsfreshness and diffusion and has good stability.",
+        "family": "Green",
+        "givaudanNumber": "7450003",
+        "name": "Neofolione",
+        "note": [
+            "Green",
+            "Floral",
+            "Fresh",
+            "Powerful"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "16 hours",
+        "useLevel": "Traces - 2%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "111-79-5",
+        "formula": "C10H18O2",
+        "logP": "4,4",
+        "molecularWeight": "170,3",
+        "name": "Methyl 2-nonenoate",
+        "vapourPressure": "0.0667 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Moderate",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "CASNumber": "28219-61-6",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "Ethyl Trimethylcyclopentene Butenol",
+    "IUPACName": "(2E)-2-Ethyl-4-(2,2,3)-trimethylcyclopent-3-en-1-yl) but-2-en-1-ol",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "208.35",
+    "olfactoryDescription": [
+        "woody",
+        "sandalwood",
+        "cedar wood",
+        "animalic"
+    ],
+    "olfactoryFamily": "woody",
+    "perfumeryUse": "",
+    "productName": "Sandranol®",
+    "productNumber": "600001",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "poor"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleaner apc liquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "",
+    "useLevel": "",
+    "usefulIn": ""
+}

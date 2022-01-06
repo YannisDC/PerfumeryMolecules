@@ -1,0 +1,56 @@
+{
+    "CASNumber": "103-26-4",
+    "FEMANumber": "2698",
+    "FLAVISNumber": "09.740",
+    "INCIName": "",
+    "IUPACName": "Methyl (2E)-3-phenylacrylate",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        "cinnamon",
+        "sweet",
+        "balsamic",
+        "heavy-fruity",
+        "strawberry"
+    ],
+    "molecularWeight": "162.20",
+    "olfactoryDescription": [
+        "aromatic",
+        "balsamic",
+        "cinnamon",
+        "fruity"
+    ],
+    "olfactoryFamily": "aromatic",
+    "perfumeryUse": "key ingredient for cinnamon bark oil reconstitutions; imparts typical cinnamon-likeelements to white carnation; modifies fruity notes in oriental and gourmand concepts",
+    "productName": "Methyl cinnamate",
+    "productNumber": "660449",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleaner apc liquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "Cinnamic acid methyl ester, Methyl3-phenylpropenoate",
+    "useLevel": "0.5 - 5%",
+    "usefulIn": ""
+}

@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Isobutavan has a sweet and creamy vanillic character reminiscent of white chocolate, cream soda with a soft apricotfeeling.Isobutavan is much less discoloring than vanillin or ethyl vanillin and can be used at levels up to 2% including in toilet soapfragrances before discolouration becomes a problem. It is less powdery than vanillin and has a more creamy effect.",
+        "family": "Gourmand",
+        "givaudanNumber": "1465543",
+        "name": "Isobutavan",
+        "note": [
+            "Gourmand",
+            "Vanilla",
+            "Sweet",
+            "Fruity"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Poor",
+        "burningEffectiveness": "Moderate",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "Several months",
+        "useLevel": "Up to 2%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "20665-85-4",
+        "formula": "C12H14O4",
+        "logP": "2",
+        "molecularWeight": "222,2",
+        "name": "4-Formyl-2-methoxyphenyl 2-methylpropanoate",
+        "vapourPressure": ">0.0013 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Moderate",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Poor",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

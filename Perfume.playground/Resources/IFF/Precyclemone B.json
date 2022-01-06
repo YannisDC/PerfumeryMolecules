@@ -1,0 +1,79 @@
+{
+    "facet": "Fresh, Aldehydic, Floral",
+    "family": "Fresh",
+    "flashpoint": "> 94°C",
+    "formula": "1-Methyl-4-(4-methyl-3-pentenyl)cyclohex-3-ene-1-carboxaldehyde (isomers)",
+    "gc": "Sum of isomers min. 98%",
+    "identificationNumbers": {
+        "cas": "52475-86-2",
+        "ipc": "166414",
+        "reach": "01-2120735080-68"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "1",
+        "top": "2"
+    },
+    "logP": "5.19",
+    "molecularWeight": "206.3",
+    "name": "Precyclemone B",
+    "olfactiveId": "High Tech",
+    "olfactoryDescription": "Clean, tenacious, ozone note with aldehydic warmth and diffusion. Booster for fragrances requiring fresh outdoors effect.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Poor"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 10%",
+    "uses": "Fine fragrance, personal care, fabric care, candles",
+    "vaporPressure": "0.003973 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

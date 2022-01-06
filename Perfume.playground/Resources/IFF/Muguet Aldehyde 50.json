@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Aldehydic, Fresh",
+    "family": "Floral",
+    "flashpoint": "94°C",
+    "formula": "((3,7-Dimethyl-6-octenyl)oxy)acetaldehyde (fluidised with diethylphthalate)",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "7492-67-3",
+        "ipc": "138650",
+        "reach": ""
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "23"
+    },
+    "logP": "3.26",
+    "molecularWeight": "198",
+    "name": "Muguet Aldehyde 50",
+    "olfactiveId": "High Tech",
+    "olfactoryDescription": "Powerful with a refreshing, aldehydic, rosy ozone-like note. Traces will contribute a pleasant top note. Fluidised with diethyl phthalate.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 10%",
+    "uses": "Fine fragrance, personal care, fabric care",
+    "vaporPressure": "0.009933 mm Hg @ 23°C",
+    "visual": "Pale yellow to yellow liquid"
+}

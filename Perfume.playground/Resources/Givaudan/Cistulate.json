@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Cistulate is a Mediterranean pine ingredient with a cistus character.At levels up to 2%, Cistulate modifies and freshens the topnotes particularly in herbal and pine fragrances adding diffusivity and warmth.",
+        "family": "Herbal",
+        "givaudanNumber": "3974403",
+        "name": "Cistulate",
+        "note": [
+            "Herbal",
+            "Pine",
+            "Citrus",
+            "Fresh"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "Several hours",
+        "useLevel": "Up to 2%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "52557-97-8",
+        "formula": "C11H18O2",
+        "logP": "3,1",
+        "molecularWeight": "182,6",
+        "name": "Methyl 3,3-dimethylbicyclo[2.2.1]heptane-2-carboxylate",
+        "vapourPressure": "0.0100 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Moderate",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

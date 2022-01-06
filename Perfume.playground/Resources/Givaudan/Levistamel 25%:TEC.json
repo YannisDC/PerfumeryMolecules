@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Levistamel 25%/TEC has a sweet note of caramelised sugar with a green, celery, fenugreek, balsamic and aromatic background.Atlevels up to 1% Levistamel 25%/TEC can add an interesting effect in herbal and pine fragrances. It can be used to increase thesweetness of a fragrance, especially when seeking to reduce levels of vanillin.",
+        "family": "Gourmand",
+        "givaudanNumber": "5845733",
+        "name": "Levistamel 25%/TEC",
+        "note": [
+            "Gourmand",
+            "Caramel",
+            "Liquorice",
+            "Balsamic"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Poor",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Poor",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "Several weeks",
+        "useLevel": "Up to 1%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "675-09-2",
+        "formula": "C7H8O2",
+        "logP": "1,2",
+        "molecularWeight": "124",
+        "name": "4,6-Dimethyl-2H-pyran-2-one (25% solution in triethylcitrate)",
+        "vapourPressure": ""
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

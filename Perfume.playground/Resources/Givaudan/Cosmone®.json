@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Cosmone is a very rich, intense and diffusive musky note with warm and powdery facets, a reminiscent of Ambregris with sweetaspects of nitromusksThanks to its powerful and rich musk character, Cosmone gives an elegant touch to all kinds of accordsalready at 0.1%. Its main use is certainly in musky, ambery, woody, oriental, chypre and fougere fragrances, but it also addsrichness to floral, fruity, citrus and green notes. Cosmone can be used alone or in combination with other musks.",
+        "family": "Musky",
+        "givaudanNumber": "0015173",
+        "name": "Cosmone®",
+        "note": [
+            "Musky",
+            "Warm",
+            "Powdery"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Moderate",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "1 month +",
+        "useLevel": "0.5% - 15%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "259854-70-1",
+        "formula": "C15H26O",
+        "logP": "5,6",
+        "molecularWeight": "222,4",
+        "name": "(E/Z)-3-methyl-cyclotetradec-5-en-1-one",
+        "vapourPressure": "0.0090 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Poor",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Good",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

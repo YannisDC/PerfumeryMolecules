@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Rose, Green",
+    "family": "Floral",
+    "flashpoint": "103°C",
+    "formula": "3,7-Dimethyl-2,6-octadien-1-ol (isomers)",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "106-24-1",
+        "ipc": "See below",
+        "reach": "01-2119552430-49"
+    },
+    "impact": {
+        "base": "1",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "2.6",
+    "molecularWeight": "154.2",
+    "name": "Geraniol",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "Mild floral fresh rose note.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "24 hours",
+    "useLevel": "Up to 30%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.008507 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

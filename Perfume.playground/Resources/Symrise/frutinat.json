@@ -1,0 +1,51 @@
+{
+    "CASNumber": "35206-51-0",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "1,3-Dimethylbutyl (2E)-but-2-enoate",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "170.28",
+    "olfactoryDescription": [
+        "fruity",
+        "plum. apple",
+        "star fruit"
+    ],
+    "olfactoryFamily": "fruity",
+    "perfumeryUse": "gives volume, strength and naturalness to green fruity notes; has an interesting liftingand harmonizing effect; provides a deep fruitiness to floral notes",
+    "productName": "Frutinat",
+    "productNumber": "611400",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "very good"
+        },
+        {
+            "soap": "very good"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "very good"
+        },
+        {
+            "cleaner liquid citric acid": "good"
+        },
+        {
+            "cleanerapc liquid": "very good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "1, 3-Dimethylbutyl crotonate",
+    "useLevel": "",
+    "usefulIn": ""
+}

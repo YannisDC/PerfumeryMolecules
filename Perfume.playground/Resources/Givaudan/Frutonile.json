@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Frutonile has an intense peach character with lactonic undertones.It is stable across the whole pH range, allowing the perfumersto create a stable fruity effect at low concentration in any applications, including bleach system.",
+        "family": "Fruity",
+        "givaudanNumber": "1461553",
+        "name": "Frutonile",
+        "note": [
+            "Fruity",
+            "Peach",
+            "Lactonic"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "2 weeks",
+        "useLevel": "Up to 1%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "69300-15-8",
+        "formula": "C11H21N",
+        "logP": "",
+        "molecularWeight": "167",
+        "name": "2-Methyldecanenitrile",
+        "vapourPressure": "0.0267 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Good",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Good",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

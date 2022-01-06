@@ -1,0 +1,79 @@
+{
+    "facet": "Green, Fresh, Fruity",
+    "family": "Green",
+    "flashpoint": "107°C",
+    "formula": "1-(5,5-Dimethyl-1-cyclohexen-1-yl)pent-4-en-1-one",
+    "gc": "Sum isomers min. 95%",
+    "identificationNumbers": {
+        "cas": "56973-85-4",
+        "ipc": "070969",
+        "reach": "01-2120739840-52"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "23",
+        "top": "23"
+    },
+    "logP": "4.45",
+    "molecularWeight": "192.2",
+    "name": "Galbascone",
+    "olfactiveId": "High Tech",
+    "olfactoryDescription": "A fresh somewhat hyacinth green, ozonic fruity juicy pineapple note of high impact and expanding diffusivity.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Traces to 0.1%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.008554 mm Hg @ 23°C",
+    "visual": "Yellow liquid"
+}

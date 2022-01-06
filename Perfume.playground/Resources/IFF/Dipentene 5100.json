@@ -1,0 +1,14 @@
+{
+    "facet": "Pine, Lime, Citrus",
+    "family": "Citrus",
+    "formula": "Terpene hydrocarbons",
+    "identificationNumbers": {
+        "cas": "01-2119980606-28",
+        "ipc": "040979",
+        "reach": "01-2119980606-28"
+    },
+    "logP": "4.4",
+    "name": "Dipentene 5100",
+    "olfactoryDescription": "A mixture of hydrocarbons, including terpinolene (p-menthadienes), together with small amounts of the alcohols derived from the production of terpineol from alpha pinene. Pine-lime fragrance.",
+    "vaporPressure": "1.011607 mm Hg @ 23°C"
+}

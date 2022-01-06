@@ -1,0 +1,79 @@
+{
+    "facet": "Citrus, Grapefruit, Vetivert",
+    "family": "Citrus",
+    "flashpoint": "110°C",
+    "formula": "2,2,4-Trimethyl-4-phenyl-butanenitrile",
+    "gc": "Min. 98%",
+    "identificationNumbers": {
+        "cas": "75490-39-0",
+        "ipc": "110581",
+        "reach": "01-2119427052-53"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "3.34",
+    "molecularWeight": "187.1",
+    "name": "Khusinil",
+    "olfactiveId": "Exhilarating",
+    "olfactoryDescription": "Adds sparkle and bloom to most compounds. Grapefruit, rhubarb, vetivert, green, woody.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Bleach",
+            "stability": "Moderate"
+        }
+    ],
+    "substantivity": "> 24 hours",
+    "useLevel": "Up to 10%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.008685 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

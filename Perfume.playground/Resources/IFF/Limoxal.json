@@ -1,0 +1,79 @@
+{
+    "facet": "Citrus, Aldehydic, Zest",
+    "family": "Citrus",
+    "flashpoint": "105°C",
+    "formula": "ß,4-dimethylcyclohex-3-ene-1-propan-1-al",
+    "gc": "Min. 94%",
+    "identificationNumbers": {
+        "cas": "6784-13-0",
+        "ipc": "120628",
+        "reach": "01-2120741135-63"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "3",
+        "top": "3"
+    },
+    "logP": "3.84",
+    "molecularWeight": "166.2",
+    "name": "Limoxal",
+    "olfactiveId": "Air",
+    "olfactoryDescription": "A diffusive fresh citrus which evokes the sensation of the natural sparkle of Lemon and Orange zest. Particularly effective in combination with natural citrus oils. Adds a slight herbal characteristic enhancing overall strength and volume of compositions.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Poor"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "48 hours",
+    "useLevel": "Up to 4%",
+    "uses": "Used in combination with natural and synthetic citrus notes to increase body and tenacity, and very effective in oriental, sandalwood, amber and wood accords",
+    "vaporPressure": "0.0437 mm Hg @ 23°C",
+    "visual": "Clear colorless liquid"
+}

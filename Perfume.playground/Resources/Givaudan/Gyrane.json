@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Gyrane is a radiant green floral with spicy geranium aspects.It supports the fresh green top-notes of a fragrance, and works wellwith materials such as Cyclal C, Neofolione and cis-3 hexenol derivatives.",
+        "family": "Floral",
+        "givaudanNumber": "5653603",
+        "name": "Gyrane",
+        "note": [
+            "Floral",
+            "Geranium",
+            "Green"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Poor",
+        "burningEffectiveness": "Moderate",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "Several hours",
+        "useLevel": "Up to 10%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "24237-00-124237-01-224237-02-3",
+        "formula": "C11H20O",
+        "logP": "3,8",
+        "molecularWeight": "168",
+        "name": "6-Butyl-3,6-dihydro-2,4-dimethyl-2H-pyran & 2-Butyl-3,6-dihydro-4,6-dimethyl-2H-pyran & 2-Butyltetrahydro-6-methyl-4-methylene-2H-pyran (mixture of isomers)",
+        "vapourPressure": "0.2530 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Moderate",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

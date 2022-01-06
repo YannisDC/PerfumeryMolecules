@@ -1,0 +1,31 @@
+{
+    "CASNumber": "5989-27-5",
+    "FEMANumber": "2633",
+    "FLAVISNumber": "01.045",
+    "INCIName": "Limonene",
+    "IUPACName": "(4R)-4-Isopropenyl-1-methylcyclohexene",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        "orange",
+        "citrus",
+        "terpenic",
+        "fruity",
+        "sweet",
+        "mandarine"
+    ],
+    "molecularWeight": "136.24",
+    "olfactoryDescription": [
+        "citrus",
+        "agrume",
+        "orange"
+    ],
+    "olfactoryFamily": "citrus",
+    "perfumeryUse": "",
+    "productName": "Limonene d",
+    "productNumber": "762250",
+    "stability": [],
+    "synonyms": "(R)-p-Mentha-1, 8-diene",
+    "useLevel": "up to 20%",
+    "usefulIn": "mint, spices/herbs, citrus, yellow fruit"
+}

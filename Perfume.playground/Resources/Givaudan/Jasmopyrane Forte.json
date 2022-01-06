@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Jasmopyrane has a floral jasmine note with a rich sweet herbaceous character and hints of tea. Jasmopyrane Forte is a broader-cut, lower cost option that is slightly more tenacious and has a more pronounced green mushroom.",
+        "family": "Floral",
+        "givaudanNumber": "6347541",
+        "name": "Jasmopyrane Forte",
+        "note": [
+            "Floral",
+            "Jasmine",
+            "Aromatic"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Moderate",
+        "substantivityDamp": "Poor",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "Good",
+        "useLevel": "Up to 5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "18871-14-2",
+        "formula": "C12H22O3",
+        "logP": "3",
+        "molecularWeight": "214,3",
+        "name": "3-Pentyl-4-tetrahydropyranyl acetate",
+        "vapourPressure": "0.0067 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Good",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Moderate",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Poor",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Moderate",
+            "ph": "10"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Balsamic, Fatty",
+    "family": "Floral",
+    "flashpoint": "> 94°C",
+    "formula": "3,7-Dimethyloctan-1,7-diol",
+    "gc": "Min. 98%",
+    "identificationNumbers": {
+        "cas": "107-74-4",
+        "ipc": "089455",
+        "reach": "01-2120765003-64"
+    },
+    "impact": {
+        "base": "1",
+        "heart": "1",
+        "top": "1"
+    },
+    "logP": "2.54",
+    "molecularWeight": "174.2",
+    "name": "Hydroxyol",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "Mild, clean floral note. Very long lasting. Closer to rose than muguet.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Bleach",
+            "stability": "Moderate"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 20%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.00003 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

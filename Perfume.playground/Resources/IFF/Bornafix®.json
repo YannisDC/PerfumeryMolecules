@@ -1,0 +1,79 @@
+{
+    "facet": "Amber, Woody, Dry",
+    "family": "Amber",
+    "flashpoint": "> 94°C",
+    "formula": "2-Methyl-3-{1,7,7-trimethylbicyclo{2.2.1}hept-2-yl)oxy} exo-1-propanol and isomers",
+    "gc": "Main peak min. 95%",
+    "identificationNumbers": {
+        "cas": "128119-70-0",
+        "ipc": "021067",
+        "reach": "01-0000016310-85"
+    },
+    "impact": {
+        "base": "1",
+        "heart": "1",
+        "top": "2"
+    },
+    "logP": "3.49",
+    "molecularWeight": "226.35",
+    "name": "Bornafix®",
+    "olfactiveId": "Intimate",
+    "olfactoryDescription": "Warm woody, dry amber, cedarwood. For use in woody complexes and provides good support for most florals. Substantive and has very interesting synergistic properties.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Bleach",
+            "stability": "Moderate"
+        }
+    ],
+    "substantivity": "> 72 hours",
+    "useLevel": "Up to 20%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.000817 mm Hg @ 23°C",
+    "visual": "Liquid"
+}

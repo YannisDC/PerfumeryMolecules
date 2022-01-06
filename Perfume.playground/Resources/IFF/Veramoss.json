@@ -1,0 +1,79 @@
+{
+    "facet": "Powdery, Mossy, Earthy",
+    "family": "Woody",
+    "flashpoint": "Melting point: 142°C",
+    "formula": "Methyl-2,4-dihydroxy-3,6-dimethylbenzoate",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "4707-47-5",
+        "ipc": "222200",
+        "reach": "01-2120762759-36"
+    },
+    "impact": {
+        "base": "2",
+        "heart": "2",
+        "top": "0"
+    },
+    "logP": "3.22",
+    "molecularWeight": "196.1",
+    "name": "Veramoss",
+    "olfactiveId": "Air",
+    "olfactoryDescription": "Oakmoss, soft woody, phenolic, earthy.",
+    "performanceTable": [
+        {
+            "performance": "Excellent",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": ">72 hours",
+    "useLevel": "Up to 10%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.000018 mm Hg @ 23°C",
+    "visual": "White solid"
+}

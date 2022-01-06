@@ -1,0 +1,52 @@
+{
+    "CASNumber": "68555-58-8",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "3-Methylbut-2-en-1-yl salicylate",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "206.24",
+    "olfactoryDescription": [
+        "floral",
+        "orchid",
+        "ylang ylang",
+        "green"
+    ],
+    "olfactoryFamily": "floral",
+    "perfumeryUse": "",
+    "productName": "Prenyl salicylate",
+    "productNumber": "103483",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "very good"
+        },
+        {
+            "cleaner apc liquid": "very good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "",
+    "useLevel": "",
+    "usefulIn": ""
+}

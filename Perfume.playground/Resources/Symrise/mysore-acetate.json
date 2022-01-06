@@ -1,0 +1,52 @@
+{
+    "CASNumber": "30772-69-1",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "Acetic acidoctahydro-4,7-methano-inden-5-ylmethyl ester",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "208.01",
+    "olfactoryDescription": [
+        "woody",
+        "floral",
+        "violet",
+        "fruity"
+    ],
+    "olfactoryFamily": "woody",
+    "perfumeryUse": "gives woody vibrancy to violet notes; provides woody accents to tropical fruitconcepts; helpful ingredient for sandalwood bases",
+    "productName": "Mysore acetate",
+    "productNumber": "659673",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "poor"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleaner apc liquid": "poor"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "4, 7-Methano-1H-indenemethanol,octahydro-, acetate",
+    "useLevel": "",
+    "usefulIn": ""
+}

@@ -1,0 +1,52 @@
+{
+    "CASNumber": "106-02-5",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "Pentadecalactone",
+    "IUPACName": "Oxacyclohexadecan-2-one",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "240.43",
+    "olfactoryDescription": [
+        "musky",
+        "balsamic",
+        "lactonic",
+        "red fruit"
+    ],
+    "olfactoryFamily": "musky",
+    "perfumeryUse": "",
+    "productName": "Macrolide®",
+    "productNumber": "600356",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "very good"
+        },
+        {
+            "soap": "very good"
+        },
+        {
+            "ap roll-on 15%": "very good"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "good"
+        },
+        {
+            "cleanerapc liquid": "very good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "15-Pentadecalactone",
+    "useLevel": "",
+    "usefulIn": ""
+}

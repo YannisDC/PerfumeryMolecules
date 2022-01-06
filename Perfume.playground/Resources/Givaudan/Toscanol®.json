@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Toscanol has a powerful and linear anisic, sweet-spicy note of estragole (methyl chavicol), liquorice and sassafras oil characterwith a touch of saffron, myrtle, opoponax and carvi seeds.Toscanol can be used in all kind of accords to add anisic agrestic andaromatic character. Useful in Fine Fragrance and in Consumer Products as a substitute for basil oil, tarragon oil, syntheticestragole (methyl chavicol) and safrole.",
+        "family": "Herbal",
+        "givaudanNumber": "0014203",
+        "name": "Toscanol®",
+        "note": [
+            "Herbal",
+            "Anis",
+            "Green"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "2 days",
+        "useLevel": "0.1% - 5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "16510-27-3",
+        "formula": "C11H14O",
+        "logP": "3,8",
+        "molecularWeight": "162.2",
+        "name": "1-Cyclopropylmethyl-4-methoxybenzene",
+        "vapourPressure": "0.0113 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Good",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Moderate",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

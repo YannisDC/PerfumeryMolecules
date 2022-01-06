@@ -1,0 +1,79 @@
+{
+    "facet": "Citrus, Lemon, Fresh",
+    "family": "Citrus",
+    "flashpoint": "82°C",
+    "formula": "1,1-Dimethoxy-3.7-dimethyl-2,6-octadiene",
+    "gc": "Sum acetals min. 93%",
+    "identificationNumbers": {
+        "cas": "7549-37-3",
+        "ipc": "034233",
+        "reach": "Not yet required"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "3"
+    },
+    "logP": "3.83",
+    "molecularWeight": "198.3",
+    "name": "Citral Dimethyl Acetal",
+    "olfactiveId": "Exhilarating",
+    "olfactoryDescription": "Citrus, verbena note. Has a much milder but more natural lemon odor than Citral.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Fabric Conditioner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 15%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.09337 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow"
+}

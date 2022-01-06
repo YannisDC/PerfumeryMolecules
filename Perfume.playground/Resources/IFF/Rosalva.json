@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Aldehydic, Rose",
+    "family": "Floral",
+    "flashpoint": "94°C",
+    "formula": "9-Decen-1-ol",
+    "gc": "Sum alcohols min. 98%",
+    "identificationNumbers": {
+        "cas": "13019-22-2",
+        "ipc": "186682",
+        "reach": "01-2120767272-53"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "23",
+        "top": "0"
+    },
+    "logP": "3.7",
+    "molecularWeight": "156.2",
+    "name": "Rosalva",
+    "olfactiveId": "High Tech",
+    "olfactoryDescription": "Fresh, green, aldehydic dewy rose note; imparts a waxy, aldehydic character without being fatty and maintains a constancy of odor strength.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Bleach",
+            "stability": "Moderate"
+        }
+    ],
+    "substantivity": "48 hours",
+    "useLevel": "Up to 2%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.005914 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

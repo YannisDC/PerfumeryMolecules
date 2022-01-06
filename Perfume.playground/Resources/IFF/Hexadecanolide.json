@@ -1,0 +1,79 @@
+{
+    "facet": "Musk, Sweet, Animalic",
+    "family": "Musk",
+    "flashpoint": "94°C",
+    "formula": "Oxacycloheptadecan-2-one",
+    "gc": "Min. 98%",
+    "identificationNumbers": {
+        "cas": "109-29-5",
+        "ipc": "082663",
+        "reach": "Not yet required"
+    },
+    "impact": {
+        "base": "2",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "6.65",
+    "molecularWeight": "254.4",
+    "name": "Hexadecanolide",
+    "olfactiveId": "Intimate",
+    "olfactoryDescription": "Sweet musk note of great diffusion and tenacity with balsamic, animalic effects.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 3%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.000085 mm Hg @ 23°C",
+    "visual": "Solid white"
+}

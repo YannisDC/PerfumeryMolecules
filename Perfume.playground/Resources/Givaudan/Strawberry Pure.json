@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Strawberry Pure is obviously used for strawberry compounds, but this product is also useful in a variety of floral compositions,such as jasmine and rose. Strawberry Pure adds warmth to a fragrance as well as reinforces top notes. It blends particularly wellwith ionones, hydroxycitronellal, woody notes, aldehydes and fruity lactones.",
+        "family": "Fruity",
+        "givaudanNumber": "5200003",
+        "name": "Strawberry Pure",
+        "note": [
+            "Fruity",
+            "Strawberry",
+            "Powerful"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Poor",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "Several days",
+        "useLevel": "Traces - 5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "77-83-8",
+        "formula": "C12H14O3",
+        "logP": "2,8",
+        "molecularWeight": "206.2",
+        "name": "Ethyl 3-phenyl-2,3-epoxybutanoate",
+        "vapourPressure": "0.0133 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Poor",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Poor",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Moderate",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Linalyl Cinnamate gives a sweet natural effect to floral, fruity and oriental compositions. It is ideal for use in delicate floral accordswhere it acts as a blending agent and as a fixative.",
+        "family": "Floral",
+        "givaudanNumber": "3910003",
+        "name": "Linalyl Cinnamate",
+        "note": [
+            "Floral",
+            "Fruity",
+            "Balsamic",
+            "Sweet"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "8 hours",
+        "useLevel": "0.5% - 5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "78-37-5",
+        "formula": "C19H24O2",
+        "logP": "6,1",
+        "molecularWeight": "284.4",
+        "name": "3,7-Dimethyl-1,6-octadien-3-yl 3-phenyl-2-propenoate",
+        "vapourPressure": "0.0013 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Melonal offers a powerful and unique note. It is effective in all types of fragrances and is invaluable in the creation of naturalsmelling marine and fruity-melon notes.",
+        "family": "Green",
+        "givaudanNumber": "6746001",
+        "name": "Melonal",
+        "note": [
+            "Green",
+            "Melon",
+            "Cucumber",
+            "Powerful"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "4 hours",
+        "useLevel": "Traces - 0.2%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "106-72-9",
+        "formula": "C9H16O",
+        "logP": "3,4",
+        "molecularWeight": "140.2",
+        "name": "2,6-Dimethyl-5-heptenal",
+        "vapourPressure": "0.5333 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Poor",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Moderate",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Moderate",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Moderate",
+            "ph": "10"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "CASNumber": "110-41-8",
+    "FEMANumber": "2749",
+    "FLAVISNumber": "05.077",
+    "INCIName": "",
+    "IUPACName": "2-Methylundecanal",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "184.36",
+    "olfactoryDescription": [
+        "aldehydic",
+        "marine",
+        "coniferous",
+        "mandarin"
+    ],
+    "olfactoryFamily": "aldehydic",
+    "perfumeryUse": "top note booster; underlines natural aromatic elements of herbaceous and coniferouscreations; imparts bitter accents to citrus fruit notes",
+    "productName": "Aldehyde C12 MNA",
+    "productNumber": "656021",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "good"
+        },
+        {
+            "cleaner apc liquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "2-Methyl-1-undecanal, Methyl nonylacetaldehyde",
+    "useLevel": "traces up to 5%",
+    "usefulIn": ""
+}

@@ -1,0 +1,69 @@
+{
+    "general": {
+        "description": "Isopropyl Methyl-2-Butyrate is used for green-fruity accords like pear and apple. It provides significant freshness to perfumes incombination with floral elements.",
+        "family": "Fruity",
+        "givaudanNumber": "1381023",
+        "name": "Isopropyl Methyl-2-Butyrate",
+        "note": [
+            "Fruity",
+            "Pear",
+            "Pineapple",
+            "Green",
+            "Diffusive"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Poor",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "1 hour",
+        "useLevel": "0.2% - 2%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "66576-71-4",
+        "formula": "C8H16O2",
+        "logP": "3,3",
+        "molecularWeight": "144.2",
+        "name": "Isopropyl 2-methylbutyrate",
+        "vapourPressure": "5.6392 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

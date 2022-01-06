@@ -1,0 +1,28 @@
+{
+    "CASNumber": "89-83-8",
+    "FEMANumber": "3066",
+    "FLAVISNumber": "04.006",
+    "INCIName": "Thymol",
+    "IUPACName": "Thymol",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        "thyme",
+        "herbal",
+        "phenolic"
+    ],
+    "molecularWeight": "150.24",
+    "olfactoryDescription": [
+        "aromatic",
+        "thyme",
+        "leather"
+    ],
+    "olfactoryFamily": "aromatic",
+    "perfumeryUse": "",
+    "productName": "Thymol cryst.",
+    "productNumber": "620050",
+    "stability": [],
+    "synonyms": "6-Isopropyl-3-cresol,5-Methyl-2-isopropylphenol",
+    "useLevel": "0.1 - 2%",
+    "usefulIn": "mint, spices/herbs, citrus"
+}

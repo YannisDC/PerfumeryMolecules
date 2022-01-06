@@ -1,0 +1,69 @@
+{
+    "general": {
+        "description": "Ultrazur can be used in most applications where a fresh, substantive, ozonic note is required. Trace amounts can already modify afragrance while several percents can be used to impart a fresh, ozonic, slightly ambery aspect to laundry and men's finefragrance.",
+        "family": "Marine",
+        "givaudanNumber": "21218823",
+        "name": "Ultrazur®",
+        "note": [
+            "Marine",
+            "Ozonic",
+            "Citrus",
+            "Fresh",
+            "Ambery"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "1 week",
+        "useLevel": "0.1% - 3%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "",
+        "formula": "",
+        "logP": "",
+        "molecularWeight": "",
+        "name": "Multicomponent mixture",
+        "vapourPressure": ""
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Muguet, Fresh",
+    "family": "Floral",
+    "flashpoint": "104°C",
+    "formula": "5,5-Dimethyl-octahydro-2-naphthalenecarboxaldehyde (isomers)",
+    "gc": "Sum isomers min. 93%",
+    "identificationNumbers": {
+        "cas": "68991-97-9",
+        "ipc": "131331",
+        "reach": "01-2120769904-40"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "23",
+        "top": "23"
+    },
+    "logP": "4.38",
+    "molecularWeight": "192.3",
+    "name": "Melafleur",
+    "olfactiveId": "Air",
+    "olfactoryDescription": "A substantive floral muguet product having the odor of fresh outdoors with a green melony background",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Poor"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 15%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.008843 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

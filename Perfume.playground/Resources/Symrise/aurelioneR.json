@@ -1,0 +1,51 @@
+{
+    "CASNumber": "88642-03-9, 3100-36-5",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "Cyclohexadec-8-en-1-one",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "236.44",
+    "olfactoryDescription": [
+        "musky",
+        "balsamic",
+        "powdery"
+    ],
+    "olfactoryFamily": "musky",
+    "perfumeryUse": "imparts an erogenous, skin-like effect; displays radiance throughout the fragrance;reflects musk ketone aspects; synergistic effects occur by combination with other mcmketones and lactones",
+    "productName": "Aurelione®",
+    "productNumber": "600098",
+    "stability": [
+        {
+            "body lotion": "very good"
+        },
+        {
+            "shampoo/shower gel": "very good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "very good"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleanerapc liquid": "very good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "Cyclohexadecenon Isomers",
+    "useLevel": "",
+    "usefulIn": ""
+}

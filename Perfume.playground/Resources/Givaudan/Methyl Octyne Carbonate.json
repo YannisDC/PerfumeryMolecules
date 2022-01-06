@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Methyl Octyne Carbonate is widely used in floral notes. It produces the powerful yet subtle note of violet leaves with a fruity-vegetable, cucumber undertone.",
+        "family": "Floral",
+        "givaudanNumber": "7594003",
+        "name": "Methyl Octyne Carbonate",
+        "note": [
+            "Floral",
+            "Violet leaves",
+            "Green"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "16 hours",
+        "useLevel": "Traces - 2%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "111-80-8",
+        "formula": "C10H16O2",
+        "logP": "4",
+        "molecularWeight": "168.2",
+        "name": "Methyl 2-nonynoate",
+        "vapourPressure": "0.0533 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Moderate",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

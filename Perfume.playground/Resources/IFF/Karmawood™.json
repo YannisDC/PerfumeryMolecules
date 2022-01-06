@@ -1,0 +1,79 @@
+{
+    "facet": "Woody, Amber, Sandalwood",
+    "family": "Woody",
+    "flashpoint": "125°C",
+    "formula": "1-(2,2,6-Trimethylcyclohexyl)-3-hexanol",
+    "gc": "Sum of isomers 95-100%",
+    "identificationNumbers": {
+        "cas": "70788-30-6",
+        "ipc": "110015",
+        "reach": "01-2120766836-38"
+    },
+    "impact": {
+        "base": "3",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "5.8",
+    "molecularWeight": "226.2",
+    "name": "Karmawood™",
+    "olfactiveId": "Primitive",
+    "olfactoryDescription": "A substantive woody, powdery amber, creamy sandalwood note that adds strength and tenacity to fragrances.",
+    "performanceTable": [
+        {
+            "performance": "Excellent",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 1 week",
+    "useLevel": "Traces to 3%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.000735 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

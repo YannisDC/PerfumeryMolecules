@@ -1,0 +1,52 @@
+{
+    "CASNumber": "25485-88-5",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "2-Hydroxy-benzoic acid cyclohexylester",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "220.26",
+    "olfactoryDescription": [
+        "floral",
+        "white flower",
+        "green",
+        "carnation"
+    ],
+    "olfactoryFamily": "floral",
+    "perfumeryUse": "underlines white flower creations like tiar, jasmine, tuberose, gardenia, ylang ylang;rounds off fruity notes like melon, watermelon; implements floral transparency;provides accents in green vegetable concepts",
+    "productName": "Cyclohexyl salicylate",
+    "productNumber": "103360",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "very good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "poor"
+        },
+        {
+            "cleaner liquid citric acid": "good"
+        },
+        {
+            "cleaner apcliquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "Benzoic acid, 2-hydroxy-, cyclohexylester",
+    "useLevel": "",
+    "usefulIn": ""
+}

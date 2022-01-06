@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Anisyl Alcohol adds volume and gives a natural aspect to floral compositions such as mimosa, lilac, cassia, apple-blossom, jasmineand heliotrope as well as to clove and fougere perfumes. It has an excellent blending effect and can give a heliotropic characterwithout the problem of coloration.",
+        "family": "Herbal",
+        "givaudanNumber": "1089001",
+        "name": "Anisyl Alcohol",
+        "note": [
+            "Herbal",
+            "Anis",
+            "Floral",
+            "Powdery"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Moderate",
+        "substantivityDamp": "Poor",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "1 day",
+        "useLevel": "1% - 10 %"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "105-13-5",
+        "formula": "C8H10O2",
+        "logP": "1",
+        "molecularWeight": "138.2",
+        "name": "4-Methoxybenzyl alcohol",
+        "vapourPressure": "0.0107 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Moderate",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

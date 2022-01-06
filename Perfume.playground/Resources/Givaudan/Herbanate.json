@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Herbanate has a fruity note with hints of banana, pineapple and blackcurrant. The background is fresh and herbal with a warmspicy element.Herbanate is a versatile material that provides or enhances the natural effect of fragrances, particularly in fruitynotes where it gives a juicy tropical fruit effect. It can also be used as a 10% dilution to give a green herbal freshness and blendswell with citrus, green and even spicy notes.",
+        "family": "Fruity",
+        "givaudanNumber": "0025743",
+        "name": "Herbanate",
+        "note": [
+            "Fruity",
+            "Green",
+            "Tropical"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Moderate",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "Several days",
+        "useLevel": "Up to 2%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "116126-82-0116044-44-1",
+        "formula": "C13H20O2",
+        "logP": "3,6",
+        "molecularWeight": "208",
+        "name": "Ethyl 3-isopropylbicyclo[2.2.1]hept-5-ene-2-carboxylate",
+        "vapourPressure": "2.1200 hPa (25°C)"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Good",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

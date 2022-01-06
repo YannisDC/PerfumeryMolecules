@@ -1,0 +1,79 @@
+{
+    "facet": "Fresh, Floral, Green",
+    "family": "Fresh",
+    "flashpoint": "97°C",
+    "formula": "1-(1,1-Dimethylpropyl)-4-ethoxycyclohexane (mixture of cis & trans isomers)",
+    "gc": "Sum isomers min. 95%",
+    "identificationNumbers": {
+        "cas": "181258-87-7 / 181258-89-9",
+        "ipc": "151313",
+        "reach": "01-0000017293-72"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "3",
+        "top": "3"
+    },
+    "logP": "5.5",
+    "molecularWeight": "198.2",
+    "name": "Ozofleur",
+    "olfactiveId": "Air",
+    "olfactoryDescription": "Ozone like, wet metallic clean effervescent.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Bleach",
+            "stability": "Moderate"
+        }
+    ],
+    "substantivity": "6 hours",
+    "useLevel": "Up to 6%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.05032 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

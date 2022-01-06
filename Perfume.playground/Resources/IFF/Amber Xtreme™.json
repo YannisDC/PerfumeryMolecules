@@ -1,0 +1,79 @@
+{
+    "facet": "Amber, Woody, Dry",
+    "family": "Amber",
+    "flashpoint": "128°C",
+    "formula": "Decahydro-2,2,6,6,7,8,8-heptamethyl indenofuran",
+    "gc": "Sum isomers min. 94%",
+    "identificationNumbers": {
+        "cas": "476332-65-7 / 647828-16-8",
+        "ipc": "012425",
+        "reach": "01-0000018977-51"
+    },
+    "impact": {
+        "base": "3",
+        "heart": "3",
+        "top": "3"
+    },
+    "logP": "7.1",
+    "molecularWeight": "264",
+    "name": "Amber Xtreme™",
+    "olfactiveId": "Primitive",
+    "olfactoryDescription": "Amber woody ingredient that provides extraordinary performance to almost any fragrance type.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Acid Cleaner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Excellent",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Excellent",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Excellent",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "AP Deo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Bleach",
+            "stability": "Good"
+        }
+    ],
+    "substantivity": ">1 week",
+    "useLevel": "Traces to 0.5%",
+    "uses": "Fine fragrance, fabric care, personal care, home care, candles",
+    "vaporPressure": "0.005516 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Madrox is extremely useful in woody, fougere and chypre compositions, where it imparts an interesting Ambregris note. Used asa main constituent, it blends the top notes and strengthens the body of a fragrance.",
+        "family": "Woody",
+        "givaudanNumber": "6655003",
+        "name": "Madrox®",
+        "note": [
+            "Woody",
+            "Ambery",
+            "Tobacco",
+            "Warm"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "3 days",
+        "useLevel": "1% - 10%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "37514-30-0",
+        "formula": "C14H28O",
+        "logP": ">6.0",
+        "molecularWeight": "212.3",
+        "name": "1-Methyl-1-methoxycyclododecane",
+        "vapourPressure": "0.0080 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

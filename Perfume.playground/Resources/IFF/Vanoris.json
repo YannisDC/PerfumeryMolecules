@@ -1,0 +1,79 @@
+{
+    "facet": "Fruity, Woody, Red Fruit",
+    "family": "Fruity",
+    "flashpoint": "79°C",
+    "formula": "3,5,5-Trimethylhexyl acetate",
+    "gc": "Min 93%",
+    "identificationNumbers": {
+        "cas": "58430-94-7",
+        "ipc": "220658",
+        "reach": "01-2119972325-34"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "3"
+    },
+    "logP": "4.6",
+    "molecularWeight": "186.2",
+    "name": "Vanoris",
+    "olfactiveId": "Intimate",
+    "olfactoryDescription": "Soft, fruity, woody with a pleasing orris effect.",
+    "performanceTable": [
+        {
+            "performance": "Moderate",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "< 3 hours",
+    "useLevel": "Up to 10%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.202686 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

@@ -1,0 +1,52 @@
+{
+    "CASNumber": "69929-17-5",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "1-(2,4-Dimethylcyclohex-3-en-1-yl)-2,2-dimethylpropan-1-one",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "194.31",
+    "olfactoryDescription": [
+        "green",
+        "floral",
+        "chrysanthemum leaves",
+        "grapefruit"
+    ],
+    "olfactoryFamily": "green",
+    "perfumeryUse": "shows an elegant bitterness in grapefruit and coniferous accords; gives volume,complexity and depth to white floral creations; blends pleasantly with lactones tocreate a lively fruitiness",
+    "productName": "Chrysantheme",
+    "productNumber": "600144",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "very good"
+        },
+        {
+            "soap": "very good"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleaner apcliquid": "very good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "",
+    "useLevel": "0.05 - 3%",
+    "usefulIn": ""
+}

@@ -1,0 +1,58 @@
+{
+    "CASNumber": "7011-83-8",
+    "FEMANumber": "3786",
+    "FLAVISNumber": "10.051",
+    "INCIName": "",
+    "IUPACName": "5-Hexyl-5-methyldihydrofuran-2(3H)-one",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        "lactony",
+        "sweet",
+        "creamy",
+        "fatty",
+        "coconut",
+        "dairy"
+    ],
+    "molecularWeight": "184.31",
+    "olfactoryDescription": [
+        "floral",
+        "jasmine",
+        "lactonic",
+        "tuberose",
+        "yellow plum"
+    ],
+    "olfactoryFamily": "floral",
+    "perfumeryUse": "provides opulent flowers like jasmine or narcissus with rich creamy elements andanimalic nuances; adds milky accents to sandalwood compositions; underlines thefruity side in osmanthus and the exotic note in frangipani",
+    "productName": "Lactojasmone",
+    "productNumber": "660590",
+    "stability": [
+        {
+            "body lotion": "very good"
+        },
+        {
+            "shampoo/shower gel": "very good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "good"
+        },
+        {
+            "cleaner apcliquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "4-Hexyl-4-methyl butyrolactone",
+    "useLevel": "0.05 - 3%",
+    "usefulIn": "caramel, cocoa, brown others, dairy, vanilla, red fruit, yellow fruit, tropical fruit, fruitothers, sweet others, alcoholics"
+}

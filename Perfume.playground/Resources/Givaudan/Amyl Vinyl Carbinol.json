@@ -1,0 +1,66 @@
+{
+    "general": {
+        "description": "Amyl Vinyl Carbinol is an impactfull herbal note with mushroom effect.It is a top note used as a modifier in agrestic-aromaticaccords like lavender and fougere.",
+        "family": "Herbal",
+        "givaudanNumber": "1884001",
+        "name": "Amyl Vinyl Carbinol",
+        "note": [
+            "Herbal",
+            "Lavender"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Moderate",
+        "substantivityDamp": "Poor",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "12 hours",
+        "useLevel": "Traces - 0.5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "3391-86-4",
+        "formula": "C8H16O",
+        "logP": "2,4",
+        "molecularWeight": "128,2",
+        "name": "Oct-1-ene-3-ol",
+        "vapourPressure": "0.6660 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

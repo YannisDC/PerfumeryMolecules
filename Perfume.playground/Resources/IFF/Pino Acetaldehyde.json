@@ -1,0 +1,79 @@
+{
+    "facet": "Herbal, Marine, Woody",
+    "family": "Fresh",
+    "flashpoint": "89°C",
+    "formula": "6,6-Dimethylbicyclo [3.1.1] hept-2-ene-2-propionaldehyde",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "33885-51-7",
+        "ipc": "164940",
+        "reach": "01-2120739476-45"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "3"
+    },
+    "logP": "3.53",
+    "molecularWeight": "178",
+    "name": "Pino Acetaldehyde",
+    "olfactiveId": "Air",
+    "olfactoryDescription": "Fresh, herbal, marine, watery, woody, balsamic, pine character with an aldehydic effect reminiscent of a sea breeze.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "6 hours",
+    "useLevel": "Up to 3%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.032763 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

@@ -1,0 +1,79 @@
+{
+    "facet": "Woody, Floral, Ambergris",
+    "family": "Woody",
+    "flashpoint": "111°C",
+    "formula": "1-(1,2,3,4,5,6,7,8-Octahydro-2,3,8,8-tetramethyl-2- naphthalenyl)-ethan-1-one (and isomers)",
+    "gc": "Sum isomers min. 90%",
+    "identificationNumbers": {
+        "cas": "54464-57-2 / 68155-66-8 / 68155-67-9",
+        "ipc": "098663",
+        "reach": "01-2119489989-04"
+    },
+    "impact": {
+        "base": "2",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "4.71",
+    "molecularWeight": "234.2",
+    "name": "Iso E Super®",
+    "olfactiveId": "Intimate",
+    "olfactoryDescription": "Smooth, woody, amber with unique aspects giving a \"velvet\" like sensation. Used to impart fullness and subtle strength to fragrances. Superb floralizer found in the majority of newer fine fragrances and also useful is soaps. Richer in the desirable gamma isomer than is isocyclemone.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 10%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.001735 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Silvanone Supra is a sweet powdery animalic macrocyclic musk with aspects of nitromusk.It is highly substantive and tenaciousand can be used in all application areas to give a full body and long lasting effect. Silvanone Supra works well with woody andamber notes, adds richness to floral creations especially in the sophisticated white florals, spicy carnation and oriental accords.",
+        "family": "Musky",
+        "givaudanNumber": "21051233",
+        "name": "Silvanone® Supra",
+        "note": [
+            "Musky",
+            "Sweet",
+            "Powdery",
+            "Animalic"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Poor",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "Several months",
+        "useLevel": "Up to 20%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "109-29-5502-72-7",
+        "formula": "C16H30O2 & C15H28O",
+        "logP": "",
+        "molecularWeight": "254.0 & 224.0",
+        "name": "Cyclohexadecanolide & Cyclopentadecanone",
+        "vapourPressure": "0.0013 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

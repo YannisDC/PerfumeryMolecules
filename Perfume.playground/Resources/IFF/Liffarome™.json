@@ -1,0 +1,79 @@
+{
+    "facet": "Green, Floral, Fruity",
+    "family": "Green",
+    "flashpoint": "77°C",
+    "formula": "cis-3-Hexen-1-yl methyl carbonate",
+    "gc": "Min. 98%",
+    "identificationNumbers": {
+        "cas": "67633-96-9",
+        "ipc": "123975",
+        "reach": "01-2120735800-60"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "3",
+        "top": "3"
+    },
+    "logP": "2.47",
+    "molecularWeight": "158.2",
+    "name": "Liffarome™",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "A natural smelling violet green, pear, grass odor. Effective in trace amounts.",
+    "performanceTable": [
+        {
+            "performance": "Excellent",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "12 hours",
+    "useLevel": "Up to 2%",
+    "uses": "Fine fragrance, personal care, fabric care",
+    "vaporPressure": "0.253168 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

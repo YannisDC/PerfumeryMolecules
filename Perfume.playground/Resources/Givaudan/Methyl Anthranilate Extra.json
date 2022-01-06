@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Methyl Anthranilate Extra is extensively used in many types of floral blends such as neroli and orange blossom, as well as in exoticcompositions, gardenia, tuberose and jasmine, Methyl Anthranilate Extra imparts warmth, volume and sweetness and is used inall types of perfumery.",
+        "family": "Floral",
+        "givaudanNumber": "2297001",
+        "name": "Methyl Anthranilate Extra",
+        "note": [
+            "Floral",
+            "Neroli",
+            "Sweet",
+            "Warm"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "1 day",
+        "useLevel": "1% - 5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "134-20-3",
+        "formula": "C8H9NO2",
+        "logP": "1,9",
+        "molecularWeight": "151.2",
+        "name": "Methyl 2-aminobenzoate",
+        "vapourPressure": "0.0133 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Moderate",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Moderate",
+            "ph": "10"
+        }
+    }
+}

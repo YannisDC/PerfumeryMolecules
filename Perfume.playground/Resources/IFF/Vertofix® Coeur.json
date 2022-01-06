@@ -1,0 +1,79 @@
+{
+    "facet": "Woody, Vetivert, Leather",
+    "family": "Woody",
+    "flashpoint": "100°C",
+    "formula": "Acetyl cedrene",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "32388-55-9",
+        "ipc": "220700",
+        "reach": "01-2119969651-28"
+    },
+    "impact": {
+        "base": "2",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "5.6",
+    "molecularWeight": "246.2",
+    "name": "Vertofix® Coeur",
+    "olfactiveId": "Primitive",
+    "olfactoryDescription": "A warm precious wood aroma with musky undertones. Long lasting and diffusive. Woody, cedar, leather, dry.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 10%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.002926 mm Hg @ 23°C",
+    "visual": "Yellowish brown clear liquid"
+}

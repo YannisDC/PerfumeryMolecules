@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Lilac, Citrus",
+    "family": "Floral",
+    "flashpoint": "100°C",
+    "formula": "para Menth-1-en-8-ol",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "8000-41-7",
+        "ipc": "See below",
+        "reach": "01-2119553062-49"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "2.6",
+    "molecularWeight": "154.1",
+    "name": "Terpineol",
+    "olfactiveId": "Primitive",
+    "olfactoryDescription": "Smooth floral with hyacinth and lilac facets.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "24 hours",
+    "useLevel": "Up to 25%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.048612 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

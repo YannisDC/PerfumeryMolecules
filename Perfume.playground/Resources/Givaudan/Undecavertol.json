@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Undecavertol was developed in connection with structural elucidation work on unknown trace components of lily of the valley. Ithas a powerful green-floral character, somewhat related to lily-of-the-valley, with natural, fresh, fruity violet leaf and linden-blossom aspects.Undecavertol can be used successfully in rose and fruity pear accords. Although easy to use in most perfumerytypes, Undecavertol requires careful dosage and blending due to its exceptional strength.",
+        "family": "Floral",
+        "givaudanNumber": "9449903",
+        "name": "Undecavertol",
+        "note": [
+            "Floral",
+            "Violet",
+            "Green",
+            "Fresh"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "2 days",
+        "useLevel": "Traces - 5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "81782-77-6",
+        "formula": "C11H22O",
+        "logP": "3,9",
+        "molecularWeight": "170,2",
+        "name": "4-Methyl-3-decen-5-ol",
+        "vapourPressure": "0.0293 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Peonile, with its geranium-rosy character, gives interesting combinations in floral, fougere or hesperidic accords.Peonile ispowerful, relatively non-volatile and is very stable in almost all media. It has very high substantivity on wet and dry laundry andhelps to increase volume and tenacity in functional perfumes.",
+        "family": "Floral",
+        "givaudanNumber": "8753253",
+        "name": "Peonile®",
+        "note": [
+            "Floral",
+            "Geranium",
+            "Grapefruit",
+            "Fresh"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "1 month +",
+        "useLevel": "1% - 10 %"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "10461-98-0",
+        "formula": "C14H15N",
+        "logP": "4",
+        "molecularWeight": "197",
+        "name": "2-Cyclohexylidene-2-phenylacetonitrile",
+        "vapourPressure": "0.0004 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Good",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Moderate",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

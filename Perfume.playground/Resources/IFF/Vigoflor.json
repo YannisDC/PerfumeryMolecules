@@ -1,0 +1,79 @@
+{
+    "facet": "Citrus, Grapefruit, Vetivert",
+    "family": "Citrus",
+    "flashpoint": "94°C",
+    "formula": "Decahydro spiro[furan-2(3H),5'-(4,7-methano-5H-indene)]",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "68480-11-5",
+        "ipc": "223466",
+        "reach": "01-2120735664-50"
+    },
+    "impact": {
+        "base": "2",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "4.0",
+    "molecularWeight": "192.2",
+    "name": "Vigoflor",
+    "olfactiveId": "Contrasted",
+    "olfactoryDescription": "Bright citrus note with a predominant Grapefruit rind character which dries into a woody earthy vetivert heart and floral cassis dry down.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Bleach",
+            "stability": "Moderate"
+        }
+    ],
+    "substantivity": "> 12 hours",
+    "useLevel": "Up to 5%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.014706 mm Hg @ 23°C",
+    "visual": "Clear colorless to pale yellow liquid"
+}

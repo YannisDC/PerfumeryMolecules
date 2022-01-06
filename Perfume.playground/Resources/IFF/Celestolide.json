@@ -1,0 +1,79 @@
+{
+    "facet": "Animalic, Musk, Powdery",
+    "family": "Musk",
+    "flashpoint": "94°C",
+    "formula": "6-tert-Butyl-1,1-dimethylindan-4-yl methylketone",
+    "gc": "Min. 98%",
+    "identificationNumbers": {
+        "cas": "13171-00-1",
+        "ipc": "033412",
+        "reach": "01-2120762756-42"
+    },
+    "impact": {
+        "base": "2",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "5.4",
+    "molecularWeight": "244.4",
+    "name": "Celestolide",
+    "olfactiveId": "Intimate",
+    "olfactoryDescription": "A warm musk with brilliance, richness and strength.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Bleach",
+            "stability": "Moderate"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 10%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.000248 mm Hg @ 23°C",
+    "visual": "Crystal white"
+}

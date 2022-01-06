@@ -1,0 +1,79 @@
+{
+    "facet": "Musk, Sweet, Floral",
+    "family": "Musk",
+    "flashpoint": "104°C",
+    "formula": "Oxacycloheptadec-10-en-2-one",
+    "gc": "Min. 98%",
+    "identificationNumbers": {
+        "cas": "28645-51-4",
+        "ipc": "014200",
+        "reach": "01-2120768557-38"
+    },
+    "impact": {
+        "base": "2",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "> 6.0",
+    "molecularWeight": "252.4",
+    "name": "Ambrettolide",
+    "olfactiveId": "Intimate",
+    "olfactoryDescription": "Intensely powerful substantive musk odor with depth and richness. Floralcy and red fruit sweetness also imparted.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Traces to 2%",
+    "uses": "Personal care, home care, fabric care, fine fragrance, air care",
+    "vaporPressure": "0.000158 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow"
+}

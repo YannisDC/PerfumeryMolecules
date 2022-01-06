@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Syringa Aldehyde is an impactful floral-green note, used as a top note in lilac, hyacinth and rose accords but less pungent thanPhenyl Acetaldehyde.",
+        "family": "Floral",
+        "givaudanNumber": "1623003",
+        "name": "Syringa Aldehyde 50%",
+        "note": [
+            "Floral",
+            "Green",
+            "Sweet",
+            "Powerful"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Moderate",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "10 hours",
+        "useLevel": "Traces - 2%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "104-09-6",
+        "formula": "C9H10O",
+        "logP": "2,2",
+        "molecularWeight": "134,1",
+        "name": "(4-Methylphenyl)acetaldehyde (diluted with 2-Phenylethanol & (4-Methylphenyl)ethanol)",
+        "vapourPressure": "0.1333 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Poor",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Poor",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Moderate",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

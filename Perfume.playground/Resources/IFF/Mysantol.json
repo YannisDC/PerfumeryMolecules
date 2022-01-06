@@ -1,0 +1,79 @@
+{
+    "facet": "Sandalwood, Floral, Woody",
+    "family": "Woody",
+    "flashpoint": "124°C",
+    "formula": "4-Penten-2-ol, 3,3-dimethyl-5-(2,2,3-trimethyl-3-cyclopenten-1-yl)",
+    "gc": "Min. 95.5%",
+    "identificationNumbers": {
+        "cas": "107898-54-4",
+        "ipc": "161647",
+        "reach": "01-2119956812-31"
+    },
+    "impact": {
+        "base": "2",
+        "heart": "2",
+        "top": "0"
+    },
+    "logP": "4.7",
+    "molecularWeight": "222",
+    "name": "Mysantol",
+    "olfactiveId": "Intimate",
+    "olfactoryDescription": "Highly aromatic and diffusive sandal note with the natural creamy qualities of East Indian Sandalwood. Provides a very efficacious effect in fine, functional and personal care fragrances.",
+    "performanceTable": [
+        {
+            "performance": "Excellent",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 72 hours",
+    "useLevel": "Traces to 3%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.002851 mm Hg @ 23°C",
+    "visual": "Clear colorless liquid"
+}

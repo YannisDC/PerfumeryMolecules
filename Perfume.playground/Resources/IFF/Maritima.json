@@ -1,0 +1,79 @@
+{
+    "facet": "Fresh, Marine",
+    "family": "Fresh",
+    "flashpoint": "> 94°C",
+    "formula": "4-(4,8-Dimethyl-3,7-nonadienyl)-pyridine",
+    "gc": "Sum isomers min. 90%",
+    "identificationNumbers": {
+        "cas": "38462-23-6",
+        "ipc": "130494",
+        "reach": "Not yet required"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "1",
+        "top": "2"
+    },
+    "logP": "5.95",
+    "molecularWeight": "229.2",
+    "name": "Maritima",
+    "olfactiveId": "Air",
+    "olfactoryDescription": "Powerful, clean, wet, fresh air tone reminiscent of ocean breezes. Excellent performer in many media.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Traces to 5%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.000086 mm Hg @ 23°C",
+    "visual": "Pale yellow to amber liquid"
+}

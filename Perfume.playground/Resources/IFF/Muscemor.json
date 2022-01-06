@@ -1,0 +1,79 @@
+{
+    "facet": "Animalic, Musk",
+    "family": "Musk",
+    "flashpoint": "100°C",
+    "formula": "3-Methylcyclopentadecenone",
+    "gc": "Min. 96%",
+    "identificationNumbers": {
+        "cas": "63314-79-4",
+        "ipc": "131730",
+        "reach": "01-0000017618-62"
+    },
+    "impact": {
+        "base": "2",
+        "heart": "2",
+        "top": "0"
+    },
+    "logP": "5.98",
+    "molecularWeight": "236",
+    "name": "Muscemor",
+    "olfactiveId": "Intimate",
+    "olfactoryDescription": "Musk, musk ketone like, animalic.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Traces to 5%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.000439 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

@@ -1,0 +1,69 @@
+{
+    "general": {
+        "description": "Irisone Pure is of high interest for its powerful, rich, floral-violet character. It is easy to blend with many floral, woody, aldehydic,fruity and chypre accords.Sweeter than Irisone Alpha, this grade of ionone has an excellent price-performance ratio and anexcellent substantivity in functional fragrances.",
+        "family": "Floral",
+        "givaudanNumber": "6041001",
+        "name": "Irisone® Pure",
+        "note": [
+            "Floral",
+            "Orris",
+            "Violet",
+            "Fruity",
+            "Woody"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "2 days",
+        "useLevel": "1% - 10%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "8013-90-9127-41-314901-07-6",
+        "formula": "C13H20O",
+        "logP": "4,1",
+        "molecularWeight": "192.3",
+        "name": "4-(2,6,6-Trimethyl-2(1)-cyclohexen-1-yl)-3-buten-2-one (main components)",
+        "vapourPressure": "0.0093 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Poor",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

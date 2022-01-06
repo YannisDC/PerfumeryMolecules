@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Anisyl Acetate is a good modifier in floral, fruity, oriental and chypre fragrances where it imparts sweetness and a natural effect.",
+        "family": "Herbal",
+        "givaudanNumber": "0164001",
+        "name": "Anisyl Acetate",
+        "note": [
+            "Herbal",
+            "Anis",
+            "Floral",
+            "Fruity"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Moderate",
+        "substantivityDamp": "Poor",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "1 day",
+        "useLevel": "0.5% - 5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "104-21-2",
+        "formula": "C10H12O3",
+        "logP": "1,9",
+        "molecularWeight": "180.2",
+        "name": "4-Methoxybenzyl acetate",
+        "vapourPressure": "0.0133 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

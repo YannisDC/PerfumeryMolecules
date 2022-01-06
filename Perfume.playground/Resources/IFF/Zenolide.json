@@ -1,0 +1,79 @@
+{
+    "facet": "Musk, Red Fruit",
+    "family": "Musk",
+    "flashpoint": "166°C",
+    "formula": "1,4-Dioxacyclohexadecane-5,16-dione",
+    "gc": "Min. 95%",
+    "identificationNumbers": {
+        "cas": "54982-83-1",
+        "ipc": "263015",
+        "reach": "01-2119524000-64"
+    },
+    "impact": {
+        "base": "1",
+        "heart": "2",
+        "top": "0"
+    },
+    "logP": "3.65",
+    "molecularWeight": "256.2",
+    "name": "Zenolide",
+    "olfactiveId": "Intimate",
+    "olfactoryDescription": "Soft, delicate musk, red fruit.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 40%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.000054 mm Hg @ 23°C",
+    "visual": "Colorless liquid"
+}

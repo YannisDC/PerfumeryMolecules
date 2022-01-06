@@ -1,0 +1,79 @@
+{
+    "facet": "Citrus, Grapefruit, Woody",
+    "family": "Citrus",
+    "flashpoint": "110°C",
+    "formula": "5,6-Dimethyl-8-isopropenylbicyclo[4.4.0]-1-decen-3-one",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "4674-50-4",
+        "ipc": "See below",
+        "reach": "Not yet required"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "3",
+        "top": "3"
+    },
+    "logP": "3.84",
+    "molecularWeight": "218",
+    "name": "Nootkatone",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "Extremely powerful citrus, grapefruit aroma with a woody top note.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Traces to 2%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.001183 mm Hg @ 23°C",
+    "visual": "See safety data sheet"
+}

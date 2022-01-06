@@ -1,0 +1,79 @@
+{
+    "facet": "Woody, Ambergris, Musk",
+    "family": "Woody",
+    "flashpoint": "94°C",
+    "formula": "Methyl trimethylcyclododecatrienyl ketone (mixture of isomers)",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "144020-22-4 / 1391529-52-4",
+        "ipc": "201737",
+        "reach": "01-2119445289-30"
+    },
+    "impact": {
+        "base": "2",
+        "heart": "2",
+        "top": "0"
+    },
+    "logP": "5.2",
+    "molecularWeight": "246.4",
+    "name": "Trimofix®",
+    "olfactiveId": "Primitive",
+    "olfactoryDescription": "Powerful, diffusive, amber, woody note with vetivert and smoky, tobacco nuances. Slight musky undertone.",
+    "performanceTable": [
+        {
+            "performance": "Excellent",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 5%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.000147 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

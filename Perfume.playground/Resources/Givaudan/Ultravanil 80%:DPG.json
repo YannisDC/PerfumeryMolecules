@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Ultravanil 80%/DPG has a very powerful vanilla absolute note. Neat it has a strong phenolic background. 1%-2% of a 10% dilutioncan be used as a booster to other vanillic notes in a formulation.Ultravanil 80%/DPG works well in combination with vanillin andethyl vanillin. It is also used to boost the performance of Isobutavan. Ultravanil is far less discolouring than other vanillic notes.",
+        "family": "Gourmand",
+        "givaudanNumber": "0027553",
+        "name": "Ultravanil 80%/DPG",
+        "note": [
+            "Gourmand",
+            "Vanilla",
+            "Sweet",
+            "Phenolic"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "Several weeks",
+        "useLevel": "Traces - 0.2%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "2563-07-7",
+        "formula": "C9H12O2",
+        "logP": "2,2",
+        "molecularWeight": "152",
+        "name": "2-Ethoxy-4-methylphenol (80% solution in dipropyleneglycol)",
+        "vapourPressure": ""
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

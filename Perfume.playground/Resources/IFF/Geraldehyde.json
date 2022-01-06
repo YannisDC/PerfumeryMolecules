@@ -1,0 +1,79 @@
+{
+    "facet": "Citrus, Aldehydic, Fresh",
+    "family": "Citrus",
+    "flashpoint": "> 94°C",
+    "formula": "5,9-Dimethyl-4,8-decadienal",
+    "gc": "Sum aldehydes 95%",
+    "identificationNumbers": {
+        "cas": "762-26-5",
+        "ipc": "070021",
+        "reach": "01-2120739841-50"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "3"
+    },
+    "logP": "4.43",
+    "molecularWeight": "180.2",
+    "name": "Geraldehyde",
+    "olfactiveId": "High Tech",
+    "olfactoryDescription": "Intense aldehydic note with marine floral and citrus nuances. Very diffusive.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 12 hours",
+    "useLevel": "Traces to 1%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.016711 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

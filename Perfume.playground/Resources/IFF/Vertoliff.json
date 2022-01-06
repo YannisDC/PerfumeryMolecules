@@ -1,0 +1,79 @@
+{
+    "facet": "Green, Citrus, Agrumen",
+    "family": "Green",
+    "flashpoint": "64°C",
+    "formula": "3,6-Dimethylcyclohex-3-ene-1-carboxaldehyde",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "67801-65-4 / 27939-60-2",
+        "ipc": "201058",
+        "reach": "01-2120766006-57"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "0",
+        "top": "3"
+    },
+    "logP": "3",
+    "molecularWeight": "138.2",
+    "name": "Vertoliff",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "Adds freshness and sparkle to fragrances.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 3 hours",
+    "useLevel": "Up to 2%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.281 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

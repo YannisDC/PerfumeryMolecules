@@ -1,0 +1,54 @@
+{
+    "CASNumber": "122-78-1",
+    "FEMANumber": "2874",
+    "FLAVISNumber": "05.030",
+    "INCIName": "",
+    "IUPACName": "Phenylacetaldehyde",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        "honey",
+        "floral",
+        "sweet",
+        "rose"
+    ],
+    "molecularWeight": "120.16",
+    "olfactoryDescription": [
+        "green",
+        "floral",
+        "honey"
+    ],
+    "olfactoryFamily": "green",
+    "perfumeryUse": "gives natural green aspects to spring flowers; imparts the typical green note to lilacand hyacinth; underlines green nuances of flowers with honey elements like narcissusand tulip",
+    "productName": "Phenylacetaldehyde",
+    "productNumber": "660354",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "very good"
+        },
+        {
+            "soap": "poor"
+        },
+        {
+            "ap roll-on 15%": "poor"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleaner apcliquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "Hyacinthaldehyde",
+    "useLevel": "0.1 - 1%",
+    "usefulIn": "nuts, brown others, red fruit, yellow fruit, sweet others"
+}

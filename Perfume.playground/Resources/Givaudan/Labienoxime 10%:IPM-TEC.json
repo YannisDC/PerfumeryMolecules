@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Labienoxime 10%/IPM-TEC surprises with its natural, fresh, cassis, sage flower character.As a modifier, it blends well with accordswhere a fresh fruity, green aspect is needed - for example, citrus, modern lily of the valley, lavender. Compared to other productsin this olfactive area, Labienoxime is more linear and substantive on fabric.",
+        "family": "Fruity",
+        "givaudanNumber": "0017643",
+        "name": "Labienoxime 10%/IPM-TEC",
+        "note": [
+            "Fruity",
+            "Blackcurrant",
+            "Grapefruit",
+            "Green"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "1 week",
+        "useLevel": "Traces - 0.5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "81783-01-9",
+        "formula": "C13H23NO",
+        "logP": "",
+        "molecularWeight": "209.3",
+        "name": "2,4,4,7-Tetramethyl-6,8-nonadiene-3-one oxime (10%solution in isopropyl myristate / triethyl citrate 90/10)",
+        "vapourPressure": "0.0016 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

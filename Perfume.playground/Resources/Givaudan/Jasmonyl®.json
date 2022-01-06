@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Jasmonyl is used in many perfume types for its lactonic jasmine effect. It also possesses a mushroom-like note that blends wellwith lavender.Jasmonyl enhances and improves the diffusion of most fragrances, particularly in perfumes designed for soap.",
+        "family": "Floral",
+        "givaudanNumber": "6346803",
+        "name": "Jasmonyl®",
+        "note": [
+            "Floral",
+            "Jasmine",
+            "Lactonic"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "Several hours",
+        "useLevel": "Up to 5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "18871-14-238285-49-3",
+        "formula": "C12H22O3",
+        "logP": "",
+        "molecularWeight": "214.3",
+        "name": "3-Pentyl-4-tetrahydropyranyl acetate & 5-Methyl-3-butyl-4-tetrahydropyranyl acetate",
+        "vapourPressure": "0.0120 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "general": {
+        "description": "Dimetol has a fresh natural character which is very useful in citrus, lavender, floral, woody and tobacco compositions. It can beused to great advantage for blending woody spicy accords with cologne notes. Its highly original and sparkling character explainsits great success in fragrances designed for men. Highly stable, including in bleach.",
+        "family": "Herbal",
+        "givaudanNumber": "4609001",
+        "name": "Dimetol®",
+        "note": [
+            "Herbal",
+            "Lavender",
+            "Citrus",
+            "Woody",
+            "Fresh"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "4 hours",
+        "useLevel": "0.1% - 5 %"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "13254-34-7",
+        "formula": "C9H20O",
+        "logP": "3",
+        "molecularWeight": "144.2",
+        "name": "2,6-Dimethylheptan-2-ol",
+        "vapourPressure": "0.2666 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Good",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

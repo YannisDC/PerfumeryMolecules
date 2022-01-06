@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Isobutyl Quinoline-2 is widely used in masculine colognes for its vibrant, intense leathery character.It combines nicely in chypre,leathery and woody accords where it is extremely powerful and long lasting.",
+        "family": "Leathery",
+        "givaudanNumber": "6127003",
+        "name": "Isobutyl Quinoline-2",
+        "note": [
+            "Leathery",
+            "Woody",
+            "Powerful"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "5 days",
+        "useLevel": "Traces - 2%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "93-19-6",
+        "formula": "C13H15N",
+        "logP": "4",
+        "molecularWeight": "185.2",
+        "name": "2-(2-Methylpropyl)quinoline",
+        "vapourPressure": "0.0013 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Good",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Moderate",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Moderate",
+            "ph": "10"
+        }
+    }
+}

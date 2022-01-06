@@ -1,0 +1,79 @@
+{
+    "facet": "Animalic, Musk",
+    "family": "Musk",
+    "flashpoint": "101°C",
+    "formula": "3-Methylcyclopendecanone",
+    "gc": "Min. 95%",
+    "identificationNumbers": {
+        "cas": "541-91-3",
+        "ipc": "138838",
+        "reach": "Not yet required"
+    },
+    "impact": {
+        "base": "2",
+        "heart": "2",
+        "top": "0"
+    },
+    "logP": "6.11",
+    "molecularWeight": "238",
+    "name": "Muscor",
+    "olfactiveId": "Intimate",
+    "olfactoryDescription": "Soft, sweet, musky with animalic tonalities.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Traces to 2%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.000095 mm Hg @ 23°C",
+    "visual": "Colorless liquid"
+}

@@ -1,0 +1,32 @@
+{
+    "CASNumber": "103-54-8",
+    "FEMANumber": "2293",
+    "FLAVISNumber": "09.018",
+    "INCIName": "Cinnamyl Acetate",
+    "IUPACName": "(2E)-3-Phenylprop-2-en-1-yl acetate",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        "cinnamon",
+        "cocoa",
+        "fruity",
+        "honey"
+    ],
+    "molecularWeight": "176.23",
+    "olfactoryDescription": [
+        "spicy",
+        "cinnamon",
+        "hyacinthe",
+        "ylang ylang",
+        "balsamic",
+        "powdery"
+    ],
+    "olfactoryFamily": "spicy",
+    "perfumeryUse": "",
+    "productName": "Cinnamyl acetate",
+    "productNumber": "611105",
+    "stability": [],
+    "synonyms": "Acetic acid cinnamyl ester",
+    "useLevel": "up to 2%",
+    "usefulIn": "cocoa, brown others, red fruit, yellow fruit, tropical fruit, fruit others, sweet others"
+}

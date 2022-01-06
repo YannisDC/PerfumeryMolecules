@@ -1,0 +1,79 @@
+{
+    "facet": "Sweet, Citrus, Rose",
+    "family": "Floral",
+    "flashpoint": "100°C",
+    "formula": "(Z)-3,7-Dimethyl-2,6-octadien-1-ol",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "106-25-2",
+        "ipc": "See below",
+        "reach": "01-2119983244-33"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "12",
+        "top": "2"
+    },
+    "logP": "2.7",
+    "molecularWeight": "154.2",
+    "name": "Nerol",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "Sweet, fresh citrus-rose, geranium, citral, verbena, ozone, pear note.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "24 hours",
+    "useLevel": "Up to 20%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.015778 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

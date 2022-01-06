@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Isopropyl Quinoline is an indispensable element in the formulation of masculine notes, where it blends very well with mossyvetiver, chypre and tobacco accords, as well as with animal and spicy types. It is a rich and vibrant material which leads to greatoriginality in compounds. Its influence is constant throughout the evaporation of a fragrance and gives volume, strength anddiffusion.",
+        "family": "Leathery",
+        "givaudanNumber": "2390003",
+        "name": "Isopropyl Quinoline",
+        "note": [
+            "Leathery",
+            "Woody",
+            "Moss"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "5 days",
+        "useLevel": "Traces - 2%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "135-79-56457-30-3",
+        "formula": "C12H13N",
+        "logP": "3,8",
+        "molecularWeight": "171.2",
+        "name": "6(8)-Isopropylquinoline",
+        "vapourPressure": "0.0133 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Good",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Moderate",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Moderate",
+            "ph": "10"
+        }
+    }
+}

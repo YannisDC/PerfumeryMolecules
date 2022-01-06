@@ -1,0 +1,53 @@
+{
+    "CASNumber": "67859-96-5",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "Acetic acid 3,3,5-trimethyl-cyclohexyles ter",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "",
+    "olfactoryDescription": [
+        "herbaceous",
+        "green",
+        "aromatic",
+        "floral",
+        "fresh"
+    ],
+    "olfactoryFamily": "herbaceous",
+    "perfumeryUse": "gives complexity and vivacity; acts as a booster for freshness; unites single buildingblocks to a harmonious fragrance; can be used as a modifier as well as at high uselevels",
+    "productName": "Mintonat",
+    "productNumber": "142048",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "very good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "very good"
+        },
+        {
+            "cleaner liquid citric acid": "very good"
+        },
+        {
+            "cleaner apc liquid": "very good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "3, 3, 5-Trimethylcyclohexyl acetate",
+    "useLevel": "",
+    "usefulIn": ""
+}

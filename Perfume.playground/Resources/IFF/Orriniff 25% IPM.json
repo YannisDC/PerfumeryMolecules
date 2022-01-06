@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Violet, Orris",
+    "family": "Floral",
+    "flashpoint": "94°C",
+    "formula": "Methyl norbornenylpyridine (mixture of isomers) 25% in isopropyl myristate",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "125352-06-9",
+        "ipc": "151170",
+        "reach": "Not yet required"
+    },
+    "impact": {
+        "base": "2",
+        "heart": "2",
+        "top": "3"
+    },
+    "logP": "3.53",
+    "molecularWeight": "185",
+    "name": "Orriniff 25% IPM",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "Orris, mimosa, violet leaf, amber complex with a leather, woody nuance. Imparts warm orris amber tones to fragrances. Gives compounds volume.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Bleach",
+            "stability": "Moderate"
+        }
+    ],
+    "substantivity": "48 hours",
+    "useLevel": "Traces to 5%",
+    "uses": "Fine fragrance, personal care, fabric care",
+    "vaporPressure": "0.016063 mm Hg @ 23°C",
+    "visual": "Yellow to amber liquid"
+}

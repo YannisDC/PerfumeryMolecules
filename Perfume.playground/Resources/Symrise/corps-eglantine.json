@@ -1,0 +1,52 @@
+{
+    "CASNumber": "64988-06-3",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "1-(Ethoxymethyl)-2-methoxy-benzene",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "166.22",
+    "olfactoryDescription": [
+        "floral",
+        "rose",
+        "peony",
+        "clove"
+    ],
+    "olfactoryFamily": "floral",
+    "perfumeryUse": "resembles top note characteristics of rose, tea rose and peony; adds a natural greenelement to ylang ylang",
+    "productName": "Corps Eglantine",
+    "productNumber": "105136",
+    "stability": [
+        {
+            "body lotion": "very good"
+        },
+        {
+            "shampoo/shower gel": "very good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "very good"
+        },
+        {
+            "detergent powder conc.": "excellent"
+        },
+        {
+            "cleaner liquid citric acid": "excellent"
+        },
+        {
+            "cleaner apc liquid": "excellent"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "o-(Ethoxymethyl)anisole",
+    "useLevel": "",
+    "usefulIn": ""
+}

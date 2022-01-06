@@ -1,0 +1,79 @@
+{
+    "facet": "Woody, Herbal, Fresh",
+    "family": "Woody",
+    "flashpoint": "103°C",
+    "formula": "alpha,3,3-Trimethyl-1-cyclohexanemethanol formate",
+    "gc": "Sum esters min. 80%",
+    "identificationNumbers": {
+        "cas": "25225-08-5",
+        "ipc": "036700",
+        "reach": "01-2119979543-25"
+    },
+    "impact": {
+        "base": "1",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "3.88",
+    "molecularWeight": "184.3",
+    "name": "CP Formate Aphermate",
+    "olfactiveId": "Primitive",
+    "olfactoryDescription": "Fresh, pine, herbal, earthy seashore complex that exhibits fruity apple aspects at low concentrations.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "12 hours",
+    "useLevel": "Up to 20%",
+    "uses": "Fine fragrance, personal care, fabric care.",
+    "vaporPressure": "0.100736 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

@@ -1,0 +1,79 @@
+{
+    "facet": "Animalic, Ambergris, Leather",
+    "family": "Amber",
+    "flashpoint": "94°C",
+    "formula": "1-(2,6,6-Trimethyl-2-cyclohexen-1-yl)-3-pentanone, reaction products with 2-propyn-1-ol",
+    "gc": "Sum isomers min. 94%",
+    "identificationNumbers": {
+        "cas": "68611-23-4",
+        "ipc": "077450",
+        "reach": "01-2120735667-44"
+    },
+    "impact": {
+        "base": "2",
+        "heart": "3",
+        "top": "0"
+    },
+    "logP": "6.58",
+    "molecularWeight": "264.4",
+    "name": "Grisalva",
+    "olfactiveId": "Intimate",
+    "olfactoryDescription": "The character of ambergris captured in a single chemical of remarkable strength. Diffusive and long lasting. Excellent performance/cost ratio.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Bleach",
+            "stability": "Good"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Traces to 0.5%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.000487 mm Hg @ 23°C",
+    "visual": "Clear yellow liquid"
+}

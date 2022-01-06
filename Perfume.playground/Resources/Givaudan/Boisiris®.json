@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Boisiris is a rich woody chemical with a distinct orris note. Ambery and tobacco undertones add to its elegant character.Designedfor use as a heart note in fine perfumery, it gives more volume and blends well with the citrus top notes and the woody backnotes of patchouli, sandalwood or vetiver oil.",
+        "family": "Woody",
+        "givaudanNumber": "2786903",
+        "name": "Boisiris®",
+        "note": [
+            "Woody",
+            "Ambery",
+            "Orris"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "2 days",
+        "useLevel": "1% - 10 %"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "68845-00-1",
+        "formula": "C15H26O",
+        "logP": ">6.0",
+        "molecularWeight": "222,3",
+        "name": "2-Ethoxy-2,6,6-trimethyl-9-methylenebicyclo[3.3.1]nonane",
+        "vapourPressure": "3.2300 hPa (25°C)"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

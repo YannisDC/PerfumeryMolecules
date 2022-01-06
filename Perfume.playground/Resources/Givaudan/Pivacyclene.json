@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Pivacyclene is part of the cyclene family and offers a dry fruity peach note with a fresh green softness.It works well with the othercyclenes as a modifier around 1% in soaps and detergents. Also ideal for cosmetics and toiletries at 5% or above if fragrancecharacter allows. It is often used in combination with gamma-lactones to soften the fatty aspects.",
+        "family": "Fruity",
+        "givaudanNumber": "5845473",
+        "name": "Pivacyclene",
+        "note": [
+            "Fruity",
+            "Peach",
+            "Green"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Poor",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "Several days",
+        "useLevel": "Up to 5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "68039-44-1",
+        "formula": "C15H22O2",
+        "logP": "3,9",
+        "molecularWeight": "234,3",
+        "name": "3a,4,5,6,7,7a-Hexahydro-4,7-methano-1H-inden-5(6)-ylpivalate",
+        "vapourPressure": "0.0013 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "CASNumber": "123-66-0",
+    "FEMANumber": "2439",
+    "FLAVISNumber": "09.060",
+    "INCIName": "",
+    "IUPACName": "Ethyl hexanoate",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        "pineapple",
+        "fruity",
+        "sweet",
+        "strawberry"
+    ],
+    "molecularWeight": "144.24",
+    "olfactoryDescription": [
+        "fruity",
+        "pineapple",
+        "banana",
+        "strawberry"
+    ],
+    "olfactoryFamily": "fruity",
+    "perfumeryUse": "",
+    "productName": "Ethyl caproate",
+    "productNumber": "611089",
+    "stability": [],
+    "synonyms": "Hexanoic acid ethyl ester",
+    "useLevel": "up to 3%",
+    "usefulIn": "dairy, red fruit, yellow fruit, tropical fruit, fruit others, sweet others, alcoholics"
+}

@@ -1,0 +1,79 @@
+{
+    "facet": "Citrus, Fruity, Grapefruit",
+    "family": "Citrus",
+    "flashpoint": "85°C",
+    "formula": "2,4-(and 3,5-)Dimethylcyclohex-3-ene-1-methyl acetate",
+    "gc": "Sum isomers min. 96%",
+    "identificationNumbers": {
+        "cas": "67634-25-7 / 67634-26-8",
+        "ipc": "062960",
+        "reach": "01-2120746532-56"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "3.88",
+    "molecularWeight": "182.3",
+    "name": "Citrolate™",
+    "olfactiveId": "High Tech",
+    "olfactoryDescription": "Citrus, grapefruit note also reminiscent of the dry notes of bitter orange oil and melon. Useful in colognes as a freshener to overcome the candy-sweet notes of orange and lemon oil.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "12 hours",
+    "useLevel": "Up to 30%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.045547 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

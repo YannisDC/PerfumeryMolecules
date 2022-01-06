@@ -1,0 +1,52 @@
+{
+    "CASNumber": "950-33-4",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "1,1-Dimethoxy-cyclododecane",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "228.42",
+    "olfactoryDescription": [
+        "woody",
+        "cedar wood",
+        "vetiver",
+        "patchouli"
+    ],
+    "olfactoryFamily": "woody",
+    "perfumeryUse": "acts as a basic component for woody notes; adds typical vetiver aspects to patchoulireconstitutions",
+    "productName": "Palisandal",
+    "productNumber": "690230",
+    "stability": [
+        {
+            "body lotion": "very good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "very good"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleanerapc liquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "",
+    "useLevel": "",
+    "usefulIn": ""
+}

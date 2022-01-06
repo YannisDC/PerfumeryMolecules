@@ -1,0 +1,51 @@
+{
+    "CASNumber": "67633-96-9",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "Carbonic acid (Z)-hex-3-enyl estermethyl ester",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "158.2",
+    "olfactoryDescription": [
+        "green",
+        "fruity",
+        "leafy-green"
+    ],
+    "olfactoryFamily": "green",
+    "perfumeryUse": "provides natural nuances to green-floral complexes; supports fruity green aspects",
+    "productName": "Leafovert®",
+    "productNumber": "131380",
+    "stability": [
+        {
+            "body lotion": "very good"
+        },
+        {
+            "shampoo/shower gel": "very good"
+        },
+        {
+            "soap": "very good"
+        },
+        {
+            "ap roll-on15%": "good"
+        },
+        {
+            "detergent powder conc.": "very good"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleaner apc liquid": "very good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "cis-Hex-3-en-1-yl methyl carbonate",
+    "useLevel": "",
+    "usefulIn": ""
+}

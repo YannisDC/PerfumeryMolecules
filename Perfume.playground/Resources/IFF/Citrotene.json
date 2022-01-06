@@ -1,0 +1,79 @@
+{
+    "facet": "Citrus, Grapefruit, Limonene",
+    "family": "Citrus",
+    "flashpoint": "47°C",
+    "formula": "Mixture",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "68956-56-9",
+        "ipc": "036948",
+        "reach": "01-2119980606-28"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "1",
+        "top": "1"
+    },
+    "logP": "",
+    "molecularWeight": "",
+    "name": "Citrotene",
+    "olfactiveId": "High Tech",
+    "olfactoryDescription": "Fresh, intense citrus note.",
+    "performanceTable": [
+        {
+            "performance": "Moderate",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Acid Cleaner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Bleach",
+            "stability": "Moderate"
+        }
+    ],
+    "substantivity": "6 hours",
+    "useLevel": "Up to 30%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "1.27272 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

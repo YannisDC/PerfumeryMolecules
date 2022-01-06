@@ -1,0 +1,79 @@
+{
+    "facet": "Spicy, Floral, Woody",
+    "family": "Spicy",
+    "flashpoint": "94°C",
+    "formula": "2,4,6-Trimethyl-3-cyclohexene-1-methanol",
+    "gc": "Sum isomers min. 98%",
+    "identificationNumbers": {
+        "cas": "68527-77-5",
+        "ipc": "091543",
+        "reach": "01-2120735801-58"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "3"
+    },
+    "logP": "3.3",
+    "molecularWeight": "154.2",
+    "name": "Iso Cyclo Geraniol",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "Spicy, green, floral in the carnation family. Long lasting and a good blender.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "24 hours",
+    "useLevel": "Up to 30%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.017778 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

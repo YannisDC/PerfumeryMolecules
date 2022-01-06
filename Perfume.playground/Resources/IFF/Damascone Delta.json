@@ -1,0 +1,79 @@
+{
+    "facet": "Fruity, Floral, Woody",
+    "family": "Fruity",
+    "flashpoint": "103°C",
+    "formula": "1-(2,6,6-Trimethyl-3-cyclohexen-1-yl)-2-buten-1-one",
+    "gc": "Sum isomers min. 95%",
+    "identificationNumbers": {
+        "cas": "57378-68-4",
+        "ipc": "043930",
+        "reach": "01-2119535122-53"
+    },
+    "impact": {
+        "base": "1",
+        "heart": "12",
+        "top": "0"
+    },
+    "logP": "4.2",
+    "molecularWeight": "192.3",
+    "name": "Damascone Delta",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "Blackcurrant (cassis), fruity note of exceptional diffusion. Very good in trace amounts for a rose/tobacco effect. Member of the rose ketone family. A fruity, apple, rose earthy note.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Traces to 0.1%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.020281 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow"
+}

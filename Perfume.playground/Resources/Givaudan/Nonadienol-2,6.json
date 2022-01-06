@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Nonadienol-2,6 is a constituent of violet leaves as well as of cucumber.It is effective across a wide range of applications in addinga natural melon-cucumber note. It is olfactively similar to Nonadienal but is fruitier and less leafy. More stable than Nonadienal, itextends the application range of this olfactive family and can also be used in combination.",
+        "family": "Green",
+        "givaudanNumber": "7568493",
+        "name": "Nonadienol-2,6",
+        "note": [
+            "Green",
+            "Melon",
+            "Aromatic",
+            "Powerful"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "16 hours",
+        "useLevel": "Traces - 0.5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "7786-44-9",
+        "formula": "C9H16O",
+        "logP": "",
+        "molecularWeight": "140.2",
+        "name": "(2E,6Z)-Nona-2,6-dien-1-ol (main isomer)",
+        "vapourPressure": "0.0140 hPa (25°C)"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Poor",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

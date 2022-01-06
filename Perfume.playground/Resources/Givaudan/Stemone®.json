@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Stemone imparts a natural and fresh nuance to fragrance notes such as lily of the valley, narcissus, mandarin, fig leaves,grapefruit, blackcurrant and tomato. It is an excellent modifier that strengthens and modernises green notes.",
+        "family": "Green",
+        "givaudanNumber": "9023501",
+        "name": "Stemone®",
+        "note": [
+            "Green",
+            "Natural",
+            "Leafy",
+            "Fresh"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Poor",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "16 hours",
+        "useLevel": "0.1% - 5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "22457-23-4",
+        "formula": "C8H17NO",
+        "logP": "2,3",
+        "molecularWeight": "143.2",
+        "name": "5-Methyl-3-heptanone oxime",
+        "vapourPressure": "0.0427 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Good",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Moderate",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

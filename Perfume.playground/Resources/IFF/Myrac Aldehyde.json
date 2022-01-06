@@ -1,0 +1,79 @@
+{
+    "facet": "Fresh, Citrus, Aldehydic",
+    "family": "Fresh",
+    "flashpoint": "94°C",
+    "formula": "3-(and 4-)(4-Methyl-3-pentyl)cyclohex-3-ene-1-carboxaldehyde",
+    "gc": "Sum isomers min. 96%",
+    "identificationNumbers": {
+        "cas": "37677-14-8 / 52475-89-5",
+        "ipc": "139333",
+        "reach": "01-2120769662-44"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "3"
+    },
+    "logP": "4.7",
+    "molecularWeight": "192.2",
+    "name": "Myrac Aldehyde",
+    "olfactiveId": "High Tech",
+    "olfactoryDescription": "An aldehydic note with orange, ozonic and fruity characteristics. Strong and persistent. Clean outdoors effect.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 10%",
+    "uses": "Fine fragrance, personal care, fabric care",
+    "vaporPressure": "0.004421 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

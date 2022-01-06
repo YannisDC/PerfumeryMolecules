@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Violet Leaf, Banana",
+    "family": "Floral",
+    "flashpoint": "94°C",
+    "formula": "Cyclooct-4-en-1-yl methyl carbonate",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "87731-18-8",
+        "ipc": "220576",
+        "reach": "01-0000015147-73"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "3"
+    },
+    "logP": "3.27",
+    "molecularWeight": "184.2",
+    "name": "Violiff",
+    "olfactiveId": "Exhilarating",
+    "olfactoryDescription": "Floral, violet leaf, green, tagette with fruity banana notes.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Excellent",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 6 hours",
+    "useLevel": "Up to 2%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.023072 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

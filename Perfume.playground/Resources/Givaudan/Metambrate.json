@@ -1,0 +1,66 @@
+{
+    "general": {
+        "description": "Metambrate is a woody-ambery note with Ambregris aspect and tobacco dimension.It works very well in masculine and allwoody-ambery accords bringing a top note ambery effect. It blends well with Ambermax and Ambrofix and gives body andwoody freshness to citrus and cologne accords.",
+        "family": "Woody",
+        "givaudanNumber": "6846003",
+        "name": "Metambrate",
+        "note": [
+            "Woody",
+            "Ambery"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Poor",
+        "burningEffectiveness": "Poor",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "1 week",
+        "useLevel": "0.5% - 5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "72183-75-6",
+        "formula": "C13H24O2",
+        "logP": "5,6",
+        "molecularWeight": "212,3",
+        "name": "1-Methyl-2-(1-methylpropyl)cyclohexyl Acetate",
+        "vapourPressure": "0.0427 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "",
+            "ph": "10"
+        }
+    }
+}

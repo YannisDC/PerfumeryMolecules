@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Sandalore, a powerful, diffusive and extremely tenacious product, imparts a rich, warm, natural sandalwood character toperfumes, as well as volume and substantivity. It is an interesting sandalwood replacement in combination with Ebanol.",
+        "family": "Woody",
+        "givaudanNumber": "8847801",
+        "name": "Sandalore®",
+        "note": [
+            "Woody",
+            "Sandalwood",
+            "Sweet",
+            "Warm"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "3 weeks",
+        "useLevel": "0.5% - 10%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "65113-99-7",
+        "formula": "C14H26O",
+        "logP": "4,7",
+        "molecularWeight": "210.4",
+        "name": "3-Methyl-5-(2,2,3-trimethylcyclopent-3-enyl)pentan-2-ol",
+        "vapourPressure": "<0.0010 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

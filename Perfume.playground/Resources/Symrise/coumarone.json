@@ -1,0 +1,51 @@
+{
+    "CASNumber": "1646-26-0",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "1-(1-Benzofuran-2-yl)ethanone",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "160.18",
+    "olfactoryDescription": [
+        "balsamic",
+        "tonka",
+        "orange flower"
+    ],
+    "olfactoryFamily": "balsamic",
+    "perfumeryUse": "provides a soothing, powdery richness to floriental fragrances; underlines typicalheliotrope characteristics; adds balsamic aspects to fruit notes like grape and plum",
+    "productName": "Coumarone",
+    "productNumber": "600303",
+    "stability": [
+        {
+            "body lotion": "very good"
+        },
+        {
+            "shampoo/shower gel": "very good"
+        },
+        {
+            "soap": "very good"
+        },
+        {
+            "ap roll-on15%": "good"
+        },
+        {
+            "detergent powder conc.": "very good"
+        },
+        {
+            "cleaner liquid citric acid": "good"
+        },
+        {
+            "cleaner apc liquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "2-Acetyl benzofuran,Benzofuran-2-yl-methyl ketone",
+    "useLevel": "",
+    "usefulIn": ""
+}

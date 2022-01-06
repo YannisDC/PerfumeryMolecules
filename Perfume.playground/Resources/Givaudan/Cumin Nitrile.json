@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Cumin Nitrile is a spicy cuminic ingredient, with a dry character and a hint of green. It is less pungent than the aldehyde but morestable and tenacious.",
+        "family": "Spicy",
+        "givaudanNumber": "4223103",
+        "name": "Cumin Nitrile",
+        "note": [
+            "Spicy",
+            "Cumin",
+            "Green"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "Several hours",
+        "useLevel": "Traces - 0.1%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "13816-33-6",
+        "formula": "C10H11N",
+        "logP": "3",
+        "molecularWeight": "145,2",
+        "name": "4-(1-Methylethyl)-benzonitrile",
+        "vapourPressure": "0.0667 hPa (25°C)"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Good",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

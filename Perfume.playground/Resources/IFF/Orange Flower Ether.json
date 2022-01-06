@@ -1,0 +1,79 @@
+{
+    "facet": "Citrus, Grapefruit, Floral",
+    "family": "Citrus",
+    "flashpoint": "82°C",
+    "formula": "4-(1-Methoxy-1-methylethyl)-1-methylcyclohexene",
+    "gc": "Sum isomers min. 94%",
+    "identificationNumbers": {
+        "cas": "14576-08-0",
+        "ipc": "202929",
+        "reach": "01-2120261962-51"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "1",
+        "top": "2"
+    },
+    "logP": "4.03",
+    "molecularWeight": "168.2",
+    "name": "Orange Flower Ether",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "Citrus (grapefruit) note also reminiscent of bergamot. Occurs naturally in orange flowers.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "< 3 hours",
+    "useLevel": "Up to 5%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.074359 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

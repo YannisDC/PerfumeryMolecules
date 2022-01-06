@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Limetol is used where a lemon-woody note is desired. It also offers pine needle and lime nuances.",
+        "family": "Herbal",
+        "givaudanNumber": "4523001",
+        "name": "Limetol",
+        "note": [
+            "Herbal",
+            "Camphor",
+            "Woody",
+            "Lime"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Moderate",
+        "substantivityDamp": "Poor",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "2 hours",
+        "useLevel": "Traces - 3%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "13837-56-47392-19-0",
+        "formula": "C10H18O",
+        "logP": "3,1",
+        "molecularWeight": "154.2",
+        "name": "2,6,6-Trimethyl-2-vinyltetrahydropyran",
+        "vapourPressure": "2.9300 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Good",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Moderate",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

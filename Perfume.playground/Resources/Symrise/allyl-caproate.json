@@ -1,0 +1,54 @@
+{
+    "CASNumber": "123-68-2",
+    "FEMANumber": "2032",
+    "FLAVISNumber": "09.244",
+    "INCIName": "Allyl Caproate",
+    "IUPACName": "Allyl hexanoate",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        "pineapple",
+        "fruity",
+        "sweet",
+        "juicy"
+    ],
+    "molecularWeight": "156.25",
+    "olfactoryDescription": [
+        "fruity",
+        "pineapple",
+        "cider"
+    ],
+    "olfactoryFamily": "fruity",
+    "perfumeryUse": "lifts the top note of fruit complexes; imparts typical apple and pineapplecharacteristics; gives sweet fruity aspects",
+    "productName": "Allyl caproate",
+    "productNumber": "611045",
+    "stability": [
+        {
+            "body lotion": "very good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "very good"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleanerapc liquid": "very good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "Hexanoic acid allyl ester,2-Propenyl-n-hexanoate",
+    "useLevel": "0.1 - 5%",
+    "usefulIn": "citrus, red fruit, yellow fruit, tropical fruit, fruit others"
+}

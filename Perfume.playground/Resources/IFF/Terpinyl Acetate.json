@@ -1,0 +1,79 @@
+{
+    "facet": "Fruity, Woody, Herbal",
+    "family": "Fruity",
+    "flashpoint": "100°C",
+    "formula": "para Menth-1-en-8-ol acetate",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "8007-35-0",
+        "ipc": "202869",
+        "reach": "01-2119977127-29"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "4.3",
+    "molecularWeight": "196.3",
+    "name": "Terpinyl Acetate",
+    "olfactiveId": "Intimate",
+    "olfactoryDescription": "Sweet, herbaceous floral with lavender nuances.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "24 hours",
+    "useLevel": "Up to 30%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.026365 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

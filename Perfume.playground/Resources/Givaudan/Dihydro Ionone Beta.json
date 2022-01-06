@@ -1,0 +1,69 @@
+{
+    "general": {
+        "description": "Dihydro Ionone Beta, a less well-known member of the ionone family, is increasingly used for its original woody and slightlyambery character.It brings a rich sophisticated volume to perfumes in combination with floral elements.",
+        "family": "Woody",
+        "givaudanNumber": "4508403",
+        "name": "Dihydro Ionone Beta",
+        "note": [
+            "Woody",
+            "Floral",
+            "Orris",
+            "Ambery",
+            "Fruity"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "2 days",
+        "useLevel": "0.5% - 5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "17283-81-7",
+        "formula": "C13H22O",
+        "logP": "4,5",
+        "molecularWeight": "194.3",
+        "name": "4-(2,6,6-Trimethyl-1-cyclohexen-1-yl)butan-2-one(main component)",
+        "vapourPressure": "0.0093 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Moderate",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

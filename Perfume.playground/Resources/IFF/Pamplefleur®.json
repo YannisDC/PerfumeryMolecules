@@ -1,0 +1,79 @@
+{
+    "facet": "Citrus, Grapefruit, Floral",
+    "family": "Citrus",
+    "flashpoint": "104°C",
+    "formula": "2-Methyl-4-phenyl-1-pentanol",
+    "gc": "Sum isomers min. 97%",
+    "identificationNumbers": {
+        "cas": "92585-24-5",
+        "ipc": "161012",
+        "reach": "01-0000015250-84"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "1",
+        "top": "2"
+    },
+    "logP": "3.01",
+    "molecularWeight": "178",
+    "name": "Pamplefleur®",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "The animalic moiety for jasmin types. Citrus, Grapefruit, vetiver, fresh note.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Bleach",
+            "stability": "Moderate"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 2%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.001452 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

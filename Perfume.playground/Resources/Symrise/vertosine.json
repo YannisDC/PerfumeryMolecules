@@ -1,0 +1,54 @@
+{
+    "CASNumber": "68738-99-8",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "Methyl2-{[(1E)-(2,4-dimethylcyclohex-3-en-1-yl)methylene]amino}benzoate",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "271.39",
+    "olfactoryDescription": [
+        "floral",
+        "orange blossom",
+        "anthralinate",
+        "lily of the valley",
+        "broom",
+        "fruity"
+    ],
+    "olfactoryFamily": "floral",
+    "perfumeryUse": "",
+    "productName": "Vertosine",
+    "productNumber": "600271",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "poor"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "good"
+        },
+        {
+            "cleaner apc liquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "",
+    "useLevel": "",
+    "usefulIn": ""
+}

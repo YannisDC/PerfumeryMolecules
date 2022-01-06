@@ -1,0 +1,54 @@
+{
+    "CASNumber": "4602-84-0",
+    "FEMANumber": "2478",
+    "FLAVISNumber": "02.029",
+    "INCIName": "Farnesol",
+    "IUPACName": "(2E,6E)-3,7,11-Trimethyldodeca-2,6,10-trien-1-ol",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        "floral",
+        "green",
+        "lily of the valley"
+    ],
+    "molecularWeight": "222.41",
+    "olfactoryDescription": [
+        "floral",
+        "green",
+        "lily of the valley",
+        "peony"
+    ],
+    "olfactoryFamily": "floral",
+    "perfumeryUse": "",
+    "productName": "Farnesol special",
+    "productNumber": "118717",
+    "stability": [
+        {
+            "body lotion": "very good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "poor"
+        },
+        {
+            "detergent powder conc.": "poor"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleaner apcliquid": "very good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "",
+    "useLevel": "1 - 10%",
+    "usefulIn": "mint, citrus, red fruit, yellow fruit, tropical fruit, fruit others, sweet others, alcoholics"
+}

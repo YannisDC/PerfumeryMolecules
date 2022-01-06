@@ -1,0 +1,79 @@
+{
+    "facet": "Amber, Woody",
+    "family": "Amber",
+    "flashpoint": "94°C",
+    "formula": "Decahydro-2,6,6,7,8,8-hexamethyl-2H-indeno[4,5-b]furan (and isomer)",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "338735-71-0 / 351343-77-6",
+        "ipc": "201116",
+        "reach": "01-0000018447-64"
+    },
+    "impact": {
+        "base": "3",
+        "heart": "3",
+        "top": "0"
+    },
+    "logP": "6.2",
+    "molecularWeight": "250.4",
+    "name": "Trisamber®",
+    "olfactiveId": "Primitive",
+    "olfactoryDescription": "Very strong woody amber note.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Bleach",
+            "stability": "Good"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Traces to 2%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.004127 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

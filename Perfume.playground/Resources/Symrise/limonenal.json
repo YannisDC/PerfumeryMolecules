@@ -1,0 +1,52 @@
+{
+    "CASNumber": "6784-13-0",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "3-(4-Methyl-cyclohex-3-enyl)-butyraldehyde",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "166",
+    "olfactoryDescription": [
+        "green",
+        "lemon",
+        "herbal",
+        "aldehydic"
+    ],
+    "olfactoryFamily": "green",
+    "perfumeryUse": "provides a very radiant and powerful citrus top note; supports white flowercharacteristics; strengthens the diffusivity of air care fragrances",
+    "productName": "Limonenal",
+    "productNumber": "600524",
+    "stability": [
+        {
+            "body lotion": "very good"
+        },
+        {
+            "shampoo/shower gel": "very good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "poor"
+        },
+        {
+            "detergent powder conc.": "poor"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleaner apcliquid": "very good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": ".beta.,4-Dimethylcyclohex-3-ene-1-propan-1-al",
+    "useLevel": "",
+    "usefulIn": ""
+}

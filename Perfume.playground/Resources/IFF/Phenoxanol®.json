@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Rose, Geranium",
+    "family": "Floral",
+    "flashpoint": "94°C",
+    "formula": "3-Methyl-5-phenylpentanol",
+    "gc": "Min. 98.5%",
+    "identificationNumbers": {
+        "cas": "55066-48-3",
+        "ipc": "163645",
+        "reach": "01-2119969446-23"
+    },
+    "impact": {
+        "base": "1",
+        "heart": "1",
+        "top": "2"
+    },
+    "logP": "2.7",
+    "molecularWeight": "178.2",
+    "name": "Phenoxanol®",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "Diffusive, fresh, floral, rose absolute type. Unusually long lasting. Very economical in use to give the expensive rose oil/absolute effect.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Bleach",
+            "stability": "Moderate"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 20%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.000311 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

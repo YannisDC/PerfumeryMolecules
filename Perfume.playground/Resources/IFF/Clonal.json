@@ -1,0 +1,79 @@
+{
+    "facet": "Citrus, Zesty, Peely, Fatty",
+    "family": "Citrus",
+    "flashpoint": "94°C",
+    "formula": "Dodecanitrile",
+    "gc": "Min. 98%",
+    "identificationNumbers": {
+        "cas": "2437-25-4",
+        "ipc": "035223",
+        "reach": "Not yet required"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "3"
+    },
+    "logP": "5.8",
+    "molecularWeight": "181.2",
+    "name": "Clonal",
+    "olfactiveId": "High Tech",
+    "olfactoryDescription": "Dry orange peel note for citrus, bergamot cologne types. Excellent stability. Ozonic, metallic, aldehydic, zesty, grapefruit.",
+    "performanceTable": [
+        {
+            "performance": "Moderate",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Bleach",
+            "stability": "Good"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Traces to 5%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.00412 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

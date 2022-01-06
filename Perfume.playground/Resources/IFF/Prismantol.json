@@ -1,0 +1,79 @@
+{
+    "facet": "Herbal, Spicy, Camphoraceous",
+    "family": "Spicy",
+    "flashpoint": "100°C",
+    "formula": "4-methyl-8-methylenetricyclo[3.3.1.1(3,7)]decan-2-ol",
+    "gc": "Min 96%",
+    "identificationNumbers": {
+        "cas": "122760-84-3",
+        "ipc": "161287",
+        "reach": "01-0000015588-59"
+    },
+    "impact": {
+        "base": "1",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "2.85",
+    "molecularWeight": "178",
+    "name": "Prismantol",
+    "olfactiveId": "Air",
+    "olfactoryDescription": "Soft herbaceous pine with spicy hints of ginger and Indian cardamom, followed by smooth natural woods.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 12 hours",
+    "useLevel": "Up to 20%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.007078 mm Hg @ 23°C",
+    "visual": "Solid white"
+}

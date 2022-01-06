@@ -1,0 +1,51 @@
+{
+    "CASNumber": "20407-84-5",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "(E)-Dodec-2-enal",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "",
+    "olfactoryDescription": [
+        "aldehydic",
+        "mandarin",
+        "orange"
+    ],
+    "olfactoryFamily": "aldehydic",
+    "perfumeryUse": "ideal to portray mandarin notes; valuable in exotic fruit complexes; diffusive power andlong-lasting properties",
+    "productName": "Mandarin aldehyde 10% in TEC",
+    "productNumber": "199084",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "verygood"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleaner apcliquid": "very good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "2-trans-Dodecenal",
+    "useLevel": "",
+    "usefulIn": ""
+}

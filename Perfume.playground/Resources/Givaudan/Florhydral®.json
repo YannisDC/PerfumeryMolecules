@@ -1,0 +1,69 @@
+{
+    "general": {
+        "description": "Florhydral has a very floral, fresh, natural odour (such as lily of the valley, hyacinth...).Its great intensity and pleasant quality makeit useful in all areas of perfumery. Florhydral is also valuable in fragrances for laundry products where a fresh residual odour isdesired. Florhydral gives natural volume together with aldehydes in citrus accords.",
+        "family": "Floral",
+        "givaudanNumber": "8754243",
+        "name": "Florhydral®",
+        "note": [
+            "Floral",
+            "Green",
+            "Muguet",
+            "Fresh",
+            "Powerful"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "1 week",
+        "useLevel": "0.2% - 2%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "125109-85-5",
+        "formula": "C13H18O",
+        "logP": "3,8",
+        "molecularWeight": "190.3",
+        "name": "3-(3-Isopropylphenyl)butanal",
+        "vapourPressure": "0.0200 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

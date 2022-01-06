@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Linalyl Isobutyrate has a natural, fresh character which enhances the top note of many compositions, especially lavender, cologneand fruity blends. Its modifying action is also much appreciated in various floral bases such as lilac. It is also a useful component insynthetic bergamots.",
+        "family": "Fruity",
+        "givaudanNumber": "6170501",
+        "name": "Linalyl Isobutyrate",
+        "note": [
+            "Fruity",
+            "Fresh",
+            "Lavender"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "7 hours",
+        "useLevel": "0.5% - 5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "78-35-3",
+        "formula": "C14H24O2",
+        "logP": "5",
+        "molecularWeight": "224.3",
+        "name": "3,7-Dimethyl-1,6-octadien-3-yl 2-methylpropanoate",
+        "vapourPressure": "0.0133 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Poor",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Moderate",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Poor",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

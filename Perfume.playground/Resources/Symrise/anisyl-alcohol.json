@@ -1,0 +1,31 @@
+{
+    "CASNumber": "105-13-5",
+    "FEMANumber": "2099",
+    "FLAVISNumber": "02.128",
+    "INCIName": "Anise Alcohol",
+    "IUPACName": "(4-Methoxyphenyl)methanol",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        "sweet",
+        "coumarin",
+        "vanilla",
+        "fruity"
+    ],
+    "molecularWeight": "138.18",
+    "olfactoryDescription": [
+        "floral",
+        "heliotrope",
+        "mimosa",
+        "lilac",
+        "powdery"
+    ],
+    "olfactoryFamily": "floral",
+    "perfumeryUse": "",
+    "productName": "Anisyl alcohol",
+    "productNumber": "654001",
+    "stability": [],
+    "synonyms": "4-Methoxybenzylalcohol",
+    "useLevel": "0.5 - 8%",
+    "usefulIn": "nuts, cocoa, dairy, vanilla, spices/herbs, red fruit, fruit others, sweet others, alcoholics"
+}

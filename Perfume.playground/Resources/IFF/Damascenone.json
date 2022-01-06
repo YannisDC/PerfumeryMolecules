@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Fruity, Plum",
+    "family": "Floral",
+    "flashpoint": "93°C",
+    "formula": "2-Buten-1-one, 1-(2,6,6-trimethyl-1,3-cyclohexadien-1-yl)",
+    "gc": "Min. 98%",
+    "identificationNumbers": {
+        "cas": "23696-85-7",
+        "ipc": "See below",
+        "reach": "01-2120105798-49"
+    },
+    "impact": {
+        "base": "3",
+        "heart": "0",
+        "top": "0"
+    },
+    "logP": "3.4",
+    "molecularWeight": "190.28",
+    "name": "Damascenone",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "Floral rosy, fruity odor with plum, berry and tobacco nuances.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": ">48 hours",
+    "useLevel": "Traces to 0.2%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.01797 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow"
+}

@@ -1,0 +1,66 @@
+{
+    "general": {
+        "description": "Ethyl Linalool has a floral, fresh, bergamot character and is sweeter and less agrestic than Linalool.As with Linalool, it is used in awide variety of notes for floral bouquets.",
+        "family": "Floral",
+        "givaudanNumber": "4973001",
+        "name": "Ethyl Linalool",
+        "note": [
+            "Floral",
+            "Fresh"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "16 hours",
+        "useLevel": "Up to 40%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "10339-55-6",
+        "formula": "C11H20O",
+        "logP": "3,3",
+        "molecularWeight": "168.2",
+        "name": "(E/Z)-3,7-Dimethyl-1,6-nonadien-3-ol",
+        "vapourPressure": "0.0267 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Poor",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Poor",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Moderate",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

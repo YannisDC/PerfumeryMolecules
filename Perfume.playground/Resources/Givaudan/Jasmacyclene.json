@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Jasmacyclene is the acetate ester of the cyclene family with the typical fruity anisic floral note of the family.Jasmacyclene gives tofloral accords an attractive green fruity volume with a sweet anise and woody background.",
+        "family": "Floral",
+        "givaudanNumber": "0513501",
+        "name": "Jasmacyclene",
+        "note": [
+            "Floral",
+            "Green",
+            "Fruity"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "Several days",
+        "useLevel": "Up to 10%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "5413-60-52500-83-6",
+        "formula": "C12H16O2",
+        "logP": "2,7",
+        "molecularWeight": "192,2",
+        "name": "3a,4,5,6,7,7a-Hexahydro-4,7-methano-1H-inden-5(6)-ylacetate",
+        "vapourPressure": "0.0267 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

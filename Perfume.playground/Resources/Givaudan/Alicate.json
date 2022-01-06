@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Alicate is a fresh herbal note with hints of rhubarb and banana and a lilac background.It gives excellent performance and stabilityacross the range of toiletry, soaps and detergents. Alicate blends well with fruity, citrus and herbal ingredients and gives a boostto top-note freshness.",
+        "family": "Fruity",
+        "givaudanNumber": "0026093",
+        "name": "Alicate",
+        "note": [
+            "Fruity",
+            "Rhubarb",
+            "Aromatic",
+            "Lilac"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Poor",
+        "burningEffectiveness": "Moderate",
+        "substantivityDamp": "Poor",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "Several hours",
+        "useLevel": "Up to 15%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "10250-45-0",
+        "formula": "C11H22O2",
+        "logP": "3,9",
+        "molecularWeight": "186",
+        "name": "3-Methyl-1-isobutylbutyl acetate",
+        "vapourPressure": "0.1333 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Poor",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

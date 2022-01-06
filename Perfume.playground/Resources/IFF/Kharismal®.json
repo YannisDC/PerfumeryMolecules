@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Jasmin, Lactonic",
+    "family": "Floral",
+    "flashpoint": "94°C",
+    "formula": "Methyl 3-oxo-2-pentylcyclopentaneacetate",
+    "gc": "Cis isomer 57-67%",
+    "identificationNumbers": {
+        "cas": "24851-98-7",
+        "ipc": "110537",
+        "reach": "01-2119493355-31"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "12",
+        "top": "12"
+    },
+    "logP": "3.1",
+    "molecularWeight": "226.31",
+    "name": "Kharismal®",
+    "olfactiveId": "Air",
+    "olfactoryDescription": "Floral, jasmin, citrus. Provides a natural bloom to floral creations. Very diffusive.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 20%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.000245 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

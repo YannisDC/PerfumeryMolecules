@@ -1,0 +1,53 @@
+{
+    "CASNumber": "60241-52-3",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "1-(2,2,6-Trimethylcyclohexyl)pentan-3-ol",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "212.42",
+    "olfactoryDescription": [
+        "woody",
+        "cedar wood",
+        "violet",
+        "ambery",
+        "plum"
+    ],
+    "olfactoryFamily": "woody",
+    "perfumeryUse": "adds a powdery fruitiness to floriental and oriental fragrances; imparts the dry,powdery aspect of orris roots; combines well with woody-leathery notes",
+    "productName": "Madranol®",
+    "productNumber": "600267",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "very good"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleaner apcliquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": ".alpha.-Ethyl-2, 2,6-trimethylcyclohexanepropanol",
+    "useLevel": "",
+    "usefulIn": ""
+}

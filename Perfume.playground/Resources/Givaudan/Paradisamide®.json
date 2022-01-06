@@ -1,0 +1,69 @@
+{
+    "general": {
+        "description": "Paradisamide is a long lasting, fresh tropical fruit note of guava and passion fruit with nuances of grapefruit, rhubarb andcassis.Paradisamide can be overdosed in tropical fruit accords up to 20% or use at lower dosage to give a tropical juicy twist toother fruity notes. It is also often used to bring bloom in shampoo and shower gels.",
+        "family": "Tropical fruity",
+        "givaudanNumber": "0025633",
+        "name": "Paradisamide®",
+        "note": [
+            "Tropical fruity",
+            "Guava",
+            "Grapefruit",
+            "Rhubarb",
+            "Cassis"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Poor",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "10 days",
+        "useLevel": "Up to 15%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "406488-30-0",
+        "formula": "C14H21NO",
+        "logP": "3.2",
+        "molecularWeight": "219",
+        "name": "2-Ethyl-N-methyl-N-(3-methylphenyl)butanamide",
+        "vapourPressure": "0.0038 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

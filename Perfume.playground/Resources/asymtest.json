@@ -1,0 +1,41 @@
+{
+    
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        "aldehydic",
+        "waxy",
+        "citrus",
+        "sweet"
+    ],
+    "perfumeryUse": "",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "poor"
+        },
+        {
+            "ap roll-on 15%": "poor"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleaner apc liquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "useLevel": "up to 0.5%",
+    "usefulIn": ""
+}
+

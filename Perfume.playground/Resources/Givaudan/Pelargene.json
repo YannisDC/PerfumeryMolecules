@@ -1,0 +1,66 @@
+{
+    "general": {
+        "description": "Pelargene has a powerful geranium character, reminiscent of crushed leaves.It adds substantivity and body, particularly to floralfragrances, especially rose and geranium.",
+        "family": "Floral",
+        "givaudanNumber": "1394573",
+        "name": "Pelargene",
+        "note": [
+            "Floral",
+            "Geranium"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "Several weeks",
+        "useLevel": "Up to 2%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "30310-41-968039-40-768039-41-8",
+        "formula": "C13H16O",
+        "logP": "3,3",
+        "molecularWeight": "188",
+        "name": "Tetrahydro-2-methyl-4-methylene-6-phenyl-2H-pyran & 3,6-Dihydro-2,4-dimethyl-6-phenyl-2H-pyran & 3,6-Dihydro-4,6-dimethyl-2-phenyl-2H-pyran",
+        "vapourPressure": ""
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Moderate",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

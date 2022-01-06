@@ -1,0 +1,66 @@
+{
+    "general": {
+        "description": "Oxyoctaline Formate has an original, ambery and long lasting character, blending very well with most woody notes.Its richnessand elegance allow perfect harmony with natural woody products bringing an interesting olibanum effect.",
+        "family": "Woody",
+        "givaudanNumber": "5166003",
+        "name": "Oxyoctaline Formate",
+        "note": [
+            "Woody",
+            "Ambery"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "1 week",
+        "useLevel": "0.5% - 10%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "65405-72-3",
+        "formula": "C15H24O2",
+        "logP": "5",
+        "molecularWeight": "236,3",
+        "name": "1,3,6,7-Tetramethylbicyclo[4.4.0]dec-7-en-2-yl formate",
+        "vapourPressure": "0.0011 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

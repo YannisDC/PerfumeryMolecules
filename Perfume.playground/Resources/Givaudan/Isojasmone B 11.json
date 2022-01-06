@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Isojasmone B 11 is widely used in jasmine and floral bouquets for its powerful and natural volume effect to top and heart notes. Italso blends nicely with quinolines in chypre accords.",
+        "family": "Floral",
+        "givaudanNumber": "6249003",
+        "name": "Isojasmone B 11",
+        "note": [
+            "Floral",
+            "Jasmine",
+            "Aromatic",
+            "Warm"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "3 days",
+        "useLevel": "0.1% - 1%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "95-41-0",
+        "formula": "C11H18O",
+        "logP": "3,2",
+        "molecularWeight": "166.3",
+        "name": "2-Hexyl-2-cyclopenten-1-one (main component)",
+        "vapourPressure": "0.0107 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Moderate",
+            "ph": "10"
+        }
+    }
+}

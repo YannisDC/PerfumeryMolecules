@@ -1,0 +1,53 @@
+{
+    "CASNumber": "2110-18-1",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "2-(3-Phenylpropyl)pyridine",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "197.12",
+    "olfactoryDescription": [
+        "green",
+        "vegetable-green",
+        "green bell pepper",
+        "asparagus",
+        "rooty"
+    ],
+    "olfactoryFamily": "green",
+    "perfumeryUse": "fragrance booster; typical for petitgrain, galbanum, vetiver and patchouli compositions;achieves a crisp and radiant effect in green fruits; highly diffusive, extremelysubstantive",
+    "productName": "Corps Racine",
+    "productNumber": "600164",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "very good"
+        },
+        {
+            "cleaner apc liquid": "good"
+        },
+        {
+            "bleach": "very good"
+        }
+    ],
+    "synonyms": "",
+    "useLevel": "0.001 - 5% of the 1%",
+    "usefulIn": ""
+}

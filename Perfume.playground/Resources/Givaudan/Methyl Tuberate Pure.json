@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Methyl Tuberate Pure is a powerful modifier in all kinds of floral accords. The characteristic note of Methyl Tuberate Pure impartsa natural touch of white flower, such as tuberose and gardenia. It can be used effectively in combination with fruity lactones toprovide lift.",
+        "family": "Floral",
+        "givaudanNumber": "9411003",
+        "name": "Methyl Tuberate Pure",
+        "note": [
+            "Floral",
+            "Tuberose",
+            "Lactonic"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "1 week",
+        "useLevel": "0.1% - 1%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "33673-62-035205-76-6",
+        "formula": "C10H18O2",
+        "logP": "2,4",
+        "molecularWeight": "170.0",
+        "name": "Dihydro-4-methyl-5-pentylfuranne-2(3H)-one & 3-Methylnon-2-enoic acid",
+        "vapourPressure": ""
+    },
+    "stability": {
+        "APC": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Poor",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Moderate",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Poor",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

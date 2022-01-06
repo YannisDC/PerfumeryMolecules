@@ -1,0 +1,52 @@
+{
+    "CASNumber": "7493-57-4",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "[2-(1-propoxy ethoxy)ethyl] benzene",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "208.33",
+    "olfactoryDescription": [
+        "floral",
+        "green",
+        "reseda",
+        "vegetable green"
+    ],
+    "olfactoryFamily": "floral",
+    "perfumeryUse": "gives natural green aspects to violet and mimosa complexes; creates a true-to-naturefoliage green note",
+    "productName": "Resedafol",
+    "productNumber": "690520",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "poor"
+        },
+        {
+            "ap roll-on 15%": "poor"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleaner apc liquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "1-Phenethoxy-1-propoxyethan",
+    "useLevel": "",
+    "usefulIn": ""
+}

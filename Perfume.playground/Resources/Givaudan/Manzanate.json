@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Manzanate has a fruity ripe apple character with aspects of cider and sweet pineapple.It brings a great impact and bloom inwater-contact products.",
+        "family": "Fruity",
+        "givaudanNumber": "6702803",
+        "name": "Manzanate",
+        "note": [
+            "Fruity",
+            "Apple",
+            "Pineapple"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Moderate",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "Several hours",
+        "useLevel": "Up to 1%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "39255-32-8",
+        "formula": "C8H16O2",
+        "logP": "2,7",
+        "molecularWeight": "144,2",
+        "name": "Ethyl 2-methylpentanoate",
+        "vapourPressure": "1.9997 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Poor",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Moderate",
+            "ph": "10"
+        }
+    }
+}

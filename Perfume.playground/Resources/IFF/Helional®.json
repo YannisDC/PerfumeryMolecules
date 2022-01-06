@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Green, Aldehydic",
+    "family": "Floral",
+    "flashpoint": "> 100°C",
+    "formula": "alpha-Methyl-1,3-benzodioxole-5-propanal",
+    "gc": "Min. 96%",
+    "identificationNumbers": {
+        "cas": "1205-17-0",
+        "ipc": "082322",
+        "reach": "01-2120740119-58"
+    },
+    "impact": {
+        "base": "12",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "2.4",
+    "molecularWeight": "192.2",
+    "name": "Helional®",
+    "olfactiveId": "High Tech",
+    "olfactoryDescription": "Green, floral (cyclamen) with top notes of ozone and new mown hay.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Fabric Conditioner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 10%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.000288 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

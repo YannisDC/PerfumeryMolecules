@@ -1,0 +1,79 @@
+{
+    "facet": "Fresh, Floral, Bergamot",
+    "family": "Citrus",
+    "flashpoint": "83°C",
+    "formula": "3,7-Dimethyl-2-methylene-6-octenal",
+    "gc": "Min. 92%",
+    "identificationNumbers": {
+        "cas": "22418-66-2",
+        "ipc": "021660",
+        "reach": "Not yet required"
+    },
+    "impact": {
+        "base": "1",
+        "heart": "1",
+        "top": "2"
+    },
+    "logP": "3.94",
+    "molecularWeight": "166.2",
+    "name": "Bergamal",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "Refreshing, aldehydic, lemon, citronella, verbena note with definite citrus and dry orange moieties.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Fabric Conditioner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Soap",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "6 hours",
+    "useLevel": "Traces to 10%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.111835 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

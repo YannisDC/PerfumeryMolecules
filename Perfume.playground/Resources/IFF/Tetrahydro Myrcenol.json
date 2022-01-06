@@ -1,0 +1,79 @@
+{
+    "facet": "Citrus, Lime, Fresh",
+    "family": "Citrus",
+    "flashpoint": "72°C",
+    "formula": "2,6-Dimethyl-2-octanol",
+    "gc": "Min. 98%",
+    "identificationNumbers": {
+        "cas": "18479-57-7",
+        "ipc": "203509",
+        "reach": "Not yet required"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "3.6",
+    "molecularWeight": "158.2",
+    "name": "Tetrahydro Myrcenol",
+    "olfactiveId": "Air",
+    "olfactoryDescription": "Soft, lime, citrus, floral odor.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Bleach",
+            "stability": "Good"
+        }
+    ],
+    "substantivity": "6 hours",
+    "useLevel": "Up to 30%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.069711 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

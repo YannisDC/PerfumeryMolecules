@@ -1,0 +1,79 @@
+{
+    "facet": "Green, Floral, Aldehydic",
+    "family": "Green",
+    "flashpoint": "59°C",
+    "formula": "(3Z)-1-[(2-Methyl-2-propenyl)oxy]-3-hexene",
+    "gc": "Min. 97%",
+    "identificationNumbers": {
+        "cas": "292605-05-1",
+        "ipc": "221109",
+        "reach": "01-0000018425-70"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "0",
+        "top": "2"
+    },
+    "logP": "4.09",
+    "molecularWeight": "154.25",
+    "name": "Vivaldie",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "Green, fresh floral (flower shop), vegetable, fruity.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "< 3 hours",
+    "useLevel": "Traces to 2%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.774972 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

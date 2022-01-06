@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Sandela is a classical sandalwood note that can be used in all fragrance types.",
+        "family": "Woody",
+        "givaudanNumber": "8850203",
+        "name": "Sandela® 85%/IPM",
+        "note": [
+            "Woody",
+            "Sandalwood",
+            "Balsamic"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "3 weeks",
+        "useLevel": "1% - 25%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "66068-84-6",
+        "formula": "C16H28O",
+        "logP": "5,6",
+        "molecularWeight": "236.4",
+        "name": "4-(5,5,6-Trimethylbicyclo[2.2.1]hept-2-yl)cyclohexan-1-ol and isomers (85% solution in isopropyl myristate)",
+        "vapourPressure": "0.0133 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Good",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

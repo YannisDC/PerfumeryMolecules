@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Ebanol has a very rich, natural sandalwood odour.It is powerful and intense, bringing volume and elegance to woody accords anda diffusive sandalwood effect to compositions. Ebanol is highly substantive on all supports.",
+        "family": "Woody",
+        "givaudanNumber": "4697403",
+        "name": "Ebanol®",
+        "note": [
+            "Woody",
+            "Sandalwood",
+            "Musky",
+            "Powerful"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "3 weeks",
+        "useLevel": "0.5% - 5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "67801-20-1",
+        "formula": "C14H24O",
+        "logP": "4,9",
+        "molecularWeight": "208.3",
+        "name": "3-Methyl-5-(2,2,3-trimethyl-3-cyclopenten-1-yl)-4-penten-2-ol (& isomers)",
+        "vapourPressure": "0.0013 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

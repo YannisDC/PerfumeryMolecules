@@ -1,0 +1,69 @@
+{
+    "general": {
+        "description": "Javanol is the latest generation of sandalwood molecule with unprecedented power and substantivity. It has a rich, natural,creamy sandalwood note like beta santanol combined with some rosy nuances. It can also be used at very low dosage (below0.1%) to bring richness and creaminess to all types of accords.With its exceptional low threshold, Javanol is approximately 8 timesmore effective in wash tests than the most powerful sandalwood product. Its very good stability, mainly due to the completeabsence of double bond, makes it suitable for all applications except bleach.",
+        "family": "Woody",
+        "givaudanNumber": "8754013",
+        "name": "Javanol®",
+        "note": [
+            "Woody",
+            "Sandalwood",
+            "Creamy",
+            "Rose",
+            "Powerful"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "1 month +",
+        "useLevel": "Traces - 2%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "198404-98-7",
+        "formula": "C15H26O",
+        "logP": "4,8",
+        "molecularWeight": "222.3",
+        "name": "[1-Methyl-2-[(1,2,2-trimethylbicyclo[3.1.0]hex-3-yl)methyl]cyclopropyl]methanol (mixture of diastereoisomers)",
+        "vapourPressure": "0.0003 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

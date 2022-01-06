@@ -1,0 +1,14 @@
+{
+    "facet": "Herbal, Pine",
+    "family": "Herbal",
+    "formula": "2,6,6-Trimethyl bicyclo[3.1.1]heptane",
+    "identificationNumbers": {
+        "cas": "Not yet required",
+        "ipc": "160362",
+        "reach": "Not yet required"
+    },
+    "logP": "5.1",
+    "name": "Pinane",
+    "olfactoryDescription": "Diffusive pine odor.",
+    "vaporPressure": "5.1254 mm Hg @ 23°C"
+}

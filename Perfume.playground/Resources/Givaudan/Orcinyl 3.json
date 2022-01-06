@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Orcinyl 3 brings a typical oakmoss note reinforcing the character of this absolute in all compounds.It can be used in combinationwith Evernyl as the heart of an oakmoss substitute. It blends very well with chypre, leather, woody and tobacco accords.",
+        "family": "Leathery",
+        "givaudanNumber": "6638701",
+        "name": "Orcinyl 3",
+        "note": [
+            "Leathery",
+            "Oakmoss",
+            "Sweet",
+            "Phenolic"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "4 days",
+        "useLevel": "0.05% - 1%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "3209-13-0",
+        "formula": "C8H10O2",
+        "logP": "0,9",
+        "molecularWeight": "138",
+        "name": "3-Methoxy-5-methylphenol",
+        "vapourPressure": "0.0217 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Moderate",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Moderate",
+            "ph": "10"
+        }
+    }
+}

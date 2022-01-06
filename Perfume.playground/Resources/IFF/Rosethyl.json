@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Rose, Green",
+    "family": "Floral",
+    "flashpoint": "94°C",
+    "formula": "ortho-(Ethoxymethyl)anisole",
+    "gc": "Min. 95%",
+    "identificationNumbers": {
+        "cas": "64988-06-3",
+        "ipc": "187242",
+        "reach": "Not yet required"
+    },
+    "impact": {
+        "base": "2",
+        "heart": "3",
+        "top": "3"
+    },
+    "logP": "1.87",
+    "molecularWeight": "166",
+    "name": "Rosethyl",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "Rose de Mai type note with natural green, earthy, spicy and honey nuances.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Acid Cleaner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "AP Deo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Bleach",
+            "stability": "Moderate"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 2%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.2443 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

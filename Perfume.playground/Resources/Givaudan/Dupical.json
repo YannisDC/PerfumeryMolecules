@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Dupical is a powerful, fresh, transparent aldehydic muguet.It is a wonderful modifier and enhancer of the muguet character in afragrance. It can be used across all applications thanks to its high performance.",
+        "family": "Floral",
+        "givaudanNumber": "4685003",
+        "name": "Dupical",
+        "note": [
+            "Floral",
+            "Green",
+            "Muguet",
+            "Fresh"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "Several weeks",
+        "useLevel": "0.1% - 0.5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "30168-23-1",
+        "formula": "C14H20O",
+        "logP": "4,1",
+        "molecularWeight": "204",
+        "name": "4-(Octahydro-4,7-methano-5H-inden-5-ylidene)butanal",
+        "vapourPressure": "0.0013 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Poor",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Moderate",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Florosa has a creamy floral muguet note.It is commonly used in combination with muguet aldehydes such as Bourgeonal andDupical. It is a general floraliser and can be taken in a number of different odour directions from herbal through floral to citrus.",
+        "family": "Floral",
+        "givaudanNumber": "5083303",
+        "name": "Florosa",
+        "note": [
+            "Floral",
+            "Muguet",
+            "Sweet"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Poor",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Poor",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "Several days",
+        "useLevel": "2 - 10%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "63500-71-0",
+        "formula": "C10H20O2",
+        "logP": "2",
+        "molecularWeight": "172",
+        "name": "Tetrahydro-2-isobutyl-4-methylpyran-4-ol",
+        "vapourPressure": "0.0133 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Moderate",
+            "ph": "10"
+        }
+    }
+}

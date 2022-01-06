@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Fresh, Muguet",
+    "family": "Floral",
+    "flashpoint": "112°C",
+    "formula": "3-(p-cumenyl)propionaldehyde",
+    "gc": "Min. 96%",
+    "identificationNumbers": {
+        "cas": "7775-00-0",
+        "ipc": "033280",
+        "reach": "01-2120758797-32"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "23",
+        "top": "23"
+    },
+    "logP": "3.37",
+    "molecularWeight": "176.12",
+    "name": "Cyclemax™",
+    "olfactiveId": "Air",
+    "olfactoryDescription": "Fresh, floral, muguet with a fruity melon nuance.",
+    "performanceTable": [
+        {
+            "performance": "Excellent",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 72 hours",
+    "useLevel": "Up to 20%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.006082 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

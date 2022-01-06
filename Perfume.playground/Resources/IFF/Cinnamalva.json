@@ -1,0 +1,79 @@
+{
+    "facet": "Spicy, Fatty, Cinnamon",
+    "family": "Spicy",
+    "flashpoint": "94°C",
+    "formula": "(E)-3-Phenyl-2-propenenitrile",
+    "gc": "Trans isomer min. 97%",
+    "identificationNumbers": {
+        "cas": "1885-38-7",
+        "ipc": "033810",
+        "reach": "Not yet required"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "1.84",
+    "molecularWeight": "129.2",
+    "name": "Cinnamalva",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "Cinnamon-like with higher odor intensity and chemical stability than Cinnamic Aldehyde.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Bleach",
+            "stability": "Moderate"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Traces to 2%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.015026 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

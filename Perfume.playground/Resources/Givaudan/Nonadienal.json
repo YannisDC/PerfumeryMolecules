@@ -1,0 +1,69 @@
+{
+    "general": {
+        "description": "Nonadienal blends well in green top note accords. Used as a modifier, it imparts a natural violet leaf aspect.",
+        "family": "Green",
+        "givaudanNumber": "7568001",
+        "name": "Nonadienal",
+        "note": [
+            "Green",
+            "Cucumber",
+            "Melon",
+            "Violet leaves",
+            "Intense"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "16 hours",
+        "useLevel": "Traces - 0.5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "557-48-2",
+        "formula": "C9H14O",
+        "logP": "",
+        "molecularWeight": "138.2",
+        "name": "2,6-Nonadienal (E,E- & E,Z-isomers)",
+        "vapourPressure": "0.0133 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Poor",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Moderate",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Poor",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

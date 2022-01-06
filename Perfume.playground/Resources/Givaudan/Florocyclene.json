@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Florocyclene has a sweet fruity floral note with aspects of jasmine and anise. This is the propionate ester of the cyclene family,and is much softer than Jasmacyclene.It works well in combination with the other cyclenes.",
+        "family": "Floral",
+        "givaudanNumber": "8467001",
+        "name": "Florocyclene",
+        "note": [
+            "Floral",
+            "Green",
+            "Fruity"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "Several days",
+        "useLevel": "Up to 5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "68912-13-017511-60-3",
+        "formula": "C13H18O2",
+        "logP": "3,1",
+        "molecularWeight": "206,2",
+        "name": "3a,4,5,6,7,7a-Hexahydro-4,7-methano-1H-inden-5(6)-ylpropionate",
+        "vapourPressure": "0.0093 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Moderate",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

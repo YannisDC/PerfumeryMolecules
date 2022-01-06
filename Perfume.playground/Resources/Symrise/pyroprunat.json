@@ -1,0 +1,51 @@
+{
+    "CASNumber": "68039-73-6",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "1,1'-Bi(cyclopentyl)-2-yl(2E)-but-2-enoa te",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "222.36",
+    "olfactoryDescription": [
+        "fruity",
+        "plum",
+        "raspberry"
+    ],
+    "olfactoryFamily": "fruity",
+    "perfumeryUse": "provides plum-like fruity aspects to floral notes; underlines damascone-like aspects;adds a dark fruitiness to tobacco interpretations",
+    "productName": "Pyroprunat",
+    "productNumber": "611421",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "good"
+        },
+        {
+            "cleaner apc liquid": "very good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "2-Cyclopentyl cyclopentyl crotonate",
+    "useLevel": "",
+    "usefulIn": ""
+}

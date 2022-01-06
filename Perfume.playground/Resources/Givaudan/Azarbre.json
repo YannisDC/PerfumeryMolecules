@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Azarbre has a warm honey note with aspects of dried flowers.It will enhance the effect of ionones at 2 to 3%. When used athigher dosage up to 10% it blends the woody and floral components of a fragrance together. Particularly suited for honey-sweetflorals.",
+        "family": "Gourmand",
+        "givaudanNumber": "7043003",
+        "name": "Azarbre",
+        "note": [
+            "Gourmand",
+            "Honey",
+            "Woody",
+            "Orris"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Poor",
+        "burningEffectiveness": "Moderate",
+        "substantivityDamp": "Poor",
+        "substantivityDry": "Poor",
+        "tenacityOnBlotter": "1 day",
+        "useLevel": "Up to 10%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "68845-36-3",
+        "formula": "C12H20O",
+        "logP": "3,8",
+        "molecularWeight": "180,2",
+        "name": "3,5-Diethyl-2,3-dimethyl-5-cyclohexen-1-one (maincomponent)",
+        "vapourPressure": "0.0430 hPa (25°C)"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Poor",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

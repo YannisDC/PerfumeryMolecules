@@ -1,0 +1,79 @@
+{
+    "facet": "Musk, Floral, Woody",
+    "family": "Musk",
+    "flashpoint": "104°C",
+    "formula": "1,3,4,6,7,8-Hexahydro-4,6,6,7,8,8-hexamethylcyclopenta-gamma-2-benzopyran",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "1222-05-5",
+        "ipc": "See below",
+        "reach": "01-2119488227-29"
+    },
+    "impact": {
+        "base": "3",
+        "heart": "2",
+        "top": "0"
+    },
+    "logP": "5.92",
+    "molecularWeight": "258.4",
+    "name": "Galaxolide®",
+    "olfactiveId": "Intimate",
+    "olfactoryDescription": "A clean, powerful and versatile iso-chroman musk having exceptional persistence and a superb fragrance quality approaching the tone of macrocyclic musks.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Excellent"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "AP Deo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Bleach",
+            "stability": "Good"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 50%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.000143 mm Hg @ 23°C",
+    "visual": "Viscous liquid, colorless"
+}

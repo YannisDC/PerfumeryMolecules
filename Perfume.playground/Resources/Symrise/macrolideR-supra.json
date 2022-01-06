@@ -1,0 +1,53 @@
+{
+    "CASNumber": "106-02-5",
+    "FEMANumber": "2840",
+    "FLAVISNumber": "10.004",
+    "INCIName": "Pentadecalactone",
+    "IUPACName": "Oxacyclohexadecan-2-one",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        "musk",
+        "perfumistic",
+        "soapy"
+    ],
+    "molecularWeight": "240.43",
+    "olfactoryDescription": [
+        "musky",
+        "balsamic",
+        "red fruit"
+    ],
+    "olfactoryFamily": "musky",
+    "perfumeryUse": "imparts elegance and sophistication; supports red fruit elements of compositions;most valuable for skin care application; synergistic effects occur by combination withmcm ketones",
+    "productName": "Macrolide® supra",
+    "productNumber": "660539",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "very good"
+        },
+        {
+            "soap": "very good"
+        },
+        {
+            "ap roll-on 15%": "very good"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "good"
+        },
+        {
+            "cleanerapc liquid": "very good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "15-Pentadecalactone,Cyclopentadecanolide",
+    "useLevel": "0.5 - 20%",
+    "usefulIn": "cocoa, vanilla, spices/herbs, meat, citrus, red fruit, yellow fruit, tropical fruit, fruitothers, sweet others, alcoholics"
+}

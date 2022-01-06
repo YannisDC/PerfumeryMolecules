@@ -1,0 +1,79 @@
+{
+    "facet": "Woody, Balsamic, Pine",
+    "family": "Woody",
+    "flashpoint": "86°C",
+    "formula": "3,4,5,6,6-Pentamethylhept-3-en-2-one (and isomers)",
+    "gc": "Sum of isomers min. 90%",
+    "identificationNumbers": {
+        "cas": "81786-73-4 / 81786-74-5 / 81786-75-6 / 86115-11-9",
+        "ipc": "110502",
+        "reach": "01-2119980043-42"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "4.19",
+    "molecularWeight": "182.3",
+    "name": "Koavone®",
+    "olfactiveId": "Contrasted",
+    "olfactoryDescription": "Woody, floral complex with amber and violet nuances. A highly diffusive product that can be used to enhance amber notes. At high levels an aldehydic, pine needle oil effect is realized.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "12 hours",
+    "useLevel": "Up to 30%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.111524 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

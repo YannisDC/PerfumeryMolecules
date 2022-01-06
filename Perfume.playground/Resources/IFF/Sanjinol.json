@@ -1,0 +1,79 @@
+{
+    "facet": "Sandalwood, Floral, Woody",
+    "family": "Woody",
+    "flashpoint": "94°C",
+    "formula": "2-Ethyl-4-(2,2,3-trimethyl-3-cyclopenten-1-yl)-2-buten-1-ol",
+    "gc": "Sum isomers min. 92%",
+    "identificationNumbers": {
+        "cas": "28219-61-6",
+        "ipc": "191007",
+        "reach": "01-2119529224-45"
+    },
+    "impact": {
+        "base": "2",
+        "heart": "2",
+        "top": "0"
+    },
+    "logP": "4.3",
+    "molecularWeight": "208.3",
+    "name": "Sanjinol",
+    "olfactiveId": "Intimate",
+    "olfactoryDescription": "Natural sandalwood-like odor. Good diffusion and substantivity.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 10%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.001065 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

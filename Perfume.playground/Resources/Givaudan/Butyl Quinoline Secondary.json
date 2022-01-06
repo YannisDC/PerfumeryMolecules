@@ -1,0 +1,69 @@
+{
+    "general": {
+        "description": "Butyl Quinoline Secondary has a smooth, fine, woody-vetiver-leather character.It is used in chypre, leather, woody compositionsand in masculine colognes where it imparts great diffusion and fixation.",
+        "family": "Leathery",
+        "givaudanNumber": "3005003",
+        "name": "Butyl Quinoline Secondary",
+        "note": [
+            "Leathery",
+            "Green",
+            "Woody",
+            "Earthy",
+            "Powerful"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "6 days",
+        "useLevel": "Traces - 2%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "65442-31-167634-06-4",
+        "formula": "C13H15N",
+        "logP": "4,4",
+        "molecularWeight": "185.2",
+        "name": "6(8)-(1-Methylpropyl)quinoline",
+        "vapourPressure": "0.0013 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Good",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Moderate",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Moderate",
+            "ph": "10"
+        }
+    }
+}

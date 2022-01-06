@@ -1,0 +1,79 @@
+{
+    "facet": "Floral, Hyacinth, Fruity",
+    "family": "Floral",
+    "flashpoint": "94°C",
+    "formula": "[2-(Cyclohexyloxy)ethyl]benzene",
+    "gc": "Min. 98%",
+    "identificationNumbers": {
+        "cas": "80858-47-5",
+        "ipc": "160529",
+        "reach": "01-2120525215-65"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "1",
+        "top": "1"
+    },
+    "logP": "4.54",
+    "molecularWeight": "204.3",
+    "name": "Phenafleur®",
+    "olfactiveId": "Air",
+    "olfactoryDescription": "Refined floral note with hyacinth associations and a modifying fruity (raspberry) effect. Excellent stability.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Candles",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Bleach",
+            "stability": "Good"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 20%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.004071 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

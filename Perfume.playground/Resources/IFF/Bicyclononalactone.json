@@ -1,0 +1,79 @@
+{
+    "facet": "Powdery, Sweet, Tonka",
+    "family": "Powdery",
+    "flashpoint": "113°C",
+    "formula": "Octahydro-2H-1-benzopyran-2-one",
+    "gc": "Sum isomers min. 98%",
+    "identificationNumbers": {
+        "cas": "4430-31-3",
+        "ipc": "151245",
+        "reach": "01-2120746527-47"
+    },
+    "impact": {
+        "base": "2",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "1.55",
+    "molecularWeight": "154.04",
+    "name": "Bicyclononalactone",
+    "olfactiveId": "Tasty",
+    "olfactoryDescription": "Very useful in preparing Coumarin alternatives. More stable than Coumarin. It also has a very good Tonka characteristic. Almond, vanilla, Coumarin, hay, coconut note.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 12 hours",
+    "useLevel": "Up to 10%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.001558 mm Hg @ 23°C",
+    "visual": "Clear liquid"
+}

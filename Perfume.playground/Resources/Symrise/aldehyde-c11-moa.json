@@ -1,0 +1,52 @@
+{
+    "CASNumber": "19009-56-4",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "2-Methyldecanal",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "170.33",
+    "olfactoryDescription": [
+        "aldehydic",
+        "orange",
+        "peely",
+        "marine"
+    ],
+    "olfactoryFamily": "aldehydic",
+    "perfumeryUse": "top note booster; unfolds its value in fresh, citrus accords, especially orange types;boosts a tenacious, clean linen freshness, particularly in fabric care compositions;useful in marine notes",
+    "productName": "Aldehyde C11 MOA",
+    "productNumber": "656012",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "poor"
+        },
+        {
+            "ap roll-on 15%": "poor"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleaner apc liquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "2-Methyl-1-decanal, Methyl octylacetaldehyde",
+    "useLevel": "",
+    "usefulIn": ""
+}

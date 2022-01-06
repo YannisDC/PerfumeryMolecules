@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Petiole is a green and powerful ingredient, with floral shades of hyacinth and rose, and a hint of watercress.It gives a naturalgreen freshness to top notes.",
+        "family": "Green",
+        "givaudanNumber": "1394793",
+        "name": "Petiole",
+        "note": [
+            "Green",
+            "Floral",
+            "Hyacinth"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "1 day",
+        "useLevel": "Up to 3%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "68039-47-4",
+        "formula": "C11H16O",
+        "logP": "3",
+        "molecularWeight": "164",
+        "name": "[2-(1-Methylethoxy)ethyl]benzene",
+        "vapourPressure": "0.0667 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Moderate",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Moderate",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

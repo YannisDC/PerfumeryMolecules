@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Freskomenthe adds an element of freshness to a wide range of accords, including lavender, citrus, aromatic, geranium and greennotes. It contributes to a unique cooling effect in powder detergent, without becoming overly minty. Freskomenthe can be usedto modify a typical mint character and suggest peppermint in a blend containing none of the natural mint. Very stable in allapplications, including bleach.",
+        "family": "Herbal",
+        "givaudanNumber": "5202703",
+        "name": "Freskomenthe®",
+        "note": [
+            "Herbal",
+            "Mint",
+            "Fresh",
+            "Woody"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Good",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "3 hours",
+        "useLevel": "1% - 6%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "14765-30-1",
+        "formula": "C10H18O",
+        "logP": "3,4",
+        "molecularWeight": "154.2",
+        "name": "2-(1-Methylpropyl)cyclohexanone",
+        "vapourPressure": "0.0800 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Good",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Good",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "facet": "Green, Marine, Aldehydic",
+    "family": "Green",
+    "flashpoint": "106°C",
+    "formula": "Octahydro-4,7-methano-1H-indenecarbaldehyde",
+    "gc": "Min. 98%",
+    "identificationNumbers": {
+        "cas": "30772-79-3",
+        "ipc": "013600",
+        "reach": "01-2120119801-64"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "3"
+    },
+    "logP": "2.87",
+    "molecularWeight": "164.1",
+    "name": "Melozone",
+    "olfactiveId": "High Tech",
+    "olfactoryDescription": "Interesting combination of green melon and fresh air odors with a novel aldehydic effect.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Soap",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 48 hours",
+    "useLevel": "Up to 4%",
+    "uses": "Fine fragrance, personal care, fabric care, home care, candles",
+    "vaporPressure": "0.021944 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

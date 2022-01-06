@@ -1,0 +1,52 @@
+{
+    "CASNumber": "75147-23-8",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "1,5-Dimethyl-bicyclo[3.2.1]octan-8-oneox ime",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "167.25",
+    "olfactoryDescription": [
+        "fruity",
+        "cassis",
+        "buchu leaf",
+        "green"
+    ],
+    "olfactoryFamily": "fruity",
+    "perfumeryUse": "modifies and strengthens fruity compositions; provides cassis-like nuances to floraland herbal creations; peach notes can be modified to exotic fruit notes; higherdosages implicate a gourmand aspect in fruity fragrances",
+    "productName": "Buccoxime®",
+    "productNumber": "195583",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "verygood"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleaner apcliquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "",
+    "useLevel": "",
+    "usefulIn": ""
+}

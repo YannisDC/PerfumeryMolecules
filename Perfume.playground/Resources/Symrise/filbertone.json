@@ -1,0 +1,55 @@
+{
+    "CASNumber": "81925-81-7, 102322-83-8",
+    "FEMANumber": "3761",
+    "FLAVISNumber": "07.139",
+    "INCIName": "",
+    "IUPACName": "(2E)-5-Methylhept-2-en-4-one",
+    "availableSolutions": "Filbertone 1% TEC 736664",
+    "dosage": "",
+    "flavorDescription": [
+        "hazelnut",
+        "nutty",
+        "nougat",
+        "rosated"
+    ],
+    "molecularWeight": "126.22",
+    "olfactoryDescription": [
+        "fruity",
+        "hazelnut",
+        "green",
+        "dried fruit"
+    ],
+    "olfactoryFamily": "fruity",
+    "perfumeryUse": "top note booster; highly diffusive material; gives a natural impression to exotic fruitand citrus notes; combines well with rose ketones",
+    "productName": "Filbertone",
+    "productNumber": "690986",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "very good"
+        },
+        {
+            "ap roll-on 15%": "very good"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "good"
+        },
+        {
+            "cleanerapc liquid": "very good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "",
+    "useLevel": "0.1 - 2%",
+    "usefulIn": "nuts, cocoa, coffee, brown others, mint, meat, citrus, tropical fruit, fruit others"
+}

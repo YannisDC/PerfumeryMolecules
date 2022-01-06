@@ -1,0 +1,52 @@
+{
+    "CASNumber": "29127-83-1",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "Non-2-enenitrile",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "137.23",
+    "olfactoryDescription": [
+        "floral",
+        "iris",
+        "orris",
+        "green"
+    ],
+    "olfactoryFamily": "floral",
+    "perfumeryUse": "highly diffusive note; modifier for floral-woody and green-floral fragrances; providesstrength to iris and violet flowers; emphasizes dry, powdery, cosmetic aspects",
+    "productName": "Irisnitrile",
+    "productNumber": "611465",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "excellent"
+        },
+        {
+            "soap": "excellent"
+        },
+        {
+            "ap roll-on 15%": "very good"
+        },
+        {
+            "detergent powder conc.": "very good"
+        },
+        {
+            "cleaner liquid citric acid": "excellent"
+        },
+        {
+            "cleaner apc liquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "Nonenyl nitrile",
+    "useLevel": "0.05 - 0.5%",
+    "usefulIn": ""
+}

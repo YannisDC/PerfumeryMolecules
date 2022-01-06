@@ -1,0 +1,14 @@
+{
+    "facet": "Fruity, Green, Banana",
+    "family": "Fruity",
+    "formula": "Isoamyl butyrate",
+    "identificationNumbers": {
+        "cas": "01-2120762245-55",
+        "ipc": "014290",
+        "reach": "01-2120762245-55"
+    },
+    "logP": "3.3",
+    "name": "Iso Amyl Butyrate",
+    "olfactoryDescription": "Fruity, tropical, apricot, banana, green.",
+    "vaporPressure": "0.011563 mm Hg @ 23°C"
+}

@@ -1,0 +1,79 @@
+{
+    "facet": "Amber, Animalic, Ambergris",
+    "family": "Amber",
+    "flashpoint": "100°C",
+    "formula": "1,2,3,4,4a,5,6,7-octahydro-2,5,5-trimethyl-2-naphthol",
+    "gc": "See product data sheet",
+    "identificationNumbers": {
+        "cas": "41199-19-3",
+        "ipc": "012334",
+        "reach": "Not yet required"
+    },
+    "impact": {
+        "base": "2",
+        "heart": "3",
+        "top": "3"
+    },
+    "logP": "4.19",
+    "molecularWeight": "194.2",
+    "name": "Ambrinol 95",
+    "olfactiveId": "Primitive",
+    "olfactoryDescription": "Possesses the elegant tonalities of aged natural ambergris tincture. Tobacco, leathery nuances and the power of oceanic seaweed notes supported with a warm animalic, musky dry down.",
+    "performanceTable": [
+        {
+            "performance": "Very Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Acid Cleaner",
+            "stability": "Moderate"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Moderate",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "> 72 hours",
+    "useLevel": "Up to 1.0%",
+    "uses": "Fine fragrance, personal care, fabric care",
+    "vaporPressure": "0.002998 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow liquid"
+}

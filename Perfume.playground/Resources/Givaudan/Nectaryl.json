@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Nectaryl produces a natural, fruity and sophisticated note in fine fragrance. Its stability and substantivity makes it valuable as alactonic element in powder detergent.",
+        "family": "Fruity",
+        "givaudanNumber": "7446003",
+        "name": "Nectaryl",
+        "note": [
+            "Fruity",
+            "Peach",
+            "Apricot",
+            "Lactonic"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Good",
+        "tenacityOnBlotter": "3 weeks",
+        "useLevel": "0.5% - 5%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "95962-14-4",
+        "formula": "C15H24O",
+        "logP": "5,3",
+        "molecularWeight": "220.0",
+        "name": "2-(2-(4-Methyl-3-cyclohexen-1-yl)propyl)cyclopentanone",
+        "vapourPressure": "0.0001 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Good",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

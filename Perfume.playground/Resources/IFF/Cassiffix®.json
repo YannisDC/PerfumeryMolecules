@@ -1,0 +1,79 @@
+{
+    "facet": "Fresh, Fruity, Cassis",
+    "family": "Fruity",
+    "flashpoint": "145°C",
+    "formula": "Trimethylcyclopentenylmethyloxabicyclooctane",
+    "gc": "Sum peaks 1-4 min. 98%",
+    "identificationNumbers": {
+        "cas": "139539-66-5 / 139539-67-6 / 426218-78-2",
+        "ipc": "032037",
+        "reach": "01-0000016855-61"
+    },
+    "impact": {
+        "base": "0",
+        "heart": "2",
+        "top": "2"
+    },
+    "logP": "5.4",
+    "molecularWeight": "234.2",
+    "name": "Cassiffix®",
+    "olfactiveId": "Nature",
+    "olfactoryDescription": "A non-sulphur substantive fruity, green, cassis note. Gives sparkle to a wide range of fragrances.",
+    "performanceTable": [
+        {
+            "performance": "Good",
+            "product": "Fine Fragrance",
+            "stability": "Very Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Acid Cleaner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Liquid Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Powder Detergent",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Fabric Conditioner",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "AP Deo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Shampoo",
+            "stability": "Good"
+        },
+        {
+            "performance": "Very Good",
+            "product": "Soap",
+            "stability": "Good"
+        },
+        {
+            "performance": "Good",
+            "product": "Candles",
+            "stability": "Good"
+        },
+        {
+            "performance": "Poor",
+            "product": "Bleach",
+            "stability": "Poor"
+        }
+    ],
+    "substantivity": "24 hours",
+    "useLevel": "Traces to 5%",
+    "uses": "Fine fragrance, personal care, fabric care, home care",
+    "vaporPressure": "0.001735 mm Hg @ 23°C",
+    "visual": "Colorless to pale yellow"
+}

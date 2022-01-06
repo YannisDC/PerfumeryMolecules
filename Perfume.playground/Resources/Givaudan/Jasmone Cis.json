@@ -1,0 +1,68 @@
+{
+    "general": {
+        "description": "Jasmone Cis is widely used in the creation of high quality florals like jasmine and tuberose. Also used in the reconstitutions ofessential oils.",
+        "family": "Floral",
+        "givaudanNumber": "6340001",
+        "name": "Jasmone Cis",
+        "note": [
+            "Floral",
+            "Jasmine",
+            "Green",
+            "Warm"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Moderate",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "3 days",
+        "useLevel": "Traces - 3%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "488-10-8",
+        "formula": "C11H16O",
+        "logP": "2,8",
+        "molecularWeight": "164.2",
+        "name": "(Z)-3-Methyl-2-(2-pentenyl)-2-cyclopenten-1-one(main component)",
+        "vapourPressure": "0.0133 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Moderate",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

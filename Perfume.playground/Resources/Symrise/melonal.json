@@ -1,0 +1,58 @@
+{
+    "CASNumber": "106-72-9",
+    "FEMANumber": "2389",
+    "FLAVISNumber": "05.074",
+    "INCIName": "",
+    "IUPACName": "2,6-Dimethylhept-5-enal",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        "fresh",
+        "watery",
+        "green",
+        "fruity",
+        "melon",
+        "cucumber"
+    ],
+    "molecularWeight": "140.25",
+    "olfactoryDescription": [
+        "aldehyde",
+        "melon",
+        "ozonic",
+        "green",
+        "cucumber"
+    ],
+    "olfactoryFamily": "aldehyde",
+    "perfumeryUse": "",
+    "productName": "Melonal",
+    "productNumber": "140247",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "verygood"
+        },
+        {
+            "detergent powder conc.": "good"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleaner apcliquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "",
+    "useLevel": "0.1 - 1%",
+    "usefulIn": ""
+}

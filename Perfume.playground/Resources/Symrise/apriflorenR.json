@@ -1,0 +1,53 @@
+{
+    "CASNumber": "67663-01-8",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "5-Hexyl-4-methyl-dihydro-furan-2-one",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "184.28",
+    "olfactoryDescription": [
+        "fruity",
+        "floral",
+        "lactonic",
+        "green",
+        "peach"
+    ],
+    "olfactoryFamily": "fruity",
+    "perfumeryUse": "gives naturalness; imparts soft and caring fruity aspects; adds richness and body towhite flower concepts; underlines typical orange characteristics",
+    "productName": "Aprifloren®",
+    "productNumber": "600038",
+    "stability": [
+        {
+            "body lotion": "very good"
+        },
+        {
+            "shampoo/shower gel": "very good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "very good"
+        },
+        {
+            "detergent powder conc.": "poor"
+        },
+        {
+            "cleaner liquid citric acid": "good"
+        },
+        {
+            "cleanerapc liquid": "very good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "5-Hexyldihydro-4-methylfuran-2(3H)-one",
+    "useLevel": "",
+    "usefulIn": ""
+}

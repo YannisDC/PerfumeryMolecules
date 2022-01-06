@@ -1,0 +1,67 @@
+{
+    "general": {
+        "description": "Jasmatone has a floral aromatic jasmine note, diffusive and warm with a hint of fruit.It can be considered as a very good floraliser,suitable for jasmine, floral and fruity fragrances. It has good chemical stability and is particularly effective in toilet soaps.",
+        "family": "Floral",
+        "givaudanNumber": "5850253",
+        "name": "Jasmatone",
+        "note": [
+            "Floral",
+            "Jasmine",
+            "Fruity"
+        ]
+    },
+    "performance": {
+        "bloomInSoap": "Moderate",
+        "burningEffectiveness": "Good",
+        "substantivityDamp": "Good",
+        "substantivityDry": "Moderate",
+        "tenacityOnBlotter": "Several days",
+        "useLevel": "Up to 2%"
+    },
+    "physicoChemicalProperties": {
+        "casNumber": "13074-65-2",
+        "formula": "C11H20O",
+        "logP": "3,4",
+        "molecularWeight": "168,3",
+        "name": "2-Hexacyclopentanone",
+        "vapourPressure": "0.0107 hPa"
+    },
+    "stability": {
+        "APC": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "acidCleaner": {
+            "odour": "Moderate",
+            "ph": "2"
+        },
+        "antiperspirant": {
+            "odour": "Good",
+            "ph": "3.5"
+        },
+        "bleach": {
+            "odour": "Poor",
+            "ph": "11"
+        },
+        "fabricConditioner": {
+            "odour": "Good",
+            "ph": "3"
+        },
+        "fabricDetergentLiquid": {
+            "odour": "Good",
+            "ph": "9"
+        },
+        "powderDetergent": {
+            "odour": "Moderate",
+            "ph": "10.5"
+        },
+        "shampoo": {
+            "odour": "Good",
+            "ph": "6"
+        },
+        "soap": {
+            "odour": "Good",
+            "ph": "10"
+        }
+    }
+}

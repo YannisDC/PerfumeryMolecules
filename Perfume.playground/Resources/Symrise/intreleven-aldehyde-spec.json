@@ -1,0 +1,52 @@
+{
+    "CASNumber": "1337-83-3",
+    "FEMANumber": "",
+    "FLAVISNumber": "",
+    "INCIName": "",
+    "IUPACName": "(E)-Undec-9-enal (main isomer)",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        ""
+    ],
+    "molecularWeight": "168.28",
+    "olfactoryDescription": [
+        "aldehydic",
+        "fresh linen",
+        "floral",
+        "ozony"
+    ],
+    "olfactoryFamily": "aldehydic",
+    "perfumeryUse": "implements a fresh radiant top note to white flower concepts; valuable product forfabric care applications; top note booster; provides a clean, fresh linen aspect",
+    "productName": "Intreleven aldehyde spec.",
+    "productNumber": "658697",
+    "stability": [
+        {
+            "body lotion": "very good"
+        },
+        {
+            "shampoo/shower gel": "very good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "poor"
+        },
+        {
+            "cleaner liquid citric acid": "poor"
+        },
+        {
+            "cleaner apcliquid": "very good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "Undecenal",
+    "useLevel": "",
+    "usefulIn": ""
+}

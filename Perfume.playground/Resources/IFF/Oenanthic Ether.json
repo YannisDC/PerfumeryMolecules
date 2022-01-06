@@ -1,0 +1,14 @@
+{
+    "facet": "Fruity, Pineapple, Berry",
+    "family": "Fruity",
+    "formula": "Ethyl heptanoate",
+    "identificationNumbers": {
+        "cas": "01-2120768737-36",
+        "ipc": "150843",
+        "reach": "01-2120768737-36"
+    },
+    "logP": "3.4",
+    "name": "Oenanthic Ether",
+    "olfactoryDescription": "Fruity, pineapple, berry, with a slight green nuance.",
+    "vaporPressure": "0.553618 mm Hg @ 23°C"
+}

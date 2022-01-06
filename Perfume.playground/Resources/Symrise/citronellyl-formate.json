@@ -1,0 +1,56 @@
+{
+    "CASNumber": "105-85-1",
+    "FEMANumber": "2314",
+    "FLAVISNumber": "09.078",
+    "INCIName": "",
+    "IUPACName": "3,7-Dimethyloct-6-en-1-yl formate",
+    "availableSolutions": "",
+    "dosage": "",
+    "flavorDescription": [
+        "strong geranium",
+        "rose character",
+        "slightly citrus",
+        "fruity",
+        "sweet"
+    ],
+    "molecularWeight": "184.28",
+    "olfactoryDescription": [
+        "floral",
+        "rose",
+        "pear",
+        "geranium"
+    ],
+    "olfactoryFamily": "floral",
+    "perfumeryUse": "",
+    "productName": "Citronellyl formate",
+    "productNumber": "103597",
+    "stability": [
+        {
+            "body lotion": "good"
+        },
+        {
+            "shampoo/shower gel": "good"
+        },
+        {
+            "soap": "good"
+        },
+        {
+            "ap roll-on 15%": "good"
+        },
+        {
+            "detergent powder conc.": "very good"
+        },
+        {
+            "cleaner liquid citric acid": "good"
+        },
+        {
+            "cleaner apc liquid": "good"
+        },
+        {
+            "bleach": "poor"
+        }
+    ],
+    "synonyms": "Citronellyl methanoate",
+    "useLevel": "up to 10%",
+    "usefulIn": ""
+}
